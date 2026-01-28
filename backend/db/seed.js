@@ -4,7 +4,11 @@ const { generateOccupancy } = require('../utils/simulation');
 const seed = async () => {
     try {
         await initDB();
-        console.log('Seeding data...');
+
+        // Explicitly clear tables for seeding
+        await new Promise((resolve) => db.exec('DELETE', resolve));
+
+        console.log('Seeding JSON Database...');
 
         const spaces = [
             { name: 'Grand Library', type: 'library', capacity: 200 },
@@ -15,48 +19,61 @@ const seed = async () => {
             { name: 'Computing Lab B', type: 'classroom', capacity: 50 }
         ];
 
-        // Clear existing data
-        db.serialize(() => {
-            db.run('DELETE FROM spaces');
-            db.run('DELETE FROM occupancy_logs');
-            db.run('DELETE FROM predictions');
-            db.run('DELETE FROM events');
-            db.run('DELETE FROM reassignment_logs');
-
-            // Insert Spaces
-            const spaceStmt = db.prepare('INSERT INTO spaces (name, type, capacity) VALUES (?, ?, ?)');
-            spaces.forEach(s => {
-                spaceStmt.run(s.name, s.type, s.capacity);
+        // Seed Spaces
+        for (const s of spaces) {
+            await new Promise((resolve, reject) => {
+                db.run('INSERT INTO spaces (name, type, capacity) VALUES (?, ?, ?)',
+                    [s.name, s.type, s.capacity], (err) => {
+                        if (err) reject(err);
+                        else resolve();
+                    });
             });
-            spaceStmt.finalize();
+        }
+        console.log('Spaces seeded.');
 
-            console.log('Spaces seeded.');
-
-            // Insert initial occupancy logs for currently active spaces
-            db.all('SELECT * FROM spaces', (err, rows) => {
-                if (err) return console.error(err);
-
-                const logStmt = db.prepare('INSERT INTO occupancy_logs (space_id, current_count) VALUES (?, ?)');
-                rows.forEach(row => {
-                    const count = generateOccupancy(row.capacity);
-                    logStmt.run(row.id, count);
-                });
-                logStmt.finalize();
-                console.log('Initial occupancy logs seeded.');
-
-                // Insert sample events
-                const eventStmt = db.prepare('INSERT INTO events (name, priority, space_id, start_time, end_time) VALUES (?, ?, ?, ?, ?)');
-                const now = new Date();
-                const twoHoursLater = new Date(now.getTime() + 2 * 60 * 60 * 1000);
-
-                eventStmt.run('Physics Final Exam', 'exam', rows[1].id, now.toISOString(), twoHoursLater.toISOString());
-                eventStmt.run('Web Dev Workshop', 'class', rows[5].id, now.toISOString(), twoHoursLater.toISOString());
-                eventStmt.finalize();
-
-                console.log('Sample events seeded.');
-                console.log('Seeding complete! You can now start the server.');
+        // Get seeded spaces
+        const rows = await new Promise((resolve, reject) => {
+            db.all('SELECT * FROM spaces', [], (err, rows) => {
+                if (err) reject(err);
+                else resolve(rows);
             });
         });
+
+        // Insert initial occupancy logs
+        for (const row of rows) {
+            const count = generateOccupancy(row.capacity);
+            await new Promise((resolve, reject) => {
+                db.run('INSERT INTO occupancy_logs (space_id, current_count) VALUES (?, ?)',
+                    [row.id, count], (err) => {
+                        if (err) reject(err);
+                        else resolve();
+                    });
+            });
+        }
+        console.log('Initial occupancy logs seeded.');
+
+        // Insert sample events
+        const now = new Date();
+        const twoHoursLater = new Date(now.getTime() + 2 * 60 * 60 * 1000);
+
+        await new Promise((resolve, reject) => {
+            db.run('INSERT INTO events (name, priority, space_id, start_time, end_time) VALUES (?, ?, ?, ?, ?)',
+                ['Physics Final Exam', 'exam', rows[1].id, now.toISOString(), twoHoursLater.toISOString()], (err) => {
+                    if (err) reject(err);
+                    else resolve();
+                });
+        });
+
+        await new Promise((resolve, reject) => {
+            db.run('INSERT INTO events (name, priority, space_id, start_time, end_time) VALUES (?, ?, ?, ?, ?)',
+                ['Web Dev Workshop', 'class', rows[5].id, now.toISOString(), twoHoursLater.toISOString()], (err) => {
+                    if (err) reject(err);
+                    else resolve();
+                });
+        });
+
+        console.log('Sample events seeded.');
+        console.log('JSON Seeding complete!');
 
     } catch (error) {
         console.error('Seeding failed:', error);

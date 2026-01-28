@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Library",
+    "type": "library",
+    "capacity": 200,
+    "timestamp": "2026-01-28T21:20:02.512Z"
+  },
+  {
+    "id": 2,
+    "name": "Room A-101",
+    "type": "classroom",
+    "capacity": 40,
+    "timestamp": "2026-01-28T21:20:02.518Z"
+  },
+  {
+    "id": 3,
+    "name": "Main Auditorium",
+    "type": "hall",
+    "capacity": 500,
+    "timestamp": "2026-01-28T21:20:02.521Z"
+  },
+  {
+    "id": 4,
+    "name": "Science Lab 1",
+    "type": "classroom",
+    "capacity": 30,
+    "timestamp": "2026-01-28T21:20:02.528Z"
+  },
+  {
+    "id": 5,
+    "name": "Student Lounge",
+    "type": "hall",
+    "capacity": 100,
+    "timestamp": "2026-01-28T21:20:02.534Z"
+  },
+  {
+    "id": 6,
+    "name": "Computing Lab B",
+    "type": "classroom",
+    "capacity": 50,
+    "timestamp": "2026-01-28T21:20:02.540Z"
+  }
+]

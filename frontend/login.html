@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRM AP | Secure Access Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body class="overflow-hidden">
+    <canvas id="neuralCanvas"></canvas>
+
+    <div class="min-h-screen flex items-center justify-center p-6 relative z-10">
+        <div class="auth-container glass-card flex flex-col md:flex-row overflow-hidden">
+
+            <!-- Left Side: Branding -->
+            <div class="branding-side p-12 flex flex-col justify-between md:w-[400px]">
+                <div class="flex items-center gap-3">
+                    <div
+                        class="w-10 h-10 rounded-lg bg-gradient-to-br from-violet-600 to-cyan-600 flex items-center justify-center font-bold text-white shadow-lg">
+                        S</div>
+                    <span class="font-bold tracking-widest text-sm uppercase">SRMU-AP</span>
+                </div>
+
+                <div class="space-y-4">
+                    <h1 class="text-4xl font-extrabold leading-tight tracking-tighter">
+                        Smart Campus <br>
+                        <span class="text-violet-500">Access Portal</span>
+                    </h1>
+                    <p class="text-gray-400 text-sm leading-relaxed">
+                        Authorized intelligence interface for student services, academic logistics, and operational
+                        oversight.
+                    </p>
+                </div>
+
+                <div class="text-[10px] text-gray-500 uppercase tracking-widest font-bold">
+                    System ID: SRMAP-NX-770
+                </div>
+            </div>
+
+            <!-- Right Side: Forms -->
+            <div class="form-side p-12 md:flex-1 bg-white/[0.02]">
+
+                <!-- Login Form -->
+                <div id="loginForm" class="auth-form active">
+                    <div class="mb-8">
+                        <h2 class="text-2xl font-bold">Welcome Back</h2>
+                        <p class="text-xs text-gray-400 mt-1 uppercase tracking-widest">Authorized Personnel Only</p>
+                    </div>
+
+                    <form id="signIn" class="space-y-6">
+                        <div class="input-group">
+                            <label>University Email ID</label>
+                            <input type="email" placeholder="john.doe@srmap.edu.in" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label>Password</label>
+                            <input type="password" placeholder="••••••••" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label>Role</label>
+                            <select class="custom-select">
+                                <option value="student">Student</option>
+                                <option value="faculty">Faculty</option>
+                                <option value="admin">System Administrator</option>
+                            </select>
+                        </div>
+
+                        <div class="flex items-center justify-between text-[11px]">
+                            <label
+                                class="flex items-center gap-2 cursor-pointer text-gray-400 hover:text-white transition-colors">
+                                <input type="checkbox" class="accent-violet-500"> Remember Device
+                            </label>
+                            <a href="#" class="text-violet-400 hover:underline">Forgot Password?</a>
+                        </div>
+
+                        <button type="submit" class="auth-btn">
+                            Initialize Session
+                        </button>
+                    </form>
+
+                    <div class="mt-8 text-center text-xs text-gray-500">
+                        New to the system? <a href="#" onclick="toggleForm('signup')"
+                            class="text-cyan-400 font-bold hover:underline">Request Enrollment</a>
+                    </div>
+                </div>
+
+                <!-- Sign Up Form -->
+                <div id="signupForm" class="auth-form">
+                    <div class="mb-8">
+                        <h2 class="text-2xl font-bold">Enrollment Request</h2>
+                        <p class="text-xs text-gray-400 mt-1 uppercase tracking-widest">Join Neural Campus Network</p>
+                    </div>
+
+                    <form id="signUp" class="space-y-4">
+                        <div class="grid grid-cols-2 gap-4">
+                            <div class="input-group">
+                                <label>Full Name</label>
+                                <input type="text" placeholder="John Doe" required>
+                            </div>
+                            <div class="input-group">
+                                <label>Reg ID / Emp ID</label>
+                                <input type="text" placeholder="20250012" required>
+                            </div>
+                        </div>
+
+                        <div class="input-group">
+                            <label>College Email</label>
+                            <input type="email" placeholder="john.doe@srmap.edu.in" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label>School / Department</label>
+                            <select class="custom-select">
+                                <option value="seas">SEAS (Engineering)</option>
+                                <option value="slass">SLASS (Liberal Arts)</option>
+                                <option value="sams">SAMS (Management)</option>
+                            </select>
+                        </div>
+
+                        <div class="grid grid-cols-2 gap-4">
+                            <div class="input-group">
+                                <label>Password</label>
+                                <input type="password" placeholder="••••••••" required>
+                            </div>
+                            <div class="input-group">
+                                <label>Confirm Password</label>
+                                <input type="password" placeholder="••••••••" required>
+                            </div>
+                        </div>
+
+                        <div class="flex items-center gap-2 text-[10px] text-gray-500">
+                            <input type="checkbox" class="accent-cyan-500" required>
+                            <span>I agree to the <a href="#" class="text-cyan-400 hover:underline">Campus Digital Usage
+                                    Policy</a></span>
+                        </div>
+
+                        <button type="submit" class="signup-btn">
+                            Submit Enrollment
+                        </button>
+                    </form>
+
+                    <div class="mt-6 text-center text-xs text-gray-500">
+                        Already enrolled? <a href="#" onclick="toggleForm('login')"
+                            class="text-violet-400 font-bold hover:underline">Authorized Login</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Security Footer -->
+    <div
+        class="fixed bottom-6 left-0 w-full text-center text-[10px] text-gray-600 uppercase tracking-[0.2em] pointer-events-none">
+        Secured by SRM-AP Campus Identity System (v2.0.4)
+    </div>
+
+    <script src="login.js"></script>
+</body>
+
+</html>
