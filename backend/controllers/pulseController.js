@@ -149,3 +149,29 @@ exports.runSimulationStep = () => {
         });
     });
 };
+
+exports.getExamStats = (req, res) => {
+    // Mock data for exams
+    res.json({
+        ongoing: "Mid-Sem Exams",
+        status: "ONGOING",
+        nextExam: "Advanced Algorithms (14:00)",
+        invigilation: "Locked",
+        seatingCapacity: "92%",
+        blocks: [
+            { name: "Block 1", status: "Active", students: 120 },
+            { name: "Block 2", status: "Active", students: 85 }
+        ]
+    });
+};
+
+exports.getDetailedAnalytics = (req, res) => {
+    // Mock data for detailed analytics
+    res.json({
+        throughput: "1.2 GB/s",
+        accuracy: "99.4%",
+        networkStatus: { cyan: 70, violet: 30 },
+        resourceEfficiency: 88,
+        trends: [65, 72, 85, 80, 75, 90, 88]
+    });
+};

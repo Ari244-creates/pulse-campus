@@ -1,0 +1,8360 @@
+[
+  {
+    "id": 1,
+    "space_id": 1,
+    "current_count": 12,
+    "timestamp": "2026-01-28T21:29:33.412Z"
+  },
+  {
+    "id": 2,
+    "space_id": 2,
+    "current_count": 1,
+    "timestamp": "2026-01-28T21:29:33.416Z"
+  },
+  {
+    "id": 3,
+    "space_id": 3,
+    "current_count": 10,
+    "timestamp": "2026-01-28T21:29:33.420Z"
+  },
+  {
+    "id": 4,
+    "space_id": 4,
+    "current_count": 0,
+    "timestamp": "2026-01-28T21:29:33.425Z"
+  },
+  {
+    "id": 5,
+    "space_id": 5,
+    "current_count": 5,
+    "timestamp": "2026-01-28T21:29:33.454Z"
+  },
+  {
+    "id": 6,
+    "space_id": 6,
+    "current_count": 1,
+    "timestamp": "2026-01-28T21:29:33.488Z"
+  },
+  {
+    "id": 7,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 8,
+    "space_id": 8,
+    "current_count": 22,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 9,
+    "space_id": 9,
+    "current_count": 75,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 10,
+    "space_id": 10,
+    "current_count": 38,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 11,
+    "space_id": 11,
+    "current_count": 140,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 12,
+    "space_id": 12,
+    "current_count": 50,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 13,
+    "space_id": 13,
+    "current_count": 12,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 14,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 15,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 16,
+    "space_id": 16,
+    "current_count": 395,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 17,
+    "space_id": 1,
+    "current_count": 158,
+    "timestamp": "2026-01-29T06:50:16.784Z"
+  },
+  {
+    "id": 18,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:50:16.793Z"
+  },
+  {
+    "id": 19,
+    "space_id": 3,
+    "current_count": 351,
+    "timestamp": "2026-01-29T06:50:16.801Z"
+  },
+  {
+    "id": 20,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:50:16.809Z"
+  },
+  {
+    "id": 21,
+    "space_id": 5,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:50:16.817Z"
+  },
+  {
+    "id": 22,
+    "space_id": 6,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:50:16.825Z"
+  },
+  {
+    "id": 23,
+    "space_id": 7,
+    "current_count": 56,
+    "timestamp": "2026-01-29T06:50:16.834Z"
+  },
+  {
+    "id": 24,
+    "space_id": 8,
+    "current_count": 89,
+    "timestamp": "2026-01-29T06:50:16.842Z"
+  },
+  {
+    "id": 25,
+    "space_id": 9,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:50:16.850Z"
+  },
+  {
+    "id": 26,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:50:16.859Z"
+  },
+  {
+    "id": 27,
+    "space_id": 11,
+    "current_count": 127,
+    "timestamp": "2026-01-29T06:50:16.867Z"
+  },
+  {
+    "id": 28,
+    "space_id": 12,
+    "current_count": 250,
+    "timestamp": "2026-01-29T06:50:16.877Z"
+  },
+  {
+    "id": 29,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:50:16.885Z"
+  },
+  {
+    "id": 30,
+    "space_id": 14,
+    "current_count": 75,
+    "timestamp": "2026-01-29T06:50:16.894Z"
+  },
+  {
+    "id": 31,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:50:16.903Z"
+  },
+  {
+    "id": 32,
+    "space_id": 16,
+    "current_count": 329,
+    "timestamp": "2026-01-29T06:50:16.912Z"
+  },
+  {
+    "id": 33,
+    "space_id": 1,
+    "current_count": 165,
+    "timestamp": "2026-01-29T06:50:26.790Z"
+  },
+  {
+    "id": 34,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:50:26.800Z"
+  },
+  {
+    "id": 35,
+    "space_id": 3,
+    "current_count": 448,
+    "timestamp": "2026-01-29T06:50:26.811Z"
+  },
+  {
+    "id": 36,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:50:26.822Z"
+  },
+  {
+    "id": 37,
+    "space_id": 5,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:50:26.834Z"
+  },
+  {
+    "id": 38,
+    "space_id": 6,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:50:26.845Z"
+  },
+  {
+    "id": 39,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:50:26.857Z"
+  },
+  {
+    "id": 40,
+    "space_id": 8,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:50:26.868Z"
+  },
+  {
+    "id": 41,
+    "space_id": 9,
+    "current_count": 59,
+    "timestamp": "2026-01-29T06:50:26.880Z"
+  },
+  {
+    "id": 42,
+    "space_id": 10,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:50:26.892Z"
+  },
+  {
+    "id": 43,
+    "space_id": 11,
+    "current_count": 134,
+    "timestamp": "2026-01-29T06:50:26.904Z"
+  },
+  {
+    "id": 44,
+    "space_id": 12,
+    "current_count": 268,
+    "timestamp": "2026-01-29T06:50:26.917Z"
+  },
+  {
+    "id": 45,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:50:26.929Z"
+  },
+  {
+    "id": 46,
+    "space_id": 14,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:50:26.941Z"
+  },
+  {
+    "id": 47,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:50:26.953Z"
+  },
+  {
+    "id": 48,
+    "space_id": 16,
+    "current_count": 343,
+    "timestamp": "2026-01-29T06:50:26.965Z"
+  },
+  {
+    "id": 49,
+    "space_id": 1,
+    "current_count": 187,
+    "timestamp": "2026-01-29T06:50:36.801Z"
+  },
+  {
+    "id": 50,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:50:36.813Z"
+  },
+  {
+    "id": 51,
+    "space_id": 3,
+    "current_count": 382,
+    "timestamp": "2026-01-29T06:50:36.825Z"
+  },
+  {
+    "id": 52,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:50:36.836Z"
+  },
+  {
+    "id": 53,
+    "space_id": 5,
+    "current_count": 76,
+    "timestamp": "2026-01-29T06:50:36.850Z"
+  },
+  {
+    "id": 54,
+    "space_id": 6,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:50:36.864Z"
+  },
+  {
+    "id": 55,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T06:50:36.876Z"
+  },
+  {
+    "id": 56,
+    "space_id": 8,
+    "current_count": 111,
+    "timestamp": "2026-01-29T06:50:36.888Z"
+  },
+  {
+    "id": 57,
+    "space_id": 9,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:50:36.901Z"
+  },
+  {
+    "id": 58,
+    "space_id": 10,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:50:36.914Z"
+  },
+  {
+    "id": 59,
+    "space_id": 11,
+    "current_count": 123,
+    "timestamp": "2026-01-29T06:50:36.927Z"
+  },
+  {
+    "id": 60,
+    "space_id": 12,
+    "current_count": 227,
+    "timestamp": "2026-01-29T06:50:36.939Z"
+  },
+  {
+    "id": 61,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:50:36.950Z"
+  },
+  {
+    "id": 62,
+    "space_id": 14,
+    "current_count": 82,
+    "timestamp": "2026-01-29T06:50:36.962Z"
+  },
+  {
+    "id": 63,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:50:36.975Z"
+  },
+  {
+    "id": 64,
+    "space_id": 16,
+    "current_count": 295,
+    "timestamp": "2026-01-29T06:50:36.988Z"
+  },
+  {
+    "id": 65,
+    "space_id": 1,
+    "current_count": 170,
+    "timestamp": "2026-01-29T06:50:46.817Z"
+  },
+  {
+    "id": 66,
+    "space_id": 2,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:50:46.836Z"
+  },
+  {
+    "id": 67,
+    "space_id": 3,
+    "current_count": 379,
+    "timestamp": "2026-01-29T06:50:46.856Z"
+  },
+  {
+    "id": 68,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T06:50:46.874Z"
+  },
+  {
+    "id": 69,
+    "space_id": 5,
+    "current_count": 82,
+    "timestamp": "2026-01-29T06:50:46.889Z"
+  },
+  {
+    "id": 70,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:50:46.905Z"
+  },
+  {
+    "id": 71,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T06:50:46.919Z"
+  },
+  {
+    "id": 72,
+    "space_id": 8,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:50:46.934Z"
+  },
+  {
+    "id": 73,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T06:50:46.951Z"
+  },
+  {
+    "id": 74,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:50:46.966Z"
+  },
+  {
+    "id": 75,
+    "space_id": 11,
+    "current_count": 116,
+    "timestamp": "2026-01-29T06:50:46.981Z"
+  },
+  {
+    "id": 76,
+    "space_id": 12,
+    "current_count": 218,
+    "timestamp": "2026-01-29T06:50:46.994Z"
+  },
+  {
+    "id": 77,
+    "space_id": 13,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:50:47.012Z"
+  },
+  {
+    "id": 78,
+    "space_id": 14,
+    "current_count": 93,
+    "timestamp": "2026-01-29T06:50:47.032Z"
+  },
+  {
+    "id": 79,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:50:47.046Z"
+  },
+  {
+    "id": 80,
+    "space_id": 16,
+    "current_count": 370,
+    "timestamp": "2026-01-29T06:50:47.060Z"
+  },
+  {
+    "id": 81,
+    "space_id": 1,
+    "current_count": 150,
+    "timestamp": "2026-01-29T06:50:56.831Z"
+  },
+  {
+    "id": 82,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:50:56.839Z"
+  },
+  {
+    "id": 83,
+    "space_id": 3,
+    "current_count": 393,
+    "timestamp": "2026-01-29T06:50:56.846Z"
+  },
+  {
+    "id": 84,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:50:56.855Z"
+  },
+  {
+    "id": 85,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:50:56.862Z"
+  },
+  {
+    "id": 86,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:50:56.870Z"
+  },
+  {
+    "id": 87,
+    "space_id": 7,
+    "current_count": 53,
+    "timestamp": "2026-01-29T06:50:56.876Z"
+  },
+  {
+    "id": 88,
+    "space_id": 8,
+    "current_count": 95,
+    "timestamp": "2026-01-29T06:50:56.884Z"
+  },
+  {
+    "id": 89,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:50:56.891Z"
+  },
+  {
+    "id": 90,
+    "space_id": 10,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:50:56.898Z"
+  },
+  {
+    "id": 91,
+    "space_id": 11,
+    "current_count": 112,
+    "timestamp": "2026-01-29T06:50:56.906Z"
+  },
+  {
+    "id": 92,
+    "space_id": 12,
+    "current_count": 224,
+    "timestamp": "2026-01-29T06:50:56.920Z"
+  },
+  {
+    "id": 93,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:50:56.930Z"
+  },
+  {
+    "id": 94,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:50:56.938Z"
+  },
+  {
+    "id": 95,
+    "space_id": 15,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:50:56.952Z"
+  },
+  {
+    "id": 96,
+    "space_id": 16,
+    "current_count": 323,
+    "timestamp": "2026-01-29T06:50:56.968Z"
+  },
+  {
+    "id": 97,
+    "space_id": 1,
+    "current_count": 161,
+    "timestamp": "2026-01-29T06:51:06.841Z"
+  },
+  {
+    "id": 98,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:51:06.857Z"
+  },
+  {
+    "id": 99,
+    "space_id": 3,
+    "current_count": 467,
+    "timestamp": "2026-01-29T06:51:06.875Z"
+  },
+  {
+    "id": 100,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:51:06.892Z"
+  },
+  {
+    "id": 101,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:51:06.911Z"
+  },
+  {
+    "id": 102,
+    "space_id": 6,
+    "current_count": 46,
+    "timestamp": "2026-01-29T06:51:06.929Z"
+  },
+  {
+    "id": 103,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:51:06.947Z"
+  },
+  {
+    "id": 104,
+    "space_id": 8,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:51:06.963Z"
+  },
+  {
+    "id": 105,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T06:51:06.979Z"
+  },
+  {
+    "id": 106,
+    "space_id": 10,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:51:06.995Z"
+  },
+  {
+    "id": 107,
+    "space_id": 11,
+    "current_count": 118,
+    "timestamp": "2026-01-29T06:51:07.012Z"
+  },
+  {
+    "id": 108,
+    "space_id": 12,
+    "current_count": 255,
+    "timestamp": "2026-01-29T06:51:07.029Z"
+  },
+  {
+    "id": 109,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:51:07.046Z"
+  },
+  {
+    "id": 110,
+    "space_id": 14,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:51:07.062Z"
+  },
+  {
+    "id": 111,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:51:07.079Z"
+  },
+  {
+    "id": 112,
+    "space_id": 16,
+    "current_count": 376,
+    "timestamp": "2026-01-29T06:51:07.096Z"
+  },
+  {
+    "id": 113,
+    "space_id": 1,
+    "current_count": 150,
+    "timestamp": "2026-01-29T06:51:16.848Z"
+  },
+  {
+    "id": 114,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:51:16.867Z"
+  },
+  {
+    "id": 115,
+    "space_id": 3,
+    "current_count": 416,
+    "timestamp": "2026-01-29T06:51:16.889Z"
+  },
+  {
+    "id": 116,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:51:16.908Z"
+  },
+  {
+    "id": 117,
+    "space_id": 5,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:51:16.929Z"
+  },
+  {
+    "id": 118,
+    "space_id": 6,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:51:16.951Z"
+  },
+  {
+    "id": 119,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:51:16.975Z"
+  },
+  {
+    "id": 120,
+    "space_id": 8,
+    "current_count": 94,
+    "timestamp": "2026-01-29T06:51:16.999Z"
+  },
+  {
+    "id": 121,
+    "space_id": 9,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:51:17.018Z"
+  },
+  {
+    "id": 122,
+    "space_id": 10,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:51:17.038Z"
+  },
+  {
+    "id": 123,
+    "space_id": 11,
+    "current_count": 114,
+    "timestamp": "2026-01-29T06:51:17.058Z"
+  },
+  {
+    "id": 124,
+    "space_id": 12,
+    "current_count": 242,
+    "timestamp": "2026-01-29T06:51:17.076Z"
+  },
+  {
+    "id": 125,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:51:17.098Z"
+  },
+  {
+    "id": 126,
+    "space_id": 14,
+    "current_count": 83,
+    "timestamp": "2026-01-29T06:51:17.118Z"
+  },
+  {
+    "id": 127,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:51:17.142Z"
+  },
+  {
+    "id": 128,
+    "space_id": 16,
+    "current_count": 290,
+    "timestamp": "2026-01-29T06:51:17.165Z"
+  },
+  {
+    "id": 129,
+    "space_id": 1,
+    "current_count": 161,
+    "timestamp": "2026-01-29T06:51:26.861Z"
+  },
+  {
+    "id": 130,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:51:26.896Z"
+  },
+  {
+    "id": 131,
+    "space_id": 3,
+    "current_count": 405,
+    "timestamp": "2026-01-29T06:51:26.932Z"
+  },
+  {
+    "id": 132,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:51:26.965Z"
+  },
+  {
+    "id": 133,
+    "space_id": 5,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:51:26.992Z"
+  },
+  {
+    "id": 134,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:51:27.019Z"
+  },
+  {
+    "id": 135,
+    "space_id": 7,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:51:27.042Z"
+  },
+  {
+    "id": 136,
+    "space_id": 8,
+    "current_count": 104,
+    "timestamp": "2026-01-29T06:51:27.080Z"
+  },
+  {
+    "id": 137,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T06:51:27.101Z"
+  },
+  {
+    "id": 138,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:51:27.124Z"
+  },
+  {
+    "id": 139,
+    "space_id": 11,
+    "current_count": 110,
+    "timestamp": "2026-01-29T06:51:27.148Z"
+  },
+  {
+    "id": 140,
+    "space_id": 12,
+    "current_count": 236,
+    "timestamp": "2026-01-29T06:51:27.185Z"
+  },
+  {
+    "id": 141,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:51:27.214Z"
+  },
+  {
+    "id": 142,
+    "space_id": 14,
+    "current_count": 89,
+    "timestamp": "2026-01-29T06:51:27.238Z"
+  },
+  {
+    "id": 143,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:51:27.265Z"
+  },
+  {
+    "id": 144,
+    "space_id": 16,
+    "current_count": 379,
+    "timestamp": "2026-01-29T06:51:27.299Z"
+  },
+  {
+    "id": 145,
+    "space_id": 1,
+    "current_count": 163,
+    "timestamp": "2026-01-29T06:51:36.862Z"
+  },
+  {
+    "id": 146,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:51:36.882Z"
+  },
+  {
+    "id": 147,
+    "space_id": 3,
+    "current_count": 431,
+    "timestamp": "2026-01-29T06:51:36.903Z"
+  },
+  {
+    "id": 148,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:51:36.924Z"
+  },
+  {
+    "id": 149,
+    "space_id": 5,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:51:36.945Z"
+  },
+  {
+    "id": 150,
+    "space_id": 6,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:51:36.965Z"
+  },
+  {
+    "id": 151,
+    "space_id": 7,
+    "current_count": 46,
+    "timestamp": "2026-01-29T06:51:36.985Z"
+  },
+  {
+    "id": 152,
+    "space_id": 8,
+    "current_count": 99,
+    "timestamp": "2026-01-29T06:51:36.997Z"
+  },
+  {
+    "id": 153,
+    "space_id": 9,
+    "current_count": 58,
+    "timestamp": "2026-01-29T06:51:37.017Z"
+  },
+  {
+    "id": 154,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:51:37.039Z"
+  },
+  {
+    "id": 155,
+    "space_id": 11,
+    "current_count": 138,
+    "timestamp": "2026-01-29T06:51:37.060Z"
+  },
+  {
+    "id": 156,
+    "space_id": 12,
+    "current_count": 225,
+    "timestamp": "2026-01-29T06:51:37.081Z"
+  },
+  {
+    "id": 157,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:51:37.102Z"
+  },
+  {
+    "id": 158,
+    "space_id": 14,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:51:37.123Z"
+  },
+  {
+    "id": 159,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:51:37.144Z"
+  },
+  {
+    "id": 160,
+    "space_id": 16,
+    "current_count": 348,
+    "timestamp": "2026-01-29T06:51:37.165Z"
+  },
+  {
+    "id": 161,
+    "space_id": 1,
+    "current_count": 175,
+    "timestamp": "2026-01-29T06:51:46.871Z"
+  },
+  {
+    "id": 162,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:51:46.896Z"
+  },
+  {
+    "id": 163,
+    "space_id": 3,
+    "current_count": 381,
+    "timestamp": "2026-01-29T06:51:46.917Z"
+  },
+  {
+    "id": 164,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:51:46.942Z"
+  },
+  {
+    "id": 165,
+    "space_id": 5,
+    "current_count": 81,
+    "timestamp": "2026-01-29T06:51:46.965Z"
+  },
+  {
+    "id": 166,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:51:46.987Z"
+  },
+  {
+    "id": 167,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:51:47.009Z"
+  },
+  {
+    "id": 168,
+    "space_id": 8,
+    "current_count": 111,
+    "timestamp": "2026-01-29T06:51:47.030Z"
+  },
+  {
+    "id": 169,
+    "space_id": 9,
+    "current_count": 64,
+    "timestamp": "2026-01-29T06:51:47.052Z"
+  },
+  {
+    "id": 170,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:51:47.075Z"
+  },
+  {
+    "id": 171,
+    "space_id": 11,
+    "current_count": 136,
+    "timestamp": "2026-01-29T06:51:47.097Z"
+  },
+  {
+    "id": 172,
+    "space_id": 12,
+    "current_count": 255,
+    "timestamp": "2026-01-29T06:51:47.120Z"
+  },
+  {
+    "id": 173,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:51:47.142Z"
+  },
+  {
+    "id": 174,
+    "space_id": 14,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:51:47.164Z"
+  },
+  {
+    "id": 175,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:51:47.189Z"
+  },
+  {
+    "id": 176,
+    "space_id": 16,
+    "current_count": 375,
+    "timestamp": "2026-01-29T06:51:47.212Z"
+  },
+  {
+    "id": 177,
+    "space_id": 1,
+    "current_count": 145,
+    "timestamp": "2026-01-29T06:51:56.871Z"
+  },
+  {
+    "id": 178,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:51:56.894Z"
+  },
+  {
+    "id": 179,
+    "space_id": 3,
+    "current_count": 456,
+    "timestamp": "2026-01-29T06:51:56.917Z"
+  },
+  {
+    "id": 180,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:51:56.941Z"
+  },
+  {
+    "id": 181,
+    "space_id": 5,
+    "current_count": 82,
+    "timestamp": "2026-01-29T06:51:56.963Z"
+  },
+  {
+    "id": 182,
+    "space_id": 6,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:51:56.986Z"
+  },
+  {
+    "id": 183,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T06:51:57.008Z"
+  },
+  {
+    "id": 184,
+    "space_id": 8,
+    "current_count": 99,
+    "timestamp": "2026-01-29T06:51:57.034Z"
+  },
+  {
+    "id": 185,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T06:51:57.059Z"
+  },
+  {
+    "id": 186,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:51:57.082Z"
+  },
+  {
+    "id": 187,
+    "space_id": 11,
+    "current_count": 111,
+    "timestamp": "2026-01-29T06:51:57.106Z"
+  },
+  {
+    "id": 188,
+    "space_id": 12,
+    "current_count": 244,
+    "timestamp": "2026-01-29T06:51:57.129Z"
+  },
+  {
+    "id": 189,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:51:57.153Z"
+  },
+  {
+    "id": 190,
+    "space_id": 14,
+    "current_count": 75,
+    "timestamp": "2026-01-29T06:51:57.177Z"
+  },
+  {
+    "id": 191,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:51:57.204Z"
+  },
+  {
+    "id": 192,
+    "space_id": 16,
+    "current_count": 291,
+    "timestamp": "2026-01-29T06:51:57.229Z"
+  },
+  {
+    "id": 193,
+    "space_id": 1,
+    "current_count": 141,
+    "timestamp": "2026-01-29T06:52:06.875Z"
+  },
+  {
+    "id": 194,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:52:06.896Z"
+  },
+  {
+    "id": 195,
+    "space_id": 3,
+    "current_count": 375,
+    "timestamp": "2026-01-29T06:52:06.919Z"
+  },
+  {
+    "id": 196,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:52:06.935Z"
+  },
+  {
+    "id": 197,
+    "space_id": 5,
+    "current_count": 83,
+    "timestamp": "2026-01-29T06:52:06.958Z"
+  },
+  {
+    "id": 198,
+    "space_id": 6,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:52:06.981Z"
+  },
+  {
+    "id": 199,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T06:52:07.005Z"
+  },
+  {
+    "id": 200,
+    "space_id": 8,
+    "current_count": 111,
+    "timestamp": "2026-01-29T06:52:07.030Z"
+  },
+  {
+    "id": 201,
+    "space_id": 9,
+    "current_count": 64,
+    "timestamp": "2026-01-29T06:52:07.058Z"
+  },
+  {
+    "id": 202,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:52:07.086Z"
+  },
+  {
+    "id": 203,
+    "space_id": 11,
+    "current_count": 136,
+    "timestamp": "2026-01-29T06:52:07.118Z"
+  },
+  {
+    "id": 204,
+    "space_id": 12,
+    "current_count": 238,
+    "timestamp": "2026-01-29T06:52:07.146Z"
+  },
+  {
+    "id": 205,
+    "space_id": 13,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:52:07.175Z"
+  },
+  {
+    "id": 206,
+    "space_id": 14,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:52:07.203Z"
+  },
+  {
+    "id": 207,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:52:07.235Z"
+  },
+  {
+    "id": 208,
+    "space_id": 16,
+    "current_count": 289,
+    "timestamp": "2026-01-29T06:52:07.265Z"
+  },
+  {
+    "id": 209,
+    "space_id": 1,
+    "current_count": 189,
+    "timestamp": "2026-01-29T06:52:16.884Z"
+  },
+  {
+    "id": 210,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:52:16.911Z"
+  },
+  {
+    "id": 211,
+    "space_id": 3,
+    "current_count": 455,
+    "timestamp": "2026-01-29T06:52:16.937Z"
+  },
+  {
+    "id": 212,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T06:52:16.962Z"
+  },
+  {
+    "id": 213,
+    "space_id": 5,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:52:16.986Z"
+  },
+  {
+    "id": 214,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:52:17.011Z"
+  },
+  {
+    "id": 215,
+    "space_id": 7,
+    "current_count": 53,
+    "timestamp": "2026-01-29T06:52:17.038Z"
+  },
+  {
+    "id": 216,
+    "space_id": 8,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:52:17.065Z"
+  },
+  {
+    "id": 217,
+    "space_id": 9,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:52:17.091Z"
+  },
+  {
+    "id": 218,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:52:17.118Z"
+  },
+  {
+    "id": 219,
+    "space_id": 11,
+    "current_count": 112,
+    "timestamp": "2026-01-29T06:52:17.143Z"
+  },
+  {
+    "id": 220,
+    "space_id": 12,
+    "current_count": 278,
+    "timestamp": "2026-01-29T06:52:17.170Z"
+  },
+  {
+    "id": 221,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:52:17.196Z"
+  },
+  {
+    "id": 222,
+    "space_id": 14,
+    "current_count": 83,
+    "timestamp": "2026-01-29T06:52:17.223Z"
+  },
+  {
+    "id": 223,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:52:17.250Z"
+  },
+  {
+    "id": 224,
+    "space_id": 16,
+    "current_count": 282,
+    "timestamp": "2026-01-29T06:52:17.277Z"
+  },
+  {
+    "id": 225,
+    "space_id": 1,
+    "current_count": 142,
+    "timestamp": "2026-01-29T06:52:20.609Z"
+  },
+  {
+    "id": 226,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:52:20.634Z"
+  },
+  {
+    "id": 227,
+    "space_id": 3,
+    "current_count": 461,
+    "timestamp": "2026-01-29T06:52:20.659Z"
+  },
+  {
+    "id": 228,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:52:20.684Z"
+  },
+  {
+    "id": 229,
+    "space_id": 5,
+    "current_count": 82,
+    "timestamp": "2026-01-29T06:52:20.707Z"
+  },
+  {
+    "id": 230,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:52:20.730Z"
+  },
+  {
+    "id": 231,
+    "space_id": 7,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:52:20.751Z"
+  },
+  {
+    "id": 232,
+    "space_id": 8,
+    "current_count": 108,
+    "timestamp": "2026-01-29T06:52:20.783Z"
+  },
+  {
+    "id": 233,
+    "space_id": 9,
+    "current_count": 68,
+    "timestamp": "2026-01-29T06:52:20.813Z"
+  },
+  {
+    "id": 234,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:52:20.842Z"
+  },
+  {
+    "id": 235,
+    "space_id": 11,
+    "current_count": 121,
+    "timestamp": "2026-01-29T06:52:20.869Z"
+  },
+  {
+    "id": 236,
+    "space_id": 12,
+    "current_count": 241,
+    "timestamp": "2026-01-29T06:52:20.897Z"
+  },
+  {
+    "id": 237,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:52:20.925Z"
+  },
+  {
+    "id": 238,
+    "space_id": 14,
+    "current_count": 93,
+    "timestamp": "2026-01-29T06:52:20.951Z"
+  },
+  {
+    "id": 239,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:52:20.978Z"
+  },
+  {
+    "id": 240,
+    "space_id": 16,
+    "current_count": 290,
+    "timestamp": "2026-01-29T06:52:21.005Z"
+  },
+  {
+    "id": 241,
+    "space_id": 1,
+    "current_count": 154,
+    "timestamp": "2026-01-29T06:52:30.621Z"
+  },
+  {
+    "id": 242,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:52:30.652Z"
+  },
+  {
+    "id": 243,
+    "space_id": 3,
+    "current_count": 430,
+    "timestamp": "2026-01-29T06:52:30.680Z"
+  },
+  {
+    "id": 244,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:52:30.709Z"
+  },
+  {
+    "id": 245,
+    "space_id": 5,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:52:30.736Z"
+  },
+  {
+    "id": 246,
+    "space_id": 6,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:52:30.764Z"
+  },
+  {
+    "id": 247,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:52:30.793Z"
+  },
+  {
+    "id": 248,
+    "space_id": 8,
+    "current_count": 108,
+    "timestamp": "2026-01-29T06:52:30.826Z"
+  },
+  {
+    "id": 249,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T06:52:30.855Z"
+  },
+  {
+    "id": 250,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:52:30.884Z"
+  },
+  {
+    "id": 251,
+    "space_id": 11,
+    "current_count": 114,
+    "timestamp": "2026-01-29T06:52:30.925Z"
+  },
+  {
+    "id": 252,
+    "space_id": 12,
+    "current_count": 240,
+    "timestamp": "2026-01-29T06:52:30.959Z"
+  },
+  {
+    "id": 253,
+    "space_id": 13,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:52:30.991Z"
+  },
+  {
+    "id": 254,
+    "space_id": 14,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:52:31.035Z"
+  },
+  {
+    "id": 255,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:52:31.057Z"
+  },
+  {
+    "id": 256,
+    "space_id": 16,
+    "current_count": 372,
+    "timestamp": "2026-01-29T06:52:31.082Z"
+  },
+  {
+    "id": 257,
+    "space_id": 1,
+    "current_count": 176,
+    "timestamp": "2026-01-29T06:52:40.626Z"
+  },
+  {
+    "id": 258,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:52:40.660Z"
+  },
+  {
+    "id": 259,
+    "space_id": 3,
+    "current_count": 467,
+    "timestamp": "2026-01-29T06:52:40.690Z"
+  },
+  {
+    "id": 260,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:52:40.719Z"
+  },
+  {
+    "id": 261,
+    "space_id": 5,
+    "current_count": 84,
+    "timestamp": "2026-01-29T06:52:40.749Z"
+  },
+  {
+    "id": 262,
+    "space_id": 6,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:52:40.779Z"
+  },
+  {
+    "id": 263,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:52:40.810Z"
+  },
+  {
+    "id": 264,
+    "space_id": 8,
+    "current_count": 109,
+    "timestamp": "2026-01-29T06:52:40.840Z"
+  },
+  {
+    "id": 265,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:52:40.871Z"
+  },
+  {
+    "id": 266,
+    "space_id": 10,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:52:40.901Z"
+  },
+  {
+    "id": 267,
+    "space_id": 11,
+    "current_count": 133,
+    "timestamp": "2026-01-29T06:52:40.932Z"
+  },
+  {
+    "id": 268,
+    "space_id": 12,
+    "current_count": 283,
+    "timestamp": "2026-01-29T06:52:40.961Z"
+  },
+  {
+    "id": 269,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:52:40.992Z"
+  },
+  {
+    "id": 270,
+    "space_id": 14,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:52:41.021Z"
+  },
+  {
+    "id": 271,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:52:41.052Z"
+  },
+  {
+    "id": 272,
+    "space_id": 16,
+    "current_count": 343,
+    "timestamp": "2026-01-29T06:52:41.083Z"
+  },
+  {
+    "id": 273,
+    "space_id": 1,
+    "current_count": 176,
+    "timestamp": "2026-01-29T06:52:50.628Z"
+  },
+  {
+    "id": 274,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:52:50.661Z"
+  },
+  {
+    "id": 275,
+    "space_id": 3,
+    "current_count": 431,
+    "timestamp": "2026-01-29T06:52:50.691Z"
+  },
+  {
+    "id": 276,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:52:50.720Z"
+  },
+  {
+    "id": 277,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:52:50.750Z"
+  },
+  {
+    "id": 278,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:52:50.777Z"
+  },
+  {
+    "id": 279,
+    "space_id": 7,
+    "current_count": 50,
+    "timestamp": "2026-01-29T06:52:50.808Z"
+  },
+  {
+    "id": 280,
+    "space_id": 8,
+    "current_count": 113,
+    "timestamp": "2026-01-29T06:52:50.840Z"
+  },
+  {
+    "id": 281,
+    "space_id": 9,
+    "current_count": 69,
+    "timestamp": "2026-01-29T06:52:50.876Z"
+  },
+  {
+    "id": 282,
+    "space_id": 10,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:52:50.908Z"
+  },
+  {
+    "id": 283,
+    "space_id": 11,
+    "current_count": 131,
+    "timestamp": "2026-01-29T06:52:50.944Z"
+  },
+  {
+    "id": 284,
+    "space_id": 12,
+    "current_count": 237,
+    "timestamp": "2026-01-29T06:52:50.975Z"
+  },
+  {
+    "id": 285,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:52:51.008Z"
+  },
+  {
+    "id": 286,
+    "space_id": 14,
+    "current_count": 72,
+    "timestamp": "2026-01-29T06:52:51.037Z"
+  },
+  {
+    "id": 287,
+    "space_id": 15,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:52:51.068Z"
+  },
+  {
+    "id": 288,
+    "space_id": 16,
+    "current_count": 304,
+    "timestamp": "2026-01-29T06:52:51.099Z"
+  },
+  {
+    "id": 289,
+    "space_id": 1,
+    "current_count": 151,
+    "timestamp": "2026-01-29T06:53:00.629Z"
+  },
+  {
+    "id": 290,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:53:00.662Z"
+  },
+  {
+    "id": 291,
+    "space_id": 3,
+    "current_count": 455,
+    "timestamp": "2026-01-29T06:53:00.695Z"
+  },
+  {
+    "id": 292,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:53:00.728Z"
+  },
+  {
+    "id": 293,
+    "space_id": 5,
+    "current_count": 80,
+    "timestamp": "2026-01-29T06:53:00.761Z"
+  },
+  {
+    "id": 294,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:53:00.797Z"
+  },
+  {
+    "id": 295,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:53:00.830Z"
+  },
+  {
+    "id": 296,
+    "space_id": 8,
+    "current_count": 106,
+    "timestamp": "2026-01-29T06:53:00.860Z"
+  },
+  {
+    "id": 297,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:53:00.884Z"
+  },
+  {
+    "id": 298,
+    "space_id": 10,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:53:00.906Z"
+  },
+  {
+    "id": 299,
+    "space_id": 11,
+    "current_count": 105,
+    "timestamp": "2026-01-29T06:53:00.927Z"
+  },
+  {
+    "id": 300,
+    "space_id": 12,
+    "current_count": 283,
+    "timestamp": "2026-01-29T06:53:00.959Z"
+  },
+  {
+    "id": 301,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:53:00.989Z"
+  },
+  {
+    "id": 302,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:53:01.019Z"
+  },
+  {
+    "id": 303,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:53:01.055Z"
+  },
+  {
+    "id": 304,
+    "space_id": 16,
+    "current_count": 290,
+    "timestamp": "2026-01-29T06:53:01.090Z"
+  },
+  {
+    "id": 305,
+    "space_id": 1,
+    "current_count": 141,
+    "timestamp": "2026-01-29T06:53:10.639Z"
+  },
+  {
+    "id": 306,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:53:10.692Z"
+  },
+  {
+    "id": 307,
+    "space_id": 3,
+    "current_count": 353,
+    "timestamp": "2026-01-29T06:53:10.736Z"
+  },
+  {
+    "id": 308,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:53:10.768Z"
+  },
+  {
+    "id": 309,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:53:10.800Z"
+  },
+  {
+    "id": 310,
+    "space_id": 6,
+    "current_count": 38,
+    "timestamp": "2026-01-29T06:53:10.842Z"
+  },
+  {
+    "id": 311,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:53:10.890Z"
+  },
+  {
+    "id": 312,
+    "space_id": 8,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:53:10.947Z"
+  },
+  {
+    "id": 313,
+    "space_id": 9,
+    "current_count": 66,
+    "timestamp": "2026-01-29T06:53:10.998Z"
+  },
+  {
+    "id": 314,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:53:11.061Z"
+  },
+  {
+    "id": 315,
+    "space_id": 11,
+    "current_count": 112,
+    "timestamp": "2026-01-29T06:53:11.143Z"
+  },
+  {
+    "id": 316,
+    "space_id": 12,
+    "current_count": 245,
+    "timestamp": "2026-01-29T06:53:11.185Z"
+  },
+  {
+    "id": 317,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:53:11.220Z"
+  },
+  {
+    "id": 318,
+    "space_id": 14,
+    "current_count": 76,
+    "timestamp": "2026-01-29T06:53:11.273Z"
+  },
+  {
+    "id": 319,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:53:11.336Z"
+  },
+  {
+    "id": 320,
+    "space_id": 16,
+    "current_count": 353,
+    "timestamp": "2026-01-29T06:53:11.393Z"
+  },
+  {
+    "id": 321,
+    "space_id": 1,
+    "current_count": 151,
+    "timestamp": "2026-01-29T06:53:20.642Z"
+  },
+  {
+    "id": 322,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:53:20.708Z"
+  },
+  {
+    "id": 323,
+    "space_id": 3,
+    "current_count": 451,
+    "timestamp": "2026-01-29T06:53:20.782Z"
+  },
+  {
+    "id": 324,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:53:20.844Z"
+  },
+  {
+    "id": 325,
+    "space_id": 5,
+    "current_count": 75,
+    "timestamp": "2026-01-29T06:53:20.884Z"
+  },
+  {
+    "id": 326,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:53:20.922Z"
+  },
+  {
+    "id": 327,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T06:53:20.958Z"
+  },
+  {
+    "id": 328,
+    "space_id": 8,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:53:21.005Z"
+  },
+  {
+    "id": 329,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T06:53:21.040Z"
+  },
+  {
+    "id": 330,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:53:21.068Z"
+  },
+  {
+    "id": 331,
+    "space_id": 11,
+    "current_count": 141,
+    "timestamp": "2026-01-29T06:53:21.099Z"
+  },
+  {
+    "id": 332,
+    "space_id": 12,
+    "current_count": 244,
+    "timestamp": "2026-01-29T06:53:21.137Z"
+  },
+  {
+    "id": 333,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:53:21.172Z"
+  },
+  {
+    "id": 334,
+    "space_id": 14,
+    "current_count": 76,
+    "timestamp": "2026-01-29T06:53:21.208Z"
+  },
+  {
+    "id": 335,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:53:21.262Z"
+  },
+  {
+    "id": 336,
+    "space_id": 16,
+    "current_count": 376,
+    "timestamp": "2026-01-29T06:53:21.325Z"
+  },
+  {
+    "id": 337,
+    "space_id": 1,
+    "current_count": 144,
+    "timestamp": "2026-01-29T06:53:30.654Z"
+  },
+  {
+    "id": 338,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:53:30.691Z"
+  },
+  {
+    "id": 339,
+    "space_id": 3,
+    "current_count": 375,
+    "timestamp": "2026-01-29T06:53:30.729Z"
+  },
+  {
+    "id": 340,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:53:30.782Z"
+  },
+  {
+    "id": 341,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:53:30.831Z"
+  },
+  {
+    "id": 342,
+    "space_id": 6,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:53:30.870Z"
+  },
+  {
+    "id": 343,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:53:30.917Z"
+  },
+  {
+    "id": 344,
+    "space_id": 8,
+    "current_count": 101,
+    "timestamp": "2026-01-29T06:53:30.963Z"
+  },
+  {
+    "id": 345,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T06:53:31.008Z"
+  },
+  {
+    "id": 346,
+    "space_id": 10,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:53:31.046Z"
+  },
+  {
+    "id": 347,
+    "space_id": 11,
+    "current_count": 132,
+    "timestamp": "2026-01-29T06:53:31.097Z"
+  },
+  {
+    "id": 348,
+    "space_id": 12,
+    "current_count": 240,
+    "timestamp": "2026-01-29T06:53:31.142Z"
+  },
+  {
+    "id": 349,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:53:31.186Z"
+  },
+  {
+    "id": 350,
+    "space_id": 14,
+    "current_count": 80,
+    "timestamp": "2026-01-29T06:53:31.223Z"
+  },
+  {
+    "id": 351,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:53:31.270Z"
+  },
+  {
+    "id": 352,
+    "space_id": 16,
+    "current_count": 356,
+    "timestamp": "2026-01-29T06:53:31.324Z"
+  },
+  {
+    "id": 353,
+    "space_id": 1,
+    "current_count": 163,
+    "timestamp": "2026-01-29T06:53:40.663Z"
+  },
+  {
+    "id": 354,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:53:40.721Z"
+  },
+  {
+    "id": 355,
+    "space_id": 3,
+    "current_count": 408,
+    "timestamp": "2026-01-29T06:53:40.763Z"
+  },
+  {
+    "id": 356,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:53:40.825Z"
+  },
+  {
+    "id": 357,
+    "space_id": 5,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:53:40.873Z"
+  },
+  {
+    "id": 358,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:53:40.924Z"
+  },
+  {
+    "id": 359,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:53:40.964Z"
+  },
+  {
+    "id": 360,
+    "space_id": 8,
+    "current_count": 87,
+    "timestamp": "2026-01-29T06:53:41.022Z"
+  },
+  {
+    "id": 361,
+    "space_id": 9,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:53:41.071Z"
+  },
+  {
+    "id": 362,
+    "space_id": 10,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:53:41.124Z"
+  },
+  {
+    "id": 363,
+    "space_id": 11,
+    "current_count": 141,
+    "timestamp": "2026-01-29T06:53:41.175Z"
+  },
+  {
+    "id": 364,
+    "space_id": 12,
+    "current_count": 280,
+    "timestamp": "2026-01-29T06:53:41.217Z"
+  },
+  {
+    "id": 365,
+    "space_id": 13,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:53:41.260Z"
+  },
+  {
+    "id": 366,
+    "space_id": 14,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:53:41.316Z"
+  },
+  {
+    "id": 367,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:53:41.358Z"
+  },
+  {
+    "id": 368,
+    "space_id": 16,
+    "current_count": 333,
+    "timestamp": "2026-01-29T06:53:41.401Z"
+  },
+  {
+    "id": 369,
+    "space_id": 1,
+    "current_count": 159,
+    "timestamp": "2026-01-29T06:53:50.671Z"
+  },
+  {
+    "id": 370,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:53:50.711Z"
+  },
+  {
+    "id": 371,
+    "space_id": 3,
+    "current_count": 402,
+    "timestamp": "2026-01-29T06:53:50.751Z"
+  },
+  {
+    "id": 372,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:53:50.787Z"
+  },
+  {
+    "id": 373,
+    "space_id": 5,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:53:50.827Z"
+  },
+  {
+    "id": 374,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:53:50.866Z"
+  },
+  {
+    "id": 375,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:53:50.904Z"
+  },
+  {
+    "id": 376,
+    "space_id": 8,
+    "current_count": 111,
+    "timestamp": "2026-01-29T06:53:50.941Z"
+  },
+  {
+    "id": 377,
+    "space_id": 9,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:53:50.979Z"
+  },
+  {
+    "id": 378,
+    "space_id": 10,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:53:51.017Z"
+  },
+  {
+    "id": 379,
+    "space_id": 11,
+    "current_count": 126,
+    "timestamp": "2026-01-29T06:53:51.057Z"
+  },
+  {
+    "id": 380,
+    "space_id": 12,
+    "current_count": 266,
+    "timestamp": "2026-01-29T06:53:51.096Z"
+  },
+  {
+    "id": 381,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:53:51.136Z"
+  },
+  {
+    "id": 382,
+    "space_id": 14,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:53:51.177Z"
+  },
+  {
+    "id": 383,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:53:51.222Z"
+  },
+  {
+    "id": 384,
+    "space_id": 16,
+    "current_count": 375,
+    "timestamp": "2026-01-29T06:53:51.262Z"
+  },
+  {
+    "id": 385,
+    "space_id": 1,
+    "current_count": 147,
+    "timestamp": "2026-01-29T06:54:00.679Z"
+  },
+  {
+    "id": 386,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:54:00.720Z"
+  },
+  {
+    "id": 387,
+    "space_id": 3,
+    "current_count": 369,
+    "timestamp": "2026-01-29T06:54:00.760Z"
+  },
+  {
+    "id": 388,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:54:00.799Z"
+  },
+  {
+    "id": 389,
+    "space_id": 5,
+    "current_count": 89,
+    "timestamp": "2026-01-29T06:54:00.840Z"
+  },
+  {
+    "id": 390,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:54:00.881Z"
+  },
+  {
+    "id": 391,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T06:54:00.929Z"
+  },
+  {
+    "id": 392,
+    "space_id": 8,
+    "current_count": 89,
+    "timestamp": "2026-01-29T06:54:00.968Z"
+  },
+  {
+    "id": 393,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T06:54:01.009Z"
+  },
+  {
+    "id": 394,
+    "space_id": 10,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:54:01.051Z"
+  },
+  {
+    "id": 395,
+    "space_id": 11,
+    "current_count": 107,
+    "timestamp": "2026-01-29T06:54:01.090Z"
+  },
+  {
+    "id": 396,
+    "space_id": 12,
+    "current_count": 220,
+    "timestamp": "2026-01-29T06:54:01.132Z"
+  },
+  {
+    "id": 397,
+    "space_id": 13,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:54:01.173Z"
+  },
+  {
+    "id": 398,
+    "space_id": 14,
+    "current_count": 79,
+    "timestamp": "2026-01-29T06:54:01.212Z"
+  },
+  {
+    "id": 399,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:54:01.253Z"
+  },
+  {
+    "id": 400,
+    "space_id": 16,
+    "current_count": 301,
+    "timestamp": "2026-01-29T06:54:01.293Z"
+  },
+  {
+    "id": 401,
+    "space_id": 1,
+    "current_count": 146,
+    "timestamp": "2026-01-29T06:54:10.686Z"
+  },
+  {
+    "id": 402,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:54:10.730Z"
+  },
+  {
+    "id": 403,
+    "space_id": 3,
+    "current_count": 387,
+    "timestamp": "2026-01-29T06:54:10.771Z"
+  },
+  {
+    "id": 404,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:54:10.812Z"
+  },
+  {
+    "id": 405,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:54:10.851Z"
+  },
+  {
+    "id": 406,
+    "space_id": 6,
+    "current_count": 41,
+    "timestamp": "2026-01-29T06:54:10.897Z"
+  },
+  {
+    "id": 407,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:54:10.940Z"
+  },
+  {
+    "id": 408,
+    "space_id": 8,
+    "current_count": 110,
+    "timestamp": "2026-01-29T06:54:10.981Z"
+  },
+  {
+    "id": 409,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:54:11.023Z"
+  },
+  {
+    "id": 410,
+    "space_id": 10,
+    "current_count": 38,
+    "timestamp": "2026-01-29T06:54:11.063Z"
+  },
+  {
+    "id": 411,
+    "space_id": 11,
+    "current_count": 135,
+    "timestamp": "2026-01-29T06:54:11.106Z"
+  },
+  {
+    "id": 412,
+    "space_id": 12,
+    "current_count": 261,
+    "timestamp": "2026-01-29T06:54:11.150Z"
+  },
+  {
+    "id": 413,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:54:11.196Z"
+  },
+  {
+    "id": 414,
+    "space_id": 14,
+    "current_count": 78,
+    "timestamp": "2026-01-29T06:54:11.239Z"
+  },
+  {
+    "id": 415,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:54:11.281Z"
+  },
+  {
+    "id": 416,
+    "space_id": 16,
+    "current_count": 327,
+    "timestamp": "2026-01-29T06:54:11.320Z"
+  },
+  {
+    "id": 417,
+    "space_id": 1,
+    "current_count": 160,
+    "timestamp": "2026-01-29T06:54:20.694Z"
+  },
+  {
+    "id": 418,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:54:20.732Z"
+  },
+  {
+    "id": 419,
+    "space_id": 3,
+    "current_count": 385,
+    "timestamp": "2026-01-29T06:54:20.771Z"
+  },
+  {
+    "id": 420,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:54:20.812Z"
+  },
+  {
+    "id": 421,
+    "space_id": 5,
+    "current_count": 93,
+    "timestamp": "2026-01-29T06:54:20.860Z"
+  },
+  {
+    "id": 422,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:54:20.902Z"
+  },
+  {
+    "id": 423,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T06:54:20.947Z"
+  },
+  {
+    "id": 424,
+    "space_id": 8,
+    "current_count": 112,
+    "timestamp": "2026-01-29T06:54:20.991Z"
+  },
+  {
+    "id": 425,
+    "space_id": 9,
+    "current_count": 75,
+    "timestamp": "2026-01-29T06:54:21.036Z"
+  },
+  {
+    "id": 426,
+    "space_id": 10,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:54:21.082Z"
+  },
+  {
+    "id": 427,
+    "space_id": 11,
+    "current_count": 136,
+    "timestamp": "2026-01-29T06:54:21.125Z"
+  },
+  {
+    "id": 428,
+    "space_id": 12,
+    "current_count": 255,
+    "timestamp": "2026-01-29T06:54:21.167Z"
+  },
+  {
+    "id": 429,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:54:21.212Z"
+  },
+  {
+    "id": 430,
+    "space_id": 14,
+    "current_count": 94,
+    "timestamp": "2026-01-29T06:54:21.255Z"
+  },
+  {
+    "id": 431,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:54:21.295Z"
+  },
+  {
+    "id": 432,
+    "space_id": 16,
+    "current_count": 371,
+    "timestamp": "2026-01-29T06:54:21.336Z"
+  },
+  {
+    "id": 433,
+    "space_id": 1,
+    "current_count": 175,
+    "timestamp": "2026-01-29T06:54:30.702Z"
+  },
+  {
+    "id": 434,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:54:30.749Z"
+  },
+  {
+    "id": 435,
+    "space_id": 3,
+    "current_count": 455,
+    "timestamp": "2026-01-29T06:54:30.791Z"
+  },
+  {
+    "id": 436,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:54:30.836Z"
+  },
+  {
+    "id": 437,
+    "space_id": 5,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:54:30.881Z"
+  },
+  {
+    "id": 438,
+    "space_id": 6,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:54:30.924Z"
+  },
+  {
+    "id": 439,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T06:54:30.971Z"
+  },
+  {
+    "id": 440,
+    "space_id": 8,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:54:31.017Z"
+  },
+  {
+    "id": 441,
+    "space_id": 9,
+    "current_count": 62,
+    "timestamp": "2026-01-29T06:54:31.062Z"
+  },
+  {
+    "id": 442,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:54:31.108Z"
+  },
+  {
+    "id": 443,
+    "space_id": 11,
+    "current_count": 139,
+    "timestamp": "2026-01-29T06:54:31.152Z"
+  },
+  {
+    "id": 444,
+    "space_id": 12,
+    "current_count": 240,
+    "timestamp": "2026-01-29T06:54:31.198Z"
+  },
+  {
+    "id": 445,
+    "space_id": 13,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:54:31.243Z"
+  },
+  {
+    "id": 446,
+    "space_id": 14,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:54:31.285Z"
+  },
+  {
+    "id": 447,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:54:31.327Z"
+  },
+  {
+    "id": 448,
+    "space_id": 16,
+    "current_count": 377,
+    "timestamp": "2026-01-29T06:54:31.375Z"
+  },
+  {
+    "id": 449,
+    "space_id": 1,
+    "current_count": 158,
+    "timestamp": "2026-01-29T06:54:40.712Z"
+  },
+  {
+    "id": 450,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:54:40.761Z"
+  },
+  {
+    "id": 451,
+    "space_id": 3,
+    "current_count": 441,
+    "timestamp": "2026-01-29T06:54:40.808Z"
+  },
+  {
+    "id": 452,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:54:40.851Z"
+  },
+  {
+    "id": 453,
+    "space_id": 5,
+    "current_count": 83,
+    "timestamp": "2026-01-29T06:54:40.896Z"
+  },
+  {
+    "id": 454,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:54:40.943Z"
+  },
+  {
+    "id": 455,
+    "space_id": 7,
+    "current_count": 51,
+    "timestamp": "2026-01-29T06:54:40.987Z"
+  },
+  {
+    "id": 456,
+    "space_id": 8,
+    "current_count": 87,
+    "timestamp": "2026-01-29T06:54:41.031Z"
+  },
+  {
+    "id": 457,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T06:54:41.075Z"
+  },
+  {
+    "id": 458,
+    "space_id": 10,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:54:41.119Z"
+  },
+  {
+    "id": 459,
+    "space_id": 11,
+    "current_count": 124,
+    "timestamp": "2026-01-29T06:54:41.166Z"
+  },
+  {
+    "id": 460,
+    "space_id": 12,
+    "current_count": 228,
+    "timestamp": "2026-01-29T06:54:41.209Z"
+  },
+  {
+    "id": 461,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:54:41.254Z"
+  },
+  {
+    "id": 462,
+    "space_id": 14,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:54:41.300Z"
+  },
+  {
+    "id": 463,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:54:41.346Z"
+  },
+  {
+    "id": 464,
+    "space_id": 16,
+    "current_count": 355,
+    "timestamp": "2026-01-29T06:54:41.400Z"
+  },
+  {
+    "id": 465,
+    "space_id": 1,
+    "current_count": 174,
+    "timestamp": "2026-01-29T06:54:50.714Z"
+  },
+  {
+    "id": 466,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:54:50.763Z"
+  },
+  {
+    "id": 467,
+    "space_id": 3,
+    "current_count": 457,
+    "timestamp": "2026-01-29T06:54:50.813Z"
+  },
+  {
+    "id": 468,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:54:50.860Z"
+  },
+  {
+    "id": 469,
+    "space_id": 5,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:54:50.910Z"
+  },
+  {
+    "id": 470,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:54:50.958Z"
+  },
+  {
+    "id": 471,
+    "space_id": 7,
+    "current_count": 51,
+    "timestamp": "2026-01-29T06:54:51.006Z"
+  },
+  {
+    "id": 472,
+    "space_id": 8,
+    "current_count": 113,
+    "timestamp": "2026-01-29T06:54:51.055Z"
+  },
+  {
+    "id": 473,
+    "space_id": 9,
+    "current_count": 68,
+    "timestamp": "2026-01-29T06:54:51.101Z"
+  },
+  {
+    "id": 474,
+    "space_id": 10,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:54:51.148Z"
+  },
+  {
+    "id": 475,
+    "space_id": 11,
+    "current_count": 110,
+    "timestamp": "2026-01-29T06:54:51.197Z"
+  },
+  {
+    "id": 476,
+    "space_id": 12,
+    "current_count": 251,
+    "timestamp": "2026-01-29T06:54:51.245Z"
+  },
+  {
+    "id": 477,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:54:51.295Z"
+  },
+  {
+    "id": 478,
+    "space_id": 14,
+    "current_count": 81,
+    "timestamp": "2026-01-29T06:54:51.345Z"
+  },
+  {
+    "id": 479,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:54:51.395Z"
+  },
+  {
+    "id": 480,
+    "space_id": 16,
+    "current_count": 314,
+    "timestamp": "2026-01-29T06:54:51.450Z"
+  },
+  {
+    "id": 481,
+    "space_id": 1,
+    "current_count": 140,
+    "timestamp": "2026-01-29T06:55:00.724Z"
+  },
+  {
+    "id": 482,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:55:00.773Z"
+  },
+  {
+    "id": 483,
+    "space_id": 3,
+    "current_count": 413,
+    "timestamp": "2026-01-29T06:55:00.822Z"
+  },
+  {
+    "id": 484,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:55:00.871Z"
+  },
+  {
+    "id": 485,
+    "space_id": 5,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:55:00.925Z"
+  },
+  {
+    "id": 486,
+    "space_id": 6,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:55:00.974Z"
+  },
+  {
+    "id": 487,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:55:01.024Z"
+  },
+  {
+    "id": 488,
+    "space_id": 8,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:55:01.080Z"
+  },
+  {
+    "id": 489,
+    "space_id": 9,
+    "current_count": 72,
+    "timestamp": "2026-01-29T06:55:01.138Z"
+  },
+  {
+    "id": 490,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:55:01.189Z"
+  },
+  {
+    "id": 491,
+    "space_id": 11,
+    "current_count": 135,
+    "timestamp": "2026-01-29T06:55:01.240Z"
+  },
+  {
+    "id": 492,
+    "space_id": 12,
+    "current_count": 260,
+    "timestamp": "2026-01-29T06:55:01.290Z"
+  },
+  {
+    "id": 493,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:55:01.342Z"
+  },
+  {
+    "id": 494,
+    "space_id": 14,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:55:01.398Z"
+  },
+  {
+    "id": 495,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:55:01.452Z"
+  },
+  {
+    "id": 496,
+    "space_id": 16,
+    "current_count": 339,
+    "timestamp": "2026-01-29T06:55:01.508Z"
+  },
+  {
+    "id": 497,
+    "space_id": 1,
+    "current_count": 170,
+    "timestamp": "2026-01-29T06:55:10.739Z"
+  },
+  {
+    "id": 498,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:55:10.787Z"
+  },
+  {
+    "id": 499,
+    "space_id": 3,
+    "current_count": 411,
+    "timestamp": "2026-01-29T06:55:10.837Z"
+  },
+  {
+    "id": 500,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:55:10.885Z"
+  },
+  {
+    "id": 501,
+    "space_id": 5,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:55:10.935Z"
+  },
+  {
+    "id": 502,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:55:10.985Z"
+  },
+  {
+    "id": 503,
+    "space_id": 7,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:55:11.034Z"
+  },
+  {
+    "id": 504,
+    "space_id": 8,
+    "current_count": 104,
+    "timestamp": "2026-01-29T06:55:11.087Z"
+  },
+  {
+    "id": 505,
+    "space_id": 9,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:55:11.142Z"
+  },
+  {
+    "id": 506,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T06:55:11.191Z"
+  },
+  {
+    "id": 507,
+    "space_id": 11,
+    "current_count": 116,
+    "timestamp": "2026-01-29T06:55:11.242Z"
+  },
+  {
+    "id": 508,
+    "space_id": 12,
+    "current_count": 264,
+    "timestamp": "2026-01-29T06:55:11.293Z"
+  },
+  {
+    "id": 509,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:55:11.347Z"
+  },
+  {
+    "id": 510,
+    "space_id": 14,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:55:11.399Z"
+  },
+  {
+    "id": 511,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:55:11.452Z"
+  },
+  {
+    "id": 512,
+    "space_id": 16,
+    "current_count": 296,
+    "timestamp": "2026-01-29T06:55:11.498Z"
+  },
+  {
+    "id": 513,
+    "space_id": 1,
+    "current_count": 182,
+    "timestamp": "2026-01-29T06:55:20.743Z"
+  },
+  {
+    "id": 514,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:55:20.793Z"
+  },
+  {
+    "id": 515,
+    "space_id": 3,
+    "current_count": 464,
+    "timestamp": "2026-01-29T06:55:20.847Z"
+  },
+  {
+    "id": 516,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:55:20.905Z"
+  },
+  {
+    "id": 517,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:55:20.957Z"
+  },
+  {
+    "id": 518,
+    "space_id": 6,
+    "current_count": 38,
+    "timestamp": "2026-01-29T06:55:21.010Z"
+  },
+  {
+    "id": 519,
+    "space_id": 7,
+    "current_count": 50,
+    "timestamp": "2026-01-29T06:55:21.067Z"
+  },
+  {
+    "id": 520,
+    "space_id": 8,
+    "current_count": 104,
+    "timestamp": "2026-01-29T06:55:21.120Z"
+  },
+  {
+    "id": 521,
+    "space_id": 9,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:55:21.173Z"
+  },
+  {
+    "id": 522,
+    "space_id": 10,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:55:21.224Z"
+  },
+  {
+    "id": 523,
+    "space_id": 11,
+    "current_count": 114,
+    "timestamp": "2026-01-29T06:55:21.275Z"
+  },
+  {
+    "id": 524,
+    "space_id": 12,
+    "current_count": 211,
+    "timestamp": "2026-01-29T06:55:21.329Z"
+  },
+  {
+    "id": 525,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:55:21.382Z"
+  },
+  {
+    "id": 526,
+    "space_id": 14,
+    "current_count": 81,
+    "timestamp": "2026-01-29T06:55:21.437Z"
+  },
+  {
+    "id": 527,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:55:21.490Z"
+  },
+  {
+    "id": 528,
+    "space_id": 16,
+    "current_count": 296,
+    "timestamp": "2026-01-29T06:55:21.546Z"
+  },
+  {
+    "id": 529,
+    "space_id": 1,
+    "current_count": 161,
+    "timestamp": "2026-01-29T06:55:30.757Z"
+  },
+  {
+    "id": 530,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:55:30.840Z"
+  },
+  {
+    "id": 531,
+    "space_id": 3,
+    "current_count": 416,
+    "timestamp": "2026-01-29T06:55:30.897Z"
+  },
+  {
+    "id": 532,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:55:30.965Z"
+  },
+  {
+    "id": 533,
+    "space_id": 5,
+    "current_count": 89,
+    "timestamp": "2026-01-29T06:55:31.039Z"
+  },
+  {
+    "id": 534,
+    "space_id": 6,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:55:31.094Z"
+  },
+  {
+    "id": 535,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:55:31.156Z"
+  },
+  {
+    "id": 536,
+    "space_id": 8,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:55:31.220Z"
+  },
+  {
+    "id": 537,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T06:55:31.282Z"
+  },
+  {
+    "id": 538,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:55:31.352Z"
+  },
+  {
+    "id": 539,
+    "space_id": 11,
+    "current_count": 128,
+    "timestamp": "2026-01-29T06:55:31.407Z"
+  },
+  {
+    "id": 540,
+    "space_id": 12,
+    "current_count": 262,
+    "timestamp": "2026-01-29T06:55:31.503Z"
+  },
+  {
+    "id": 541,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:55:31.592Z"
+  },
+  {
+    "id": 542,
+    "space_id": 14,
+    "current_count": 84,
+    "timestamp": "2026-01-29T06:55:31.666Z"
+  },
+  {
+    "id": 543,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:55:31.722Z"
+  },
+  {
+    "id": 544,
+    "space_id": 16,
+    "current_count": 342,
+    "timestamp": "2026-01-29T06:55:31.817Z"
+  },
+  {
+    "id": 545,
+    "space_id": 1,
+    "current_count": 186,
+    "timestamp": "2026-01-29T06:55:40.765Z"
+  },
+  {
+    "id": 546,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:55:40.850Z"
+  },
+  {
+    "id": 547,
+    "space_id": 3,
+    "current_count": 428,
+    "timestamp": "2026-01-29T06:55:40.947Z"
+  },
+  {
+    "id": 548,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T06:55:41.004Z"
+  },
+  {
+    "id": 549,
+    "space_id": 5,
+    "current_count": 84,
+    "timestamp": "2026-01-29T06:55:41.053Z"
+  },
+  {
+    "id": 550,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:55:41.110Z"
+  },
+  {
+    "id": 551,
+    "space_id": 7,
+    "current_count": 56,
+    "timestamp": "2026-01-29T06:55:41.186Z"
+  },
+  {
+    "id": 552,
+    "space_id": 8,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:55:41.249Z"
+  },
+  {
+    "id": 553,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T06:55:41.319Z"
+  },
+  {
+    "id": 554,
+    "space_id": 10,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:55:41.406Z"
+  },
+  {
+    "id": 555,
+    "space_id": 11,
+    "current_count": 135,
+    "timestamp": "2026-01-29T06:55:41.471Z"
+  },
+  {
+    "id": 556,
+    "space_id": 12,
+    "current_count": 257,
+    "timestamp": "2026-01-29T06:55:41.530Z"
+  },
+  {
+    "id": 557,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:55:41.597Z"
+  },
+  {
+    "id": 558,
+    "space_id": 14,
+    "current_count": 76,
+    "timestamp": "2026-01-29T06:55:41.665Z"
+  },
+  {
+    "id": 559,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:55:41.727Z"
+  },
+  {
+    "id": 560,
+    "space_id": 16,
+    "current_count": 347,
+    "timestamp": "2026-01-29T06:55:41.826Z"
+  },
+  {
+    "id": 561,
+    "space_id": 1,
+    "current_count": 178,
+    "timestamp": "2026-01-29T06:55:50.776Z"
+  },
+  {
+    "id": 562,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:55:50.867Z"
+  },
+  {
+    "id": 563,
+    "space_id": 3,
+    "current_count": 364,
+    "timestamp": "2026-01-29T06:55:50.918Z"
+  },
+  {
+    "id": 564,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:55:50.977Z"
+  },
+  {
+    "id": 565,
+    "space_id": 5,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:55:51.047Z"
+  },
+  {
+    "id": 566,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:55:51.129Z"
+  },
+  {
+    "id": 567,
+    "space_id": 7,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:55:51.189Z"
+  },
+  {
+    "id": 568,
+    "space_id": 8,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:55:51.250Z"
+  },
+  {
+    "id": 569,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:55:51.314Z"
+  },
+  {
+    "id": 570,
+    "space_id": 10,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:55:51.373Z"
+  },
+  {
+    "id": 571,
+    "space_id": 11,
+    "current_count": 127,
+    "timestamp": "2026-01-29T06:55:51.426Z"
+  },
+  {
+    "id": 572,
+    "space_id": 12,
+    "current_count": 279,
+    "timestamp": "2026-01-29T06:55:51.495Z"
+  },
+  {
+    "id": 573,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:55:51.552Z"
+  },
+  {
+    "id": 574,
+    "space_id": 14,
+    "current_count": 87,
+    "timestamp": "2026-01-29T06:55:51.607Z"
+  },
+  {
+    "id": 575,
+    "space_id": 15,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:55:51.681Z"
+  },
+  {
+    "id": 576,
+    "space_id": 16,
+    "current_count": 335,
+    "timestamp": "2026-01-29T06:55:51.759Z"
+  },
+  {
+    "id": 577,
+    "space_id": 1,
+    "current_count": 182,
+    "timestamp": "2026-01-29T06:56:00.786Z"
+  },
+  {
+    "id": 578,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:56:00.848Z"
+  },
+  {
+    "id": 579,
+    "space_id": 3,
+    "current_count": 409,
+    "timestamp": "2026-01-29T06:56:00.904Z"
+  },
+  {
+    "id": 580,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:56:00.962Z"
+  },
+  {
+    "id": 581,
+    "space_id": 5,
+    "current_count": 94,
+    "timestamp": "2026-01-29T06:56:01.008Z"
+  },
+  {
+    "id": 582,
+    "space_id": 6,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:56:01.063Z"
+  },
+  {
+    "id": 583,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T06:56:01.121Z"
+  },
+  {
+    "id": 584,
+    "space_id": 8,
+    "current_count": 104,
+    "timestamp": "2026-01-29T06:56:01.178Z"
+  },
+  {
+    "id": 585,
+    "space_id": 9,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:56:01.234Z"
+  },
+  {
+    "id": 586,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:56:01.291Z"
+  },
+  {
+    "id": 587,
+    "space_id": 11,
+    "current_count": 121,
+    "timestamp": "2026-01-29T06:56:01.346Z"
+  },
+  {
+    "id": 588,
+    "space_id": 12,
+    "current_count": 221,
+    "timestamp": "2026-01-29T06:56:01.401Z"
+  },
+  {
+    "id": 589,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:56:01.446Z"
+  },
+  {
+    "id": 590,
+    "space_id": 14,
+    "current_count": 84,
+    "timestamp": "2026-01-29T06:56:01.504Z"
+  },
+  {
+    "id": 591,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:56:01.561Z"
+  },
+  {
+    "id": 592,
+    "space_id": 16,
+    "current_count": 356,
+    "timestamp": "2026-01-29T06:56:01.563Z"
+  },
+  {
+    "id": 593,
+    "space_id": 1,
+    "current_count": 153,
+    "timestamp": "2026-01-29T06:56:10.792Z"
+  },
+  {
+    "id": 594,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:56:10.868Z"
+  },
+  {
+    "id": 595,
+    "space_id": 3,
+    "current_count": 462,
+    "timestamp": "2026-01-29T06:56:10.925Z"
+  },
+  {
+    "id": 596,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:56:10.985Z"
+  },
+  {
+    "id": 597,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:56:11.048Z"
+  },
+  {
+    "id": 598,
+    "space_id": 6,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:56:11.113Z"
+  },
+  {
+    "id": 599,
+    "space_id": 7,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:56:11.180Z"
+  },
+  {
+    "id": 600,
+    "space_id": 8,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:56:11.237Z"
+  },
+  {
+    "id": 601,
+    "space_id": 9,
+    "current_count": 63,
+    "timestamp": "2026-01-29T06:56:11.297Z"
+  },
+  {
+    "id": 602,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T06:56:11.356Z"
+  },
+  {
+    "id": 603,
+    "space_id": 11,
+    "current_count": 142,
+    "timestamp": "2026-01-29T06:56:11.414Z"
+  },
+  {
+    "id": 604,
+    "space_id": 12,
+    "current_count": 273,
+    "timestamp": "2026-01-29T06:56:11.471Z"
+  },
+  {
+    "id": 605,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:56:11.529Z"
+  },
+  {
+    "id": 606,
+    "space_id": 14,
+    "current_count": 76,
+    "timestamp": "2026-01-29T06:56:11.590Z"
+  },
+  {
+    "id": 607,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:56:11.648Z"
+  },
+  {
+    "id": 608,
+    "space_id": 16,
+    "current_count": 338,
+    "timestamp": "2026-01-29T06:56:11.706Z"
+  },
+  {
+    "id": 609,
+    "space_id": 1,
+    "current_count": 181,
+    "timestamp": "2026-01-29T06:56:20.797Z"
+  },
+  {
+    "id": 610,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:56:20.862Z"
+  },
+  {
+    "id": 611,
+    "space_id": 3,
+    "current_count": 466,
+    "timestamp": "2026-01-29T06:56:20.928Z"
+  },
+  {
+    "id": 612,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:56:20.997Z"
+  },
+  {
+    "id": 613,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:56:21.070Z"
+  },
+  {
+    "id": 614,
+    "space_id": 6,
+    "current_count": 41,
+    "timestamp": "2026-01-29T06:56:21.136Z"
+  },
+  {
+    "id": 615,
+    "space_id": 7,
+    "current_count": 49,
+    "timestamp": "2026-01-29T06:56:21.199Z"
+  },
+  {
+    "id": 616,
+    "space_id": 8,
+    "current_count": 108,
+    "timestamp": "2026-01-29T06:56:21.248Z"
+  },
+  {
+    "id": 617,
+    "space_id": 9,
+    "current_count": 68,
+    "timestamp": "2026-01-29T06:56:21.309Z"
+  },
+  {
+    "id": 618,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:56:21.386Z"
+  },
+  {
+    "id": 619,
+    "space_id": 11,
+    "current_count": 106,
+    "timestamp": "2026-01-29T06:56:21.447Z"
+  },
+  {
+    "id": 620,
+    "space_id": 12,
+    "current_count": 226,
+    "timestamp": "2026-01-29T06:56:21.516Z"
+  },
+  {
+    "id": 621,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:56:21.579Z"
+  },
+  {
+    "id": 622,
+    "space_id": 14,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:56:21.637Z"
+  },
+  {
+    "id": 623,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:56:21.687Z"
+  },
+  {
+    "id": 624,
+    "space_id": 16,
+    "current_count": 311,
+    "timestamp": "2026-01-29T06:56:21.748Z"
+  },
+  {
+    "id": 625,
+    "space_id": 1,
+    "current_count": 175,
+    "timestamp": "2026-01-29T06:56:30.807Z"
+  },
+  {
+    "id": 626,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:56:30.870Z"
+  },
+  {
+    "id": 627,
+    "space_id": 3,
+    "current_count": 367,
+    "timestamp": "2026-01-29T06:56:30.929Z"
+  },
+  {
+    "id": 628,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:56:30.990Z"
+  },
+  {
+    "id": 629,
+    "space_id": 5,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:56:31.056Z"
+  },
+  {
+    "id": 630,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:56:31.123Z"
+  },
+  {
+    "id": 631,
+    "space_id": 7,
+    "current_count": 56,
+    "timestamp": "2026-01-29T06:56:31.196Z"
+  },
+  {
+    "id": 632,
+    "space_id": 8,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:56:31.254Z"
+  },
+  {
+    "id": 633,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:56:31.316Z"
+  },
+  {
+    "id": 634,
+    "space_id": 10,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:56:31.380Z"
+  },
+  {
+    "id": 635,
+    "space_id": 11,
+    "current_count": 123,
+    "timestamp": "2026-01-29T06:56:31.436Z"
+  },
+  {
+    "id": 636,
+    "space_id": 12,
+    "current_count": 260,
+    "timestamp": "2026-01-29T06:56:31.499Z"
+  },
+  {
+    "id": 637,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:56:31.561Z"
+  },
+  {
+    "id": 638,
+    "space_id": 14,
+    "current_count": 79,
+    "timestamp": "2026-01-29T06:56:31.621Z"
+  },
+  {
+    "id": 639,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:56:31.691Z"
+  },
+  {
+    "id": 640,
+    "space_id": 16,
+    "current_count": 332,
+    "timestamp": "2026-01-29T06:56:31.755Z"
+  },
+  {
+    "id": 641,
+    "space_id": 1,
+    "current_count": 171,
+    "timestamp": "2026-01-29T06:56:40.812Z"
+  },
+  {
+    "id": 642,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:56:40.873Z"
+  },
+  {
+    "id": 643,
+    "space_id": 3,
+    "current_count": 453,
+    "timestamp": "2026-01-29T06:56:40.936Z"
+  },
+  {
+    "id": 644,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:56:40.997Z"
+  },
+  {
+    "id": 645,
+    "space_id": 5,
+    "current_count": 81,
+    "timestamp": "2026-01-29T06:56:41.058Z"
+  },
+  {
+    "id": 646,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:56:41.119Z"
+  },
+  {
+    "id": 647,
+    "space_id": 7,
+    "current_count": 50,
+    "timestamp": "2026-01-29T06:56:41.179Z"
+  },
+  {
+    "id": 648,
+    "space_id": 8,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:56:41.241Z"
+  },
+  {
+    "id": 649,
+    "space_id": 9,
+    "current_count": 56,
+    "timestamp": "2026-01-29T06:56:41.301Z"
+  },
+  {
+    "id": 650,
+    "space_id": 10,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:56:41.424Z"
+  },
+  {
+    "id": 651,
+    "space_id": 11,
+    "current_count": 126,
+    "timestamp": "2026-01-29T06:56:41.487Z"
+  },
+  {
+    "id": 652,
+    "space_id": 12,
+    "current_count": 236,
+    "timestamp": "2026-01-29T06:56:41.548Z"
+  },
+  {
+    "id": 653,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:56:41.605Z"
+  },
+  {
+    "id": 654,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:56:41.667Z"
+  },
+  {
+    "id": 655,
+    "space_id": 15,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:56:41.727Z"
+  },
+  {
+    "id": 656,
+    "space_id": 16,
+    "current_count": 367,
+    "timestamp": "2026-01-29T06:56:41.796Z"
+  },
+  {
+    "id": 657,
+    "space_id": 1,
+    "current_count": 165,
+    "timestamp": "2026-01-29T06:56:50.824Z"
+  },
+  {
+    "id": 658,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:56:50.892Z"
+  },
+  {
+    "id": 659,
+    "space_id": 3,
+    "current_count": 412,
+    "timestamp": "2026-01-29T06:56:50.955Z"
+  },
+  {
+    "id": 660,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:56:51.018Z"
+  },
+  {
+    "id": 661,
+    "space_id": 5,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:56:51.083Z"
+  },
+  {
+    "id": 662,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:56:51.147Z"
+  },
+  {
+    "id": 663,
+    "space_id": 7,
+    "current_count": 53,
+    "timestamp": "2026-01-29T06:56:51.211Z"
+  },
+  {
+    "id": 664,
+    "space_id": 8,
+    "current_count": 107,
+    "timestamp": "2026-01-29T06:56:51.274Z"
+  },
+  {
+    "id": 665,
+    "space_id": 9,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:56:51.336Z"
+  },
+  {
+    "id": 666,
+    "space_id": 10,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:56:51.407Z"
+  },
+  {
+    "id": 667,
+    "space_id": 11,
+    "current_count": 112,
+    "timestamp": "2026-01-29T06:56:51.473Z"
+  },
+  {
+    "id": 668,
+    "space_id": 12,
+    "current_count": 212,
+    "timestamp": "2026-01-29T06:56:51.534Z"
+  },
+  {
+    "id": 669,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:56:51.593Z"
+  },
+  {
+    "id": 670,
+    "space_id": 14,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:56:51.654Z"
+  },
+  {
+    "id": 671,
+    "space_id": 15,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:56:51.717Z"
+  },
+  {
+    "id": 672,
+    "space_id": 16,
+    "current_count": 373,
+    "timestamp": "2026-01-29T06:56:51.780Z"
+  },
+  {
+    "id": 673,
+    "space_id": 1,
+    "current_count": 146,
+    "timestamp": "2026-01-29T06:57:00.825Z"
+  },
+  {
+    "id": 674,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:57:00.894Z"
+  },
+  {
+    "id": 675,
+    "space_id": 3,
+    "current_count": 385,
+    "timestamp": "2026-01-29T06:57:00.956Z"
+  },
+  {
+    "id": 676,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:57:01.020Z"
+  },
+  {
+    "id": 677,
+    "space_id": 5,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:57:01.084Z"
+  },
+  {
+    "id": 678,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:57:01.146Z"
+  },
+  {
+    "id": 679,
+    "space_id": 7,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:57:01.206Z"
+  },
+  {
+    "id": 680,
+    "space_id": 8,
+    "current_count": 94,
+    "timestamp": "2026-01-29T06:57:01.268Z"
+  },
+  {
+    "id": 681,
+    "space_id": 9,
+    "current_count": 64,
+    "timestamp": "2026-01-29T06:57:01.333Z"
+  },
+  {
+    "id": 682,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:57:01.397Z"
+  },
+  {
+    "id": 683,
+    "space_id": 11,
+    "current_count": 123,
+    "timestamp": "2026-01-29T06:57:01.461Z"
+  },
+  {
+    "id": 684,
+    "space_id": 12,
+    "current_count": 267,
+    "timestamp": "2026-01-29T06:57:01.528Z"
+  },
+  {
+    "id": 685,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:57:01.596Z"
+  },
+  {
+    "id": 686,
+    "space_id": 14,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:57:01.661Z"
+  },
+  {
+    "id": 687,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:57:01.729Z"
+  },
+  {
+    "id": 688,
+    "space_id": 16,
+    "current_count": 368,
+    "timestamp": "2026-01-29T06:57:01.800Z"
+  },
+  {
+    "id": 689,
+    "space_id": 1,
+    "current_count": 161,
+    "timestamp": "2026-01-29T06:57:10.833Z"
+  },
+  {
+    "id": 690,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:57:10.900Z"
+  },
+  {
+    "id": 691,
+    "space_id": 3,
+    "current_count": 400,
+    "timestamp": "2026-01-29T06:57:10.964Z"
+  },
+  {
+    "id": 692,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T06:57:11.036Z"
+  },
+  {
+    "id": 693,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:57:11.105Z"
+  },
+  {
+    "id": 694,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:57:11.173Z"
+  },
+  {
+    "id": 695,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T06:57:11.238Z"
+  },
+  {
+    "id": 696,
+    "space_id": 8,
+    "current_count": 99,
+    "timestamp": "2026-01-29T06:57:11.304Z"
+  },
+  {
+    "id": 697,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T06:57:11.369Z"
+  },
+  {
+    "id": 698,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:57:11.435Z"
+  },
+  {
+    "id": 699,
+    "space_id": 11,
+    "current_count": 107,
+    "timestamp": "2026-01-29T06:57:11.502Z"
+  },
+  {
+    "id": 700,
+    "space_id": 12,
+    "current_count": 223,
+    "timestamp": "2026-01-29T06:57:11.568Z"
+  },
+  {
+    "id": 701,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:57:11.632Z"
+  },
+  {
+    "id": 702,
+    "space_id": 14,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:57:11.697Z"
+  },
+  {
+    "id": 703,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:57:11.762Z"
+  },
+  {
+    "id": 704,
+    "space_id": 16,
+    "current_count": 320,
+    "timestamp": "2026-01-29T06:57:11.833Z"
+  },
+  {
+    "id": 705,
+    "space_id": 1,
+    "current_count": 166,
+    "timestamp": "2026-01-29T06:57:20.844Z"
+  },
+  {
+    "id": 706,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:57:20.908Z"
+  },
+  {
+    "id": 707,
+    "space_id": 3,
+    "current_count": 399,
+    "timestamp": "2026-01-29T06:57:20.972Z"
+  },
+  {
+    "id": 708,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:57:21.037Z"
+  },
+  {
+    "id": 709,
+    "space_id": 5,
+    "current_count": 72,
+    "timestamp": "2026-01-29T06:57:21.100Z"
+  },
+  {
+    "id": 710,
+    "space_id": 6,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:57:21.152Z"
+  },
+  {
+    "id": 711,
+    "space_id": 7,
+    "current_count": 49,
+    "timestamp": "2026-01-29T06:57:21.215Z"
+  },
+  {
+    "id": 712,
+    "space_id": 8,
+    "current_count": 103,
+    "timestamp": "2026-01-29T06:57:21.278Z"
+  },
+  {
+    "id": 713,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T06:57:21.341Z"
+  },
+  {
+    "id": 714,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:57:21.404Z"
+  },
+  {
+    "id": 715,
+    "space_id": 11,
+    "current_count": 139,
+    "timestamp": "2026-01-29T06:57:21.469Z"
+  },
+  {
+    "id": 716,
+    "space_id": 12,
+    "current_count": 252,
+    "timestamp": "2026-01-29T06:57:21.534Z"
+  },
+  {
+    "id": 717,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:57:21.598Z"
+  },
+  {
+    "id": 718,
+    "space_id": 14,
+    "current_count": 85,
+    "timestamp": "2026-01-29T06:57:21.662Z"
+  },
+  {
+    "id": 719,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:57:21.722Z"
+  },
+  {
+    "id": 720,
+    "space_id": 16,
+    "current_count": 378,
+    "timestamp": "2026-01-29T06:57:21.785Z"
+  },
+  {
+    "id": 721,
+    "space_id": 1,
+    "current_count": 160,
+    "timestamp": "2026-01-29T06:57:30.847Z"
+  },
+  {
+    "id": 722,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:57:30.917Z"
+  },
+  {
+    "id": 723,
+    "space_id": 3,
+    "current_count": 407,
+    "timestamp": "2026-01-29T06:57:30.987Z"
+  },
+  {
+    "id": 724,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T06:57:31.050Z"
+  },
+  {
+    "id": 725,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:57:31.118Z"
+  },
+  {
+    "id": 726,
+    "space_id": 6,
+    "current_count": 46,
+    "timestamp": "2026-01-29T06:57:31.184Z"
+  },
+  {
+    "id": 727,
+    "space_id": 7,
+    "current_count": 53,
+    "timestamp": "2026-01-29T06:57:31.248Z"
+  },
+  {
+    "id": 728,
+    "space_id": 8,
+    "current_count": 106,
+    "timestamp": "2026-01-29T06:57:31.303Z"
+  },
+  {
+    "id": 729,
+    "space_id": 9,
+    "current_count": 72,
+    "timestamp": "2026-01-29T06:57:31.365Z"
+  },
+  {
+    "id": 730,
+    "space_id": 10,
+    "current_count": 38,
+    "timestamp": "2026-01-29T06:57:31.431Z"
+  },
+  {
+    "id": 731,
+    "space_id": 11,
+    "current_count": 142,
+    "timestamp": "2026-01-29T06:57:31.497Z"
+  },
+  {
+    "id": 732,
+    "space_id": 12,
+    "current_count": 260,
+    "timestamp": "2026-01-29T06:57:31.563Z"
+  },
+  {
+    "id": 733,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:57:31.627Z"
+  },
+  {
+    "id": 734,
+    "space_id": 14,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:57:31.693Z"
+  },
+  {
+    "id": 735,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:57:31.755Z"
+  },
+  {
+    "id": 736,
+    "space_id": 16,
+    "current_count": 290,
+    "timestamp": "2026-01-29T06:57:31.819Z"
+  },
+  {
+    "id": 737,
+    "space_id": 1,
+    "current_count": 186,
+    "timestamp": "2026-01-29T06:57:40.861Z"
+  },
+  {
+    "id": 738,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:57:40.931Z"
+  },
+  {
+    "id": 739,
+    "space_id": 3,
+    "current_count": 376,
+    "timestamp": "2026-01-29T06:57:41.004Z"
+  },
+  {
+    "id": 740,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:57:41.077Z"
+  },
+  {
+    "id": 741,
+    "space_id": 5,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:57:41.146Z"
+  },
+  {
+    "id": 742,
+    "space_id": 6,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:57:41.212Z"
+  },
+  {
+    "id": 743,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:57:41.280Z"
+  },
+  {
+    "id": 744,
+    "space_id": 8,
+    "current_count": 98,
+    "timestamp": "2026-01-29T06:57:41.345Z"
+  },
+  {
+    "id": 745,
+    "space_id": 9,
+    "current_count": 58,
+    "timestamp": "2026-01-29T06:57:41.410Z"
+  },
+  {
+    "id": 746,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:57:41.475Z"
+  },
+  {
+    "id": 747,
+    "space_id": 11,
+    "current_count": 129,
+    "timestamp": "2026-01-29T06:57:41.542Z"
+  },
+  {
+    "id": 748,
+    "space_id": 12,
+    "current_count": 240,
+    "timestamp": "2026-01-29T06:57:41.608Z"
+  },
+  {
+    "id": 749,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:57:41.676Z"
+  },
+  {
+    "id": 750,
+    "space_id": 14,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:57:41.731Z"
+  },
+  {
+    "id": 751,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:57:41.797Z"
+  },
+  {
+    "id": 752,
+    "space_id": 16,
+    "current_count": 299,
+    "timestamp": "2026-01-29T06:57:41.863Z"
+  },
+  {
+    "id": 753,
+    "space_id": 1,
+    "current_count": 166,
+    "timestamp": "2026-01-29T06:57:50.867Z"
+  },
+  {
+    "id": 754,
+    "space_id": 2,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:57:50.912Z"
+  },
+  {
+    "id": 755,
+    "space_id": 3,
+    "current_count": 410,
+    "timestamp": "2026-01-29T06:57:50.977Z"
+  },
+  {
+    "id": 756,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T06:57:51.022Z"
+  },
+  {
+    "id": 757,
+    "space_id": 5,
+    "current_count": 84,
+    "timestamp": "2026-01-29T06:57:51.075Z"
+  },
+  {
+    "id": 758,
+    "space_id": 6,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:57:51.142Z"
+  },
+  {
+    "id": 759,
+    "space_id": 7,
+    "current_count": 49,
+    "timestamp": "2026-01-29T06:57:51.207Z"
+  },
+  {
+    "id": 760,
+    "space_id": 8,
+    "current_count": 108,
+    "timestamp": "2026-01-29T06:57:51.274Z"
+  },
+  {
+    "id": 761,
+    "space_id": 9,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:57:51.341Z"
+  },
+  {
+    "id": 762,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:57:51.445Z"
+  },
+  {
+    "id": 763,
+    "space_id": 11,
+    "current_count": 111,
+    "timestamp": "2026-01-29T06:57:51.518Z"
+  },
+  {
+    "id": 764,
+    "space_id": 12,
+    "current_count": 262,
+    "timestamp": "2026-01-29T06:57:51.585Z"
+  },
+  {
+    "id": 765,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:57:51.653Z"
+  },
+  {
+    "id": 766,
+    "space_id": 14,
+    "current_count": 73,
+    "timestamp": "2026-01-29T06:57:51.719Z"
+  },
+  {
+    "id": 767,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:57:51.787Z"
+  },
+  {
+    "id": 768,
+    "space_id": 16,
+    "current_count": 348,
+    "timestamp": "2026-01-29T06:57:51.854Z"
+  },
+  {
+    "id": 769,
+    "space_id": 1,
+    "current_count": 166,
+    "timestamp": "2026-01-29T06:58:00.866Z"
+  },
+  {
+    "id": 770,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:58:00.932Z"
+  },
+  {
+    "id": 771,
+    "space_id": 3,
+    "current_count": 421,
+    "timestamp": "2026-01-29T06:58:01.000Z"
+  },
+  {
+    "id": 772,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:58:01.072Z"
+  },
+  {
+    "id": 773,
+    "space_id": 5,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:58:01.139Z"
+  },
+  {
+    "id": 774,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:58:01.207Z"
+  },
+  {
+    "id": 775,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:58:01.281Z"
+  },
+  {
+    "id": 776,
+    "space_id": 8,
+    "current_count": 101,
+    "timestamp": "2026-01-29T06:58:01.351Z"
+  },
+  {
+    "id": 777,
+    "space_id": 9,
+    "current_count": 68,
+    "timestamp": "2026-01-29T06:58:01.420Z"
+  },
+  {
+    "id": 778,
+    "space_id": 10,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:58:01.486Z"
+  },
+  {
+    "id": 779,
+    "space_id": 11,
+    "current_count": 140,
+    "timestamp": "2026-01-29T06:58:01.555Z"
+  },
+  {
+    "id": 780,
+    "space_id": 12,
+    "current_count": 234,
+    "timestamp": "2026-01-29T06:58:01.623Z"
+  },
+  {
+    "id": 781,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:58:01.693Z"
+  },
+  {
+    "id": 782,
+    "space_id": 14,
+    "current_count": 86,
+    "timestamp": "2026-01-29T06:58:01.767Z"
+  },
+  {
+    "id": 783,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:58:01.842Z"
+  },
+  {
+    "id": 784,
+    "space_id": 16,
+    "current_count": 335,
+    "timestamp": "2026-01-29T06:58:01.915Z"
+  },
+  {
+    "id": 785,
+    "space_id": 1,
+    "current_count": 179,
+    "timestamp": "2026-01-29T06:58:10.868Z"
+  },
+  {
+    "id": 786,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:58:10.928Z"
+  },
+  {
+    "id": 787,
+    "space_id": 3,
+    "current_count": 424,
+    "timestamp": "2026-01-29T06:58:11.000Z"
+  },
+  {
+    "id": 788,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:58:11.066Z"
+  },
+  {
+    "id": 789,
+    "space_id": 5,
+    "current_count": 81,
+    "timestamp": "2026-01-29T06:58:11.133Z"
+  },
+  {
+    "id": 790,
+    "space_id": 6,
+    "current_count": 44,
+    "timestamp": "2026-01-29T06:58:11.200Z"
+  },
+  {
+    "id": 791,
+    "space_id": 7,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:58:11.270Z"
+  },
+  {
+    "id": 792,
+    "space_id": 8,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:58:11.337Z"
+  },
+  {
+    "id": 793,
+    "space_id": 9,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:58:11.407Z"
+  },
+  {
+    "id": 794,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:58:11.477Z"
+  },
+  {
+    "id": 795,
+    "space_id": 11,
+    "current_count": 131,
+    "timestamp": "2026-01-29T06:58:11.552Z"
+  },
+  {
+    "id": 796,
+    "space_id": 12,
+    "current_count": 238,
+    "timestamp": "2026-01-29T06:58:11.632Z"
+  },
+  {
+    "id": 797,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:58:11.717Z"
+  },
+  {
+    "id": 798,
+    "space_id": 14,
+    "current_count": 87,
+    "timestamp": "2026-01-29T06:58:11.787Z"
+  },
+  {
+    "id": 799,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:58:11.859Z"
+  },
+  {
+    "id": 800,
+    "space_id": 16,
+    "current_count": 294,
+    "timestamp": "2026-01-29T06:58:11.930Z"
+  },
+  {
+    "id": 801,
+    "space_id": 1,
+    "current_count": 162,
+    "timestamp": "2026-01-29T06:58:20.874Z"
+  },
+  {
+    "id": 802,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:58:20.951Z"
+  },
+  {
+    "id": 803,
+    "space_id": 3,
+    "current_count": 432,
+    "timestamp": "2026-01-29T06:58:21.023Z"
+  },
+  {
+    "id": 804,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:58:21.096Z"
+  },
+  {
+    "id": 805,
+    "space_id": 5,
+    "current_count": 92,
+    "timestamp": "2026-01-29T06:58:21.168Z"
+  },
+  {
+    "id": 806,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:58:21.241Z"
+  },
+  {
+    "id": 807,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T06:58:21.313Z"
+  },
+  {
+    "id": 808,
+    "space_id": 8,
+    "current_count": 107,
+    "timestamp": "2026-01-29T06:58:21.387Z"
+  },
+  {
+    "id": 809,
+    "space_id": 9,
+    "current_count": 65,
+    "timestamp": "2026-01-29T06:58:21.459Z"
+  },
+  {
+    "id": 810,
+    "space_id": 10,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:58:21.534Z"
+  },
+  {
+    "id": 811,
+    "space_id": 11,
+    "current_count": 124,
+    "timestamp": "2026-01-29T06:58:21.610Z"
+  },
+  {
+    "id": 812,
+    "space_id": 12,
+    "current_count": 279,
+    "timestamp": "2026-01-29T06:58:21.685Z"
+  },
+  {
+    "id": 813,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:58:21.758Z"
+  },
+  {
+    "id": 814,
+    "space_id": 14,
+    "current_count": 93,
+    "timestamp": "2026-01-29T06:58:21.830Z"
+  },
+  {
+    "id": 815,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T06:58:21.900Z"
+  },
+  {
+    "id": 816,
+    "space_id": 16,
+    "current_count": 377,
+    "timestamp": "2026-01-29T06:58:21.970Z"
+  },
+  {
+    "id": 817,
+    "space_id": 1,
+    "current_count": 152,
+    "timestamp": "2026-01-29T06:58:30.876Z"
+  },
+  {
+    "id": 818,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:58:30.959Z"
+  },
+  {
+    "id": 819,
+    "space_id": 3,
+    "current_count": 406,
+    "timestamp": "2026-01-29T06:58:31.035Z"
+  },
+  {
+    "id": 820,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:58:31.111Z"
+  },
+  {
+    "id": 821,
+    "space_id": 5,
+    "current_count": 76,
+    "timestamp": "2026-01-29T06:58:31.185Z"
+  },
+  {
+    "id": 822,
+    "space_id": 6,
+    "current_count": 38,
+    "timestamp": "2026-01-29T06:58:31.263Z"
+  },
+  {
+    "id": 823,
+    "space_id": 7,
+    "current_count": 53,
+    "timestamp": "2026-01-29T06:58:31.338Z"
+  },
+  {
+    "id": 824,
+    "space_id": 8,
+    "current_count": 90,
+    "timestamp": "2026-01-29T06:58:31.410Z"
+  },
+  {
+    "id": 825,
+    "space_id": 9,
+    "current_count": 66,
+    "timestamp": "2026-01-29T06:58:31.483Z"
+  },
+  {
+    "id": 826,
+    "space_id": 10,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:58:31.555Z"
+  },
+  {
+    "id": 827,
+    "space_id": 11,
+    "current_count": 107,
+    "timestamp": "2026-01-29T06:58:31.626Z"
+  },
+  {
+    "id": 828,
+    "space_id": 12,
+    "current_count": 229,
+    "timestamp": "2026-01-29T06:58:31.700Z"
+  },
+  {
+    "id": 829,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:58:31.777Z"
+  },
+  {
+    "id": 830,
+    "space_id": 14,
+    "current_count": 84,
+    "timestamp": "2026-01-29T06:58:31.854Z"
+  },
+  {
+    "id": 831,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:58:31.929Z"
+  },
+  {
+    "id": 832,
+    "space_id": 16,
+    "current_count": 329,
+    "timestamp": "2026-01-29T06:58:32.001Z"
+  },
+  {
+    "id": 833,
+    "space_id": 1,
+    "current_count": 154,
+    "timestamp": "2026-01-29T06:58:40.883Z"
+  },
+  {
+    "id": 834,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T06:58:40.967Z"
+  },
+  {
+    "id": 835,
+    "space_id": 3,
+    "current_count": 474,
+    "timestamp": "2026-01-29T06:58:41.039Z"
+  },
+  {
+    "id": 836,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T06:58:41.115Z"
+  },
+  {
+    "id": 837,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T06:58:41.194Z"
+  },
+  {
+    "id": 838,
+    "space_id": 6,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:58:41.270Z"
+  },
+  {
+    "id": 839,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T06:58:41.349Z"
+  },
+  {
+    "id": 840,
+    "space_id": 8,
+    "current_count": 99,
+    "timestamp": "2026-01-29T06:58:41.425Z"
+  },
+  {
+    "id": 841,
+    "space_id": 9,
+    "current_count": 59,
+    "timestamp": "2026-01-29T06:58:41.501Z"
+  },
+  {
+    "id": 842,
+    "space_id": 10,
+    "current_count": 33,
+    "timestamp": "2026-01-29T06:58:41.577Z"
+  },
+  {
+    "id": 843,
+    "space_id": 11,
+    "current_count": 117,
+    "timestamp": "2026-01-29T06:58:41.653Z"
+  },
+  {
+    "id": 844,
+    "space_id": 12,
+    "current_count": 244,
+    "timestamp": "2026-01-29T06:58:41.731Z"
+  },
+  {
+    "id": 845,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:58:41.807Z"
+  },
+  {
+    "id": 846,
+    "space_id": 14,
+    "current_count": 80,
+    "timestamp": "2026-01-29T06:58:41.884Z"
+  },
+  {
+    "id": 847,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T06:58:41.960Z"
+  },
+  {
+    "id": 848,
+    "space_id": 16,
+    "current_count": 285,
+    "timestamp": "2026-01-29T06:58:42.034Z"
+  },
+  {
+    "id": 849,
+    "space_id": 1,
+    "current_count": 179,
+    "timestamp": "2026-01-29T06:58:50.885Z"
+  },
+  {
+    "id": 850,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:58:50.958Z"
+  },
+  {
+    "id": 851,
+    "space_id": 3,
+    "current_count": 381,
+    "timestamp": "2026-01-29T06:58:51.035Z"
+  },
+  {
+    "id": 852,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:58:51.105Z"
+  },
+  {
+    "id": 853,
+    "space_id": 5,
+    "current_count": 83,
+    "timestamp": "2026-01-29T06:58:51.179Z"
+  },
+  {
+    "id": 854,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:58:51.252Z"
+  },
+  {
+    "id": 855,
+    "space_id": 7,
+    "current_count": 56,
+    "timestamp": "2026-01-29T06:58:51.325Z"
+  },
+  {
+    "id": 856,
+    "space_id": 8,
+    "current_count": 96,
+    "timestamp": "2026-01-29T06:58:51.396Z"
+  },
+  {
+    "id": 857,
+    "space_id": 9,
+    "current_count": 72,
+    "timestamp": "2026-01-29T06:58:51.467Z"
+  },
+  {
+    "id": 858,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:58:51.541Z"
+  },
+  {
+    "id": 859,
+    "space_id": 11,
+    "current_count": 136,
+    "timestamp": "2026-01-29T06:58:51.617Z"
+  },
+  {
+    "id": 860,
+    "space_id": 12,
+    "current_count": 228,
+    "timestamp": "2026-01-29T06:58:51.692Z"
+  },
+  {
+    "id": 861,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:58:51.768Z"
+  },
+  {
+    "id": 862,
+    "space_id": 14,
+    "current_count": 87,
+    "timestamp": "2026-01-29T06:58:51.842Z"
+  },
+  {
+    "id": 863,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:58:51.920Z"
+  },
+  {
+    "id": 864,
+    "space_id": 16,
+    "current_count": 308,
+    "timestamp": "2026-01-29T06:58:51.997Z"
+  },
+  {
+    "id": 865,
+    "space_id": 1,
+    "current_count": 184,
+    "timestamp": "2026-01-29T06:59:00.886Z"
+  },
+  {
+    "id": 866,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:59:00.960Z"
+  },
+  {
+    "id": 867,
+    "space_id": 3,
+    "current_count": 392,
+    "timestamp": "2026-01-29T06:59:01.027Z"
+  },
+  {
+    "id": 868,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:59:01.103Z"
+  },
+  {
+    "id": 869,
+    "space_id": 5,
+    "current_count": 77,
+    "timestamp": "2026-01-29T06:59:01.186Z"
+  },
+  {
+    "id": 870,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:59:01.263Z"
+  },
+  {
+    "id": 871,
+    "space_id": 7,
+    "current_count": 47,
+    "timestamp": "2026-01-29T06:59:01.341Z"
+  },
+  {
+    "id": 872,
+    "space_id": 8,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:59:01.417Z"
+  },
+  {
+    "id": 873,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T06:59:01.494Z"
+  },
+  {
+    "id": 874,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T06:59:01.571Z"
+  },
+  {
+    "id": 875,
+    "space_id": 11,
+    "current_count": 106,
+    "timestamp": "2026-01-29T06:59:01.646Z"
+  },
+  {
+    "id": 876,
+    "space_id": 12,
+    "current_count": 260,
+    "timestamp": "2026-01-29T06:59:01.720Z"
+  },
+  {
+    "id": 877,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:59:01.796Z"
+  },
+  {
+    "id": 878,
+    "space_id": 14,
+    "current_count": 78,
+    "timestamp": "2026-01-29T06:59:01.873Z"
+  },
+  {
+    "id": 879,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:59:01.949Z"
+  },
+  {
+    "id": 880,
+    "space_id": 16,
+    "current_count": 365,
+    "timestamp": "2026-01-29T06:59:02.026Z"
+  },
+  {
+    "id": 881,
+    "space_id": 1,
+    "current_count": 145,
+    "timestamp": "2026-01-29T06:59:10.893Z"
+  },
+  {
+    "id": 882,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:59:10.968Z"
+  },
+  {
+    "id": 883,
+    "space_id": 3,
+    "current_count": 458,
+    "timestamp": "2026-01-29T06:59:11.044Z"
+  },
+  {
+    "id": 884,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T06:59:11.124Z"
+  },
+  {
+    "id": 885,
+    "space_id": 5,
+    "current_count": 91,
+    "timestamp": "2026-01-29T06:59:11.189Z"
+  },
+  {
+    "id": 886,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:59:11.266Z"
+  },
+  {
+    "id": 887,
+    "space_id": 7,
+    "current_count": 54,
+    "timestamp": "2026-01-29T06:59:11.343Z"
+  },
+  {
+    "id": 888,
+    "space_id": 8,
+    "current_count": 94,
+    "timestamp": "2026-01-29T06:59:11.414Z"
+  },
+  {
+    "id": 889,
+    "space_id": 9,
+    "current_count": 56,
+    "timestamp": "2026-01-29T06:59:11.484Z"
+  },
+  {
+    "id": 890,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:59:11.562Z"
+  },
+  {
+    "id": 891,
+    "space_id": 11,
+    "current_count": 114,
+    "timestamp": "2026-01-29T06:59:11.641Z"
+  },
+  {
+    "id": 892,
+    "space_id": 12,
+    "current_count": 265,
+    "timestamp": "2026-01-29T06:59:11.719Z"
+  },
+  {
+    "id": 893,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T06:59:11.796Z"
+  },
+  {
+    "id": 894,
+    "space_id": 14,
+    "current_count": 80,
+    "timestamp": "2026-01-29T06:59:11.874Z"
+  },
+  {
+    "id": 895,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:59:11.948Z"
+  },
+  {
+    "id": 896,
+    "space_id": 16,
+    "current_count": 359,
+    "timestamp": "2026-01-29T06:59:12.029Z"
+  },
+  {
+    "id": 897,
+    "space_id": 1,
+    "current_count": 159,
+    "timestamp": "2026-01-29T06:59:20.903Z"
+  },
+  {
+    "id": 898,
+    "space_id": 2,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:59:20.980Z"
+  },
+  {
+    "id": 899,
+    "space_id": 3,
+    "current_count": 461,
+    "timestamp": "2026-01-29T06:59:21.057Z"
+  },
+  {
+    "id": 900,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:59:21.130Z"
+  },
+  {
+    "id": 901,
+    "space_id": 5,
+    "current_count": 94,
+    "timestamp": "2026-01-29T06:59:21.208Z"
+  },
+  {
+    "id": 902,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:59:21.281Z"
+  },
+  {
+    "id": 903,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T06:59:21.349Z"
+  },
+  {
+    "id": 904,
+    "space_id": 8,
+    "current_count": 109,
+    "timestamp": "2026-01-29T06:59:21.425Z"
+  },
+  {
+    "id": 905,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T06:59:21.503Z"
+  },
+  {
+    "id": 906,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:59:21.581Z"
+  },
+  {
+    "id": 907,
+    "space_id": 11,
+    "current_count": 107,
+    "timestamp": "2026-01-29T06:59:21.660Z"
+  },
+  {
+    "id": 908,
+    "space_id": 12,
+    "current_count": 231,
+    "timestamp": "2026-01-29T06:59:21.734Z"
+  },
+  {
+    "id": 909,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:59:21.810Z"
+  },
+  {
+    "id": 910,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:59:21.889Z"
+  },
+  {
+    "id": 911,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:59:21.971Z"
+  },
+  {
+    "id": 912,
+    "space_id": 16,
+    "current_count": 286,
+    "timestamp": "2026-01-29T06:59:22.050Z"
+  },
+  {
+    "id": 913,
+    "space_id": 1,
+    "current_count": 172,
+    "timestamp": "2026-01-29T06:59:30.903Z"
+  },
+  {
+    "id": 914,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:59:30.990Z"
+  },
+  {
+    "id": 915,
+    "space_id": 3,
+    "current_count": 378,
+    "timestamp": "2026-01-29T06:59:31.070Z"
+  },
+  {
+    "id": 916,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:59:31.154Z"
+  },
+  {
+    "id": 917,
+    "space_id": 5,
+    "current_count": 79,
+    "timestamp": "2026-01-29T06:59:31.237Z"
+  },
+  {
+    "id": 918,
+    "space_id": 6,
+    "current_count": 41,
+    "timestamp": "2026-01-29T06:59:31.322Z"
+  },
+  {
+    "id": 919,
+    "space_id": 7,
+    "current_count": 43,
+    "timestamp": "2026-01-29T06:59:31.404Z"
+  },
+  {
+    "id": 920,
+    "space_id": 8,
+    "current_count": 93,
+    "timestamp": "2026-01-29T06:59:31.472Z"
+  },
+  {
+    "id": 921,
+    "space_id": 9,
+    "current_count": 66,
+    "timestamp": "2026-01-29T06:59:31.549Z"
+  },
+  {
+    "id": 922,
+    "space_id": 10,
+    "current_count": 31,
+    "timestamp": "2026-01-29T06:59:31.629Z"
+  },
+  {
+    "id": 923,
+    "space_id": 11,
+    "current_count": 112,
+    "timestamp": "2026-01-29T06:59:31.711Z"
+  },
+  {
+    "id": 924,
+    "space_id": 12,
+    "current_count": 265,
+    "timestamp": "2026-01-29T06:59:31.793Z"
+  },
+  {
+    "id": 925,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T06:59:31.876Z"
+  },
+  {
+    "id": 926,
+    "space_id": 14,
+    "current_count": 74,
+    "timestamp": "2026-01-29T06:59:31.964Z"
+  },
+  {
+    "id": 927,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:59:32.051Z"
+  },
+  {
+    "id": 928,
+    "space_id": 16,
+    "current_count": 376,
+    "timestamp": "2026-01-29T06:59:32.133Z"
+  },
+  {
+    "id": 929,
+    "space_id": 1,
+    "current_count": 169,
+    "timestamp": "2026-01-29T06:59:40.917Z"
+  },
+  {
+    "id": 930,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:59:40.997Z"
+  },
+  {
+    "id": 931,
+    "space_id": 3,
+    "current_count": 366,
+    "timestamp": "2026-01-29T06:59:41.078Z"
+  },
+  {
+    "id": 932,
+    "space_id": 4,
+    "current_count": 28,
+    "timestamp": "2026-01-29T06:59:41.154Z"
+  },
+  {
+    "id": 933,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:59:41.234Z"
+  },
+  {
+    "id": 934,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T06:59:41.312Z"
+  },
+  {
+    "id": 935,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T06:59:41.391Z"
+  },
+  {
+    "id": 936,
+    "space_id": 8,
+    "current_count": 113,
+    "timestamp": "2026-01-29T06:59:41.469Z"
+  },
+  {
+    "id": 937,
+    "space_id": 9,
+    "current_count": 64,
+    "timestamp": "2026-01-29T06:59:41.551Z"
+  },
+  {
+    "id": 938,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T06:59:41.630Z"
+  },
+  {
+    "id": 939,
+    "space_id": 11,
+    "current_count": 129,
+    "timestamp": "2026-01-29T06:59:41.710Z"
+  },
+  {
+    "id": 940,
+    "space_id": 12,
+    "current_count": 227,
+    "timestamp": "2026-01-29T06:59:41.793Z"
+  },
+  {
+    "id": 941,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:59:41.872Z"
+  },
+  {
+    "id": 942,
+    "space_id": 14,
+    "current_count": 70,
+    "timestamp": "2026-01-29T06:59:41.952Z"
+  },
+  {
+    "id": 943,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T06:59:42.022Z"
+  },
+  {
+    "id": 944,
+    "space_id": 16,
+    "current_count": 313,
+    "timestamp": "2026-01-29T06:59:42.106Z"
+  },
+  {
+    "id": 945,
+    "space_id": 1,
+    "current_count": 161,
+    "timestamp": "2026-01-29T06:59:50.919Z"
+  },
+  {
+    "id": 946,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T06:59:51.004Z"
+  },
+  {
+    "id": 947,
+    "space_id": 3,
+    "current_count": 388,
+    "timestamp": "2026-01-29T06:59:51.082Z"
+  },
+  {
+    "id": 948,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T06:59:51.165Z"
+  },
+  {
+    "id": 949,
+    "space_id": 5,
+    "current_count": 79,
+    "timestamp": "2026-01-29T06:59:51.247Z"
+  },
+  {
+    "id": 950,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:59:51.328Z"
+  },
+  {
+    "id": 951,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T06:59:51.410Z"
+  },
+  {
+    "id": 952,
+    "space_id": 8,
+    "current_count": 109,
+    "timestamp": "2026-01-29T06:59:51.495Z"
+  },
+  {
+    "id": 953,
+    "space_id": 9,
+    "current_count": 66,
+    "timestamp": "2026-01-29T06:59:51.574Z"
+  },
+  {
+    "id": 954,
+    "space_id": 10,
+    "current_count": 35,
+    "timestamp": "2026-01-29T06:59:51.660Z"
+  },
+  {
+    "id": 955,
+    "space_id": 11,
+    "current_count": 105,
+    "timestamp": "2026-01-29T06:59:51.742Z"
+  },
+  {
+    "id": 956,
+    "space_id": 12,
+    "current_count": 237,
+    "timestamp": "2026-01-29T06:59:51.824Z"
+  },
+  {
+    "id": 957,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T06:59:51.912Z"
+  },
+  {
+    "id": 958,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T06:59:51.992Z"
+  },
+  {
+    "id": 959,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T06:59:52.078Z"
+  },
+  {
+    "id": 960,
+    "space_id": 16,
+    "current_count": 322,
+    "timestamp": "2026-01-29T06:59:52.154Z"
+  },
+  {
+    "id": 961,
+    "space_id": 1,
+    "current_count": 177,
+    "timestamp": "2026-01-29T07:00:00.931Z"
+  },
+  {
+    "id": 962,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:00:01.013Z"
+  },
+  {
+    "id": 963,
+    "space_id": 3,
+    "current_count": 370,
+    "timestamp": "2026-01-29T07:00:01.096Z"
+  },
+  {
+    "id": 964,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T07:00:01.179Z"
+  },
+  {
+    "id": 965,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T07:00:01.265Z"
+  },
+  {
+    "id": 966,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T07:00:01.348Z"
+  },
+  {
+    "id": 967,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:00:01.431Z"
+  },
+  {
+    "id": 968,
+    "space_id": 8,
+    "current_count": 110,
+    "timestamp": "2026-01-29T07:00:01.514Z"
+  },
+  {
+    "id": 969,
+    "space_id": 9,
+    "current_count": 75,
+    "timestamp": "2026-01-29T07:00:01.593Z"
+  },
+  {
+    "id": 970,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T07:00:01.671Z"
+  },
+  {
+    "id": 971,
+    "space_id": 11,
+    "current_count": 109,
+    "timestamp": "2026-01-29T07:00:01.758Z"
+  },
+  {
+    "id": 972,
+    "space_id": 12,
+    "current_count": 279,
+    "timestamp": "2026-01-29T07:00:01.845Z"
+  },
+  {
+    "id": 973,
+    "space_id": 13,
+    "current_count": 29,
+    "timestamp": "2026-01-29T07:00:01.930Z"
+  },
+  {
+    "id": 974,
+    "space_id": 14,
+    "current_count": 76,
+    "timestamp": "2026-01-29T07:00:02.017Z"
+  },
+  {
+    "id": 975,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:00:02.103Z"
+  },
+  {
+    "id": 976,
+    "space_id": 16,
+    "current_count": 286,
+    "timestamp": "2026-01-29T07:00:02.191Z"
+  },
+  {
+    "id": 977,
+    "space_id": 1,
+    "current_count": 159,
+    "timestamp": "2026-01-29T07:00:10.932Z"
+  },
+  {
+    "id": 978,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:00:11.015Z"
+  },
+  {
+    "id": 979,
+    "space_id": 3,
+    "current_count": 352,
+    "timestamp": "2026-01-29T07:00:11.099Z"
+  },
+  {
+    "id": 980,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T07:00:11.181Z"
+  },
+  {
+    "id": 981,
+    "space_id": 5,
+    "current_count": 80,
+    "timestamp": "2026-01-29T07:00:11.268Z"
+  },
+  {
+    "id": 982,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T07:00:11.355Z"
+  },
+  {
+    "id": 983,
+    "space_id": 7,
+    "current_count": 54,
+    "timestamp": "2026-01-29T07:00:11.440Z"
+  },
+  {
+    "id": 984,
+    "space_id": 8,
+    "current_count": 91,
+    "timestamp": "2026-01-29T07:00:11.525Z"
+  },
+  {
+    "id": 985,
+    "space_id": 9,
+    "current_count": 65,
+    "timestamp": "2026-01-29T07:00:11.612Z"
+  },
+  {
+    "id": 986,
+    "space_id": 10,
+    "current_count": 38,
+    "timestamp": "2026-01-29T07:00:11.697Z"
+  },
+  {
+    "id": 987,
+    "space_id": 11,
+    "current_count": 127,
+    "timestamp": "2026-01-29T07:00:11.783Z"
+  },
+  {
+    "id": 988,
+    "space_id": 12,
+    "current_count": 214,
+    "timestamp": "2026-01-29T07:00:11.863Z"
+  },
+  {
+    "id": 989,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:00:11.949Z"
+  },
+  {
+    "id": 990,
+    "space_id": 14,
+    "current_count": 82,
+    "timestamp": "2026-01-29T07:00:12.034Z"
+  },
+  {
+    "id": 991,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:00:12.120Z"
+  },
+  {
+    "id": 992,
+    "space_id": 16,
+    "current_count": 347,
+    "timestamp": "2026-01-29T07:00:12.207Z"
+  },
+  {
+    "id": 993,
+    "space_id": 1,
+    "current_count": 189,
+    "timestamp": "2026-01-29T07:00:20.936Z"
+  },
+  {
+    "id": 994,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:00:21.023Z"
+  },
+  {
+    "id": 995,
+    "space_id": 3,
+    "current_count": 447,
+    "timestamp": "2026-01-29T07:00:21.108Z"
+  },
+  {
+    "id": 996,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:00:21.193Z"
+  },
+  {
+    "id": 997,
+    "space_id": 5,
+    "current_count": 93,
+    "timestamp": "2026-01-29T07:00:21.277Z"
+  },
+  {
+    "id": 998,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T07:00:21.363Z"
+  },
+  {
+    "id": 999,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T07:00:21.446Z"
+  },
+  {
+    "id": 1000,
+    "space_id": 8,
+    "current_count": 98,
+    "timestamp": "2026-01-29T07:00:21.532Z"
+  },
+  {
+    "id": 1001,
+    "space_id": 9,
+    "current_count": 71,
+    "timestamp": "2026-01-29T07:00:21.615Z"
+  },
+  {
+    "id": 1002,
+    "space_id": 10,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:00:21.702Z"
+  },
+  {
+    "id": 1003,
+    "space_id": 11,
+    "current_count": 124,
+    "timestamp": "2026-01-29T07:00:21.789Z"
+  },
+  {
+    "id": 1004,
+    "space_id": 12,
+    "current_count": 211,
+    "timestamp": "2026-01-29T07:00:21.873Z"
+  },
+  {
+    "id": 1005,
+    "space_id": 13,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:00:21.960Z"
+  },
+  {
+    "id": 1006,
+    "space_id": 14,
+    "current_count": 70,
+    "timestamp": "2026-01-29T07:00:22.050Z"
+  },
+  {
+    "id": 1007,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:00:22.138Z"
+  },
+  {
+    "id": 1008,
+    "space_id": 16,
+    "current_count": 333,
+    "timestamp": "2026-01-29T07:00:22.224Z"
+  },
+  {
+    "id": 1009,
+    "space_id": 1,
+    "current_count": 175,
+    "timestamp": "2026-01-29T07:00:30.941Z"
+  },
+  {
+    "id": 1010,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:00:31.040Z"
+  },
+  {
+    "id": 1011,
+    "space_id": 3,
+    "current_count": 453,
+    "timestamp": "2026-01-29T07:00:31.128Z"
+  },
+  {
+    "id": 1012,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T07:00:31.218Z"
+  },
+  {
+    "id": 1013,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T07:00:31.327Z"
+  },
+  {
+    "id": 1014,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:00:31.430Z"
+  },
+  {
+    "id": 1015,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T07:00:31.516Z"
+  },
+  {
+    "id": 1016,
+    "space_id": 8,
+    "current_count": 89,
+    "timestamp": "2026-01-29T07:00:31.612Z"
+  },
+  {
+    "id": 1017,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T07:00:31.700Z"
+  },
+  {
+    "id": 1018,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T07:00:31.794Z"
+  },
+  {
+    "id": 1019,
+    "space_id": 11,
+    "current_count": 127,
+    "timestamp": "2026-01-29T07:00:31.894Z"
+  },
+  {
+    "id": 1020,
+    "space_id": 12,
+    "current_count": 246,
+    "timestamp": "2026-01-29T07:00:31.984Z"
+  },
+  {
+    "id": 1021,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:00:32.078Z"
+  },
+  {
+    "id": 1022,
+    "space_id": 14,
+    "current_count": 86,
+    "timestamp": "2026-01-29T07:00:32.176Z"
+  },
+  {
+    "id": 1023,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:00:32.268Z"
+  },
+  {
+    "id": 1024,
+    "space_id": 16,
+    "current_count": 291,
+    "timestamp": "2026-01-29T07:00:32.370Z"
+  },
+  {
+    "id": 1025,
+    "space_id": 1,
+    "current_count": 172,
+    "timestamp": "2026-01-29T07:00:40.946Z"
+  },
+  {
+    "id": 1026,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:00:41.038Z"
+  },
+  {
+    "id": 1027,
+    "space_id": 3,
+    "current_count": 431,
+    "timestamp": "2026-01-29T07:00:41.127Z"
+  },
+  {
+    "id": 1028,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T07:00:41.214Z"
+  },
+  {
+    "id": 1029,
+    "space_id": 5,
+    "current_count": 82,
+    "timestamp": "2026-01-29T07:00:41.303Z"
+  },
+  {
+    "id": 1030,
+    "space_id": 6,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:00:41.391Z"
+  },
+  {
+    "id": 1031,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T07:00:41.479Z"
+  },
+  {
+    "id": 1032,
+    "space_id": 8,
+    "current_count": 84,
+    "timestamp": "2026-01-29T07:00:41.570Z"
+  },
+  {
+    "id": 1033,
+    "space_id": 9,
+    "current_count": 75,
+    "timestamp": "2026-01-29T07:00:41.659Z"
+  },
+  {
+    "id": 1034,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:00:41.748Z"
+  },
+  {
+    "id": 1035,
+    "space_id": 11,
+    "current_count": 119,
+    "timestamp": "2026-01-29T07:00:41.839Z"
+  },
+  {
+    "id": 1036,
+    "space_id": 12,
+    "current_count": 222,
+    "timestamp": "2026-01-29T07:00:41.927Z"
+  },
+  {
+    "id": 1037,
+    "space_id": 13,
+    "current_count": 29,
+    "timestamp": "2026-01-29T07:00:42.015Z"
+  },
+  {
+    "id": 1038,
+    "space_id": 14,
+    "current_count": 78,
+    "timestamp": "2026-01-29T07:00:42.106Z"
+  },
+  {
+    "id": 1039,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:00:42.194Z"
+  },
+  {
+    "id": 1040,
+    "space_id": 16,
+    "current_count": 305,
+    "timestamp": "2026-01-29T07:00:42.284Z"
+  },
+  {
+    "id": 1041,
+    "space_id": 1,
+    "current_count": 182,
+    "timestamp": "2026-01-29T07:00:50.954Z"
+  },
+  {
+    "id": 1042,
+    "space_id": 2,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:00:51.043Z"
+  },
+  {
+    "id": 1043,
+    "space_id": 3,
+    "current_count": 416,
+    "timestamp": "2026-01-29T07:00:51.132Z"
+  },
+  {
+    "id": 1044,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T07:00:51.214Z"
+  },
+  {
+    "id": 1045,
+    "space_id": 5,
+    "current_count": 76,
+    "timestamp": "2026-01-29T07:00:51.301Z"
+  },
+  {
+    "id": 1046,
+    "space_id": 6,
+    "current_count": 45,
+    "timestamp": "2026-01-29T07:00:51.393Z"
+  },
+  {
+    "id": 1047,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T07:00:51.482Z"
+  },
+  {
+    "id": 1048,
+    "space_id": 8,
+    "current_count": 105,
+    "timestamp": "2026-01-29T07:00:51.571Z"
+  },
+  {
+    "id": 1049,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T07:00:51.661Z"
+  },
+  {
+    "id": 1050,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T07:00:51.750Z"
+  },
+  {
+    "id": 1051,
+    "space_id": 11,
+    "current_count": 117,
+    "timestamp": "2026-01-29T07:00:51.840Z"
+  },
+  {
+    "id": 1052,
+    "space_id": 12,
+    "current_count": 228,
+    "timestamp": "2026-01-29T07:00:51.929Z"
+  },
+  {
+    "id": 1053,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:00:52.023Z"
+  },
+  {
+    "id": 1054,
+    "space_id": 14,
+    "current_count": 72,
+    "timestamp": "2026-01-29T07:00:52.104Z"
+  },
+  {
+    "id": 1055,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:00:52.193Z"
+  },
+  {
+    "id": 1056,
+    "space_id": 16,
+    "current_count": 324,
+    "timestamp": "2026-01-29T07:00:52.280Z"
+  },
+  {
+    "id": 1057,
+    "space_id": 1,
+    "current_count": 170,
+    "timestamp": "2026-01-29T07:01:00.954Z"
+  },
+  {
+    "id": 1058,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T07:01:01.039Z"
+  },
+  {
+    "id": 1059,
+    "space_id": 3,
+    "current_count": 428,
+    "timestamp": "2026-01-29T07:01:01.129Z"
+  },
+  {
+    "id": 1060,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T07:01:01.217Z"
+  },
+  {
+    "id": 1061,
+    "space_id": 5,
+    "current_count": 80,
+    "timestamp": "2026-01-29T07:01:01.299Z"
+  },
+  {
+    "id": 1062,
+    "space_id": 6,
+    "current_count": 47,
+    "timestamp": "2026-01-29T07:01:01.391Z"
+  },
+  {
+    "id": 1063,
+    "space_id": 7,
+    "current_count": 54,
+    "timestamp": "2026-01-29T07:01:01.482Z"
+  },
+  {
+    "id": 1064,
+    "space_id": 8,
+    "current_count": 113,
+    "timestamp": "2026-01-29T07:01:01.580Z"
+  },
+  {
+    "id": 1065,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T07:01:01.673Z"
+  },
+  {
+    "id": 1066,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T07:01:01.766Z"
+  },
+  {
+    "id": 1067,
+    "space_id": 11,
+    "current_count": 105,
+    "timestamp": "2026-01-29T07:01:01.858Z"
+  },
+  {
+    "id": 1068,
+    "space_id": 12,
+    "current_count": 242,
+    "timestamp": "2026-01-29T07:01:01.949Z"
+  },
+  {
+    "id": 1069,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:01:02.044Z"
+  },
+  {
+    "id": 1070,
+    "space_id": 14,
+    "current_count": 75,
+    "timestamp": "2026-01-29T07:01:02.140Z"
+  },
+  {
+    "id": 1071,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T07:01:02.237Z"
+  },
+  {
+    "id": 1072,
+    "space_id": 16,
+    "current_count": 373,
+    "timestamp": "2026-01-29T07:01:02.331Z"
+  },
+  {
+    "id": 1073,
+    "space_id": 1,
+    "current_count": 142,
+    "timestamp": "2026-01-29T07:01:10.961Z"
+  },
+  {
+    "id": 1074,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:01:11.057Z"
+  },
+  {
+    "id": 1075,
+    "space_id": 3,
+    "current_count": 383,
+    "timestamp": "2026-01-29T07:01:11.149Z"
+  },
+  {
+    "id": 1076,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T07:01:11.240Z"
+  },
+  {
+    "id": 1077,
+    "space_id": 5,
+    "current_count": 89,
+    "timestamp": "2026-01-29T07:01:11.330Z"
+  },
+  {
+    "id": 1078,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:01:11.424Z"
+  },
+  {
+    "id": 1079,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T07:01:11.503Z"
+  },
+  {
+    "id": 1080,
+    "space_id": 8,
+    "current_count": 111,
+    "timestamp": "2026-01-29T07:01:11.595Z"
+  },
+  {
+    "id": 1081,
+    "space_id": 9,
+    "current_count": 72,
+    "timestamp": "2026-01-29T07:01:11.688Z"
+  },
+  {
+    "id": 1082,
+    "space_id": 10,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:01:11.779Z"
+  },
+  {
+    "id": 1083,
+    "space_id": 11,
+    "current_count": 138,
+    "timestamp": "2026-01-29T07:01:11.869Z"
+  },
+  {
+    "id": 1084,
+    "space_id": 12,
+    "current_count": 210,
+    "timestamp": "2026-01-29T07:01:11.959Z"
+  },
+  {
+    "id": 1085,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:01:12.053Z"
+  },
+  {
+    "id": 1086,
+    "space_id": 14,
+    "current_count": 93,
+    "timestamp": "2026-01-29T07:01:12.147Z"
+  },
+  {
+    "id": 1087,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:01:12.239Z"
+  },
+  {
+    "id": 1088,
+    "space_id": 16,
+    "current_count": 351,
+    "timestamp": "2026-01-29T07:01:12.331Z"
+  },
+  {
+    "id": 1089,
+    "space_id": 1,
+    "current_count": 145,
+    "timestamp": "2026-01-29T07:01:20.975Z"
+  },
+  {
+    "id": 1090,
+    "space_id": 2,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:01:21.068Z"
+  },
+  {
+    "id": 1091,
+    "space_id": 3,
+    "current_count": 449,
+    "timestamp": "2026-01-29T07:01:21.159Z"
+  },
+  {
+    "id": 1092,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T07:01:21.250Z"
+  },
+  {
+    "id": 1093,
+    "space_id": 5,
+    "current_count": 89,
+    "timestamp": "2026-01-29T07:01:21.337Z"
+  },
+  {
+    "id": 1094,
+    "space_id": 6,
+    "current_count": 46,
+    "timestamp": "2026-01-29T07:01:21.424Z"
+  },
+  {
+    "id": 1095,
+    "space_id": 7,
+    "current_count": 53,
+    "timestamp": "2026-01-29T07:01:21.514Z"
+  },
+  {
+    "id": 1096,
+    "space_id": 8,
+    "current_count": 87,
+    "timestamp": "2026-01-29T07:01:21.607Z"
+  },
+  {
+    "id": 1097,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T07:01:21.690Z"
+  },
+  {
+    "id": 1098,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T07:01:21.786Z"
+  },
+  {
+    "id": 1099,
+    "space_id": 11,
+    "current_count": 137,
+    "timestamp": "2026-01-29T07:01:21.878Z"
+  },
+  {
+    "id": 1100,
+    "space_id": 12,
+    "current_count": 219,
+    "timestamp": "2026-01-29T07:01:21.976Z"
+  },
+  {
+    "id": 1101,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:01:22.060Z"
+  },
+  {
+    "id": 1102,
+    "space_id": 14,
+    "current_count": 86,
+    "timestamp": "2026-01-29T07:01:22.141Z"
+  },
+  {
+    "id": 1103,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:01:22.226Z"
+  },
+  {
+    "id": 1104,
+    "space_id": 16,
+    "current_count": 280,
+    "timestamp": "2026-01-29T07:01:22.321Z"
+  },
+  {
+    "id": 1105,
+    "space_id": 1,
+    "current_count": 156,
+    "timestamp": "2026-01-29T07:01:30.979Z"
+  },
+  {
+    "id": 1106,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:01:31.097Z"
+  },
+  {
+    "id": 1107,
+    "space_id": 3,
+    "current_count": 437,
+    "timestamp": "2026-01-29T07:01:31.201Z"
+  },
+  {
+    "id": 1108,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T07:01:31.307Z"
+  },
+  {
+    "id": 1109,
+    "space_id": 5,
+    "current_count": 88,
+    "timestamp": "2026-01-29T07:01:31.414Z"
+  },
+  {
+    "id": 1110,
+    "space_id": 6,
+    "current_count": 41,
+    "timestamp": "2026-01-29T07:01:31.522Z"
+  },
+  {
+    "id": 1111,
+    "space_id": 7,
+    "current_count": 54,
+    "timestamp": "2026-01-29T07:01:31.632Z"
+  },
+  {
+    "id": 1112,
+    "space_id": 8,
+    "current_count": 94,
+    "timestamp": "2026-01-29T07:01:31.726Z"
+  },
+  {
+    "id": 1113,
+    "space_id": 9,
+    "current_count": 66,
+    "timestamp": "2026-01-29T07:01:31.826Z"
+  },
+  {
+    "id": 1114,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:01:31.915Z"
+  },
+  {
+    "id": 1115,
+    "space_id": 11,
+    "current_count": 132,
+    "timestamp": "2026-01-29T07:01:32.018Z"
+  },
+  {
+    "id": 1116,
+    "space_id": 12,
+    "current_count": 258,
+    "timestamp": "2026-01-29T07:01:32.118Z"
+  },
+  {
+    "id": 1117,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:01:32.218Z"
+  },
+  {
+    "id": 1118,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T07:01:32.318Z"
+  },
+  {
+    "id": 1119,
+    "space_id": 15,
+    "current_count": 26,
+    "timestamp": "2026-01-29T07:01:32.420Z"
+  },
+  {
+    "id": 1120,
+    "space_id": 16,
+    "current_count": 367,
+    "timestamp": "2026-01-29T07:01:32.517Z"
+  },
+  {
+    "id": 1121,
+    "space_id": 1,
+    "current_count": 163,
+    "timestamp": "2026-01-29T07:01:41.013Z"
+  },
+  {
+    "id": 1122,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:01:41.191Z"
+  },
+  {
+    "id": 1123,
+    "space_id": 3,
+    "current_count": 388,
+    "timestamp": "2026-01-29T07:01:41.307Z"
+  },
+  {
+    "id": 1124,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:01:41.433Z"
+  },
+  {
+    "id": 1125,
+    "space_id": 5,
+    "current_count": 81,
+    "timestamp": "2026-01-29T07:01:41.538Z"
+  },
+  {
+    "id": 1126,
+    "space_id": 6,
+    "current_count": 38,
+    "timestamp": "2026-01-29T07:01:41.690Z"
+  },
+  {
+    "id": 1127,
+    "space_id": 7,
+    "current_count": 48,
+    "timestamp": "2026-01-29T07:01:41.821Z"
+  },
+  {
+    "id": 1128,
+    "space_id": 8,
+    "current_count": 86,
+    "timestamp": "2026-01-29T07:01:41.922Z"
+  },
+  {
+    "id": 1129,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T07:01:42.031Z"
+  },
+  {
+    "id": 1130,
+    "space_id": 10,
+    "current_count": 35,
+    "timestamp": "2026-01-29T07:01:42.163Z"
+  },
+  {
+    "id": 1131,
+    "space_id": 11,
+    "current_count": 122,
+    "timestamp": "2026-01-29T07:01:42.271Z"
+  },
+  {
+    "id": 1132,
+    "space_id": 12,
+    "current_count": 236,
+    "timestamp": "2026-01-29T07:01:42.447Z"
+  },
+  {
+    "id": 1133,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:01:42.545Z"
+  },
+  {
+    "id": 1134,
+    "space_id": 14,
+    "current_count": 74,
+    "timestamp": "2026-01-29T07:01:42.664Z"
+  },
+  {
+    "id": 1135,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:01:42.796Z"
+  },
+  {
+    "id": 1136,
+    "space_id": 16,
+    "current_count": 333,
+    "timestamp": "2026-01-29T07:01:42.928Z"
+  },
+  {
+    "id": 1137,
+    "space_id": 1,
+    "current_count": 188,
+    "timestamp": "2026-01-29T07:01:51.019Z"
+  },
+  {
+    "id": 1138,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:01:51.126Z"
+  },
+  {
+    "id": 1139,
+    "space_id": 3,
+    "current_count": 431,
+    "timestamp": "2026-01-29T07:01:51.226Z"
+  },
+  {
+    "id": 1140,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:01:51.326Z"
+  },
+  {
+    "id": 1141,
+    "space_id": 5,
+    "current_count": 86,
+    "timestamp": "2026-01-29T07:01:51.429Z"
+  },
+  {
+    "id": 1142,
+    "space_id": 6,
+    "current_count": 39,
+    "timestamp": "2026-01-29T07:01:51.529Z"
+  },
+  {
+    "id": 1143,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T07:01:51.627Z"
+  },
+  {
+    "id": 1144,
+    "space_id": 8,
+    "current_count": 96,
+    "timestamp": "2026-01-29T07:01:51.728Z"
+  },
+  {
+    "id": 1145,
+    "space_id": 9,
+    "current_count": 64,
+    "timestamp": "2026-01-29T07:01:51.825Z"
+  },
+  {
+    "id": 1146,
+    "space_id": 10,
+    "current_count": 39,
+    "timestamp": "2026-01-29T07:01:51.927Z"
+  },
+  {
+    "id": 1147,
+    "space_id": 11,
+    "current_count": 109,
+    "timestamp": "2026-01-29T07:01:52.031Z"
+  },
+  {
+    "id": 1148,
+    "space_id": 12,
+    "current_count": 233,
+    "timestamp": "2026-01-29T07:01:52.131Z"
+  },
+  {
+    "id": 1149,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:01:52.233Z"
+  },
+  {
+    "id": 1150,
+    "space_id": 14,
+    "current_count": 78,
+    "timestamp": "2026-01-29T07:01:52.332Z"
+  },
+  {
+    "id": 1151,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:01:52.427Z"
+  },
+  {
+    "id": 1152,
+    "space_id": 16,
+    "current_count": 301,
+    "timestamp": "2026-01-29T07:01:52.520Z"
+  },
+  {
+    "id": 1153,
+    "space_id": 1,
+    "current_count": 188,
+    "timestamp": "2026-01-29T07:02:01.028Z"
+  },
+  {
+    "id": 1154,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:02:01.164Z"
+  },
+  {
+    "id": 1155,
+    "space_id": 3,
+    "current_count": 465,
+    "timestamp": "2026-01-29T07:02:01.262Z"
+  },
+  {
+    "id": 1156,
+    "space_id": 4,
+    "current_count": 21,
+    "timestamp": "2026-01-29T07:02:01.359Z"
+  },
+  {
+    "id": 1157,
+    "space_id": 5,
+    "current_count": 76,
+    "timestamp": "2026-01-29T07:02:01.456Z"
+  },
+  {
+    "id": 1158,
+    "space_id": 6,
+    "current_count": 46,
+    "timestamp": "2026-01-29T07:02:01.557Z"
+  },
+  {
+    "id": 1159,
+    "space_id": 7,
+    "current_count": 49,
+    "timestamp": "2026-01-29T07:02:01.679Z"
+  },
+  {
+    "id": 1160,
+    "space_id": 8,
+    "current_count": 92,
+    "timestamp": "2026-01-29T07:02:01.764Z"
+  },
+  {
+    "id": 1161,
+    "space_id": 9,
+    "current_count": 63,
+    "timestamp": "2026-01-29T07:02:01.852Z"
+  },
+  {
+    "id": 1162,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:02:01.949Z"
+  },
+  {
+    "id": 1163,
+    "space_id": 11,
+    "current_count": 106,
+    "timestamp": "2026-01-29T07:02:02.073Z"
+  },
+  {
+    "id": 1164,
+    "space_id": 12,
+    "current_count": 276,
+    "timestamp": "2026-01-29T07:02:02.177Z"
+  },
+  {
+    "id": 1165,
+    "space_id": 13,
+    "current_count": 35,
+    "timestamp": "2026-01-29T07:02:02.281Z"
+  },
+  {
+    "id": 1166,
+    "space_id": 14,
+    "current_count": 83,
+    "timestamp": "2026-01-29T07:02:02.388Z"
+  },
+  {
+    "id": 1167,
+    "space_id": 15,
+    "current_count": 29,
+    "timestamp": "2026-01-29T07:02:02.499Z"
+  },
+  {
+    "id": 1168,
+    "space_id": 16,
+    "current_count": 284,
+    "timestamp": "2026-01-29T07:02:02.607Z"
+  },
+  {
+    "id": 1169,
+    "space_id": 1,
+    "current_count": 148,
+    "timestamp": "2026-01-29T07:02:11.041Z"
+  },
+  {
+    "id": 1170,
+    "space_id": 2,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:02:11.144Z"
+  },
+  {
+    "id": 1171,
+    "space_id": 3,
+    "current_count": 390,
+    "timestamp": "2026-01-29T07:02:11.249Z"
+  },
+  {
+    "id": 1172,
+    "space_id": 4,
+    "current_count": 23,
+    "timestamp": "2026-01-29T07:02:11.366Z"
+  },
+  {
+    "id": 1173,
+    "space_id": 5,
+    "current_count": 92,
+    "timestamp": "2026-01-29T07:02:11.487Z"
+  },
+  {
+    "id": 1174,
+    "space_id": 6,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:02:11.580Z"
+  },
+  {
+    "id": 1175,
+    "space_id": 7,
+    "current_count": 51,
+    "timestamp": "2026-01-29T07:02:11.687Z"
+  },
+  {
+    "id": 1176,
+    "space_id": 8,
+    "current_count": 112,
+    "timestamp": "2026-01-29T07:02:11.780Z"
+  },
+  {
+    "id": 1177,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T07:02:11.891Z"
+  },
+  {
+    "id": 1178,
+    "space_id": 10,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:02:11.992Z"
+  },
+  {
+    "id": 1179,
+    "space_id": 11,
+    "current_count": 106,
+    "timestamp": "2026-01-29T07:02:12.094Z"
+  },
+  {
+    "id": 1180,
+    "space_id": 12,
+    "current_count": 241,
+    "timestamp": "2026-01-29T07:02:12.189Z"
+  },
+  {
+    "id": 1181,
+    "space_id": 13,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:02:12.293Z"
+  },
+  {
+    "id": 1182,
+    "space_id": 14,
+    "current_count": 90,
+    "timestamp": "2026-01-29T07:02:12.394Z"
+  },
+  {
+    "id": 1183,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:02:12.501Z"
+  },
+  {
+    "id": 1184,
+    "space_id": 16,
+    "current_count": 329,
+    "timestamp": "2026-01-29T07:02:12.607Z"
+  },
+  {
+    "id": 1185,
+    "space_id": 1,
+    "current_count": 149,
+    "timestamp": "2026-01-29T07:02:21.055Z"
+  },
+  {
+    "id": 1186,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:02:21.158Z"
+  },
+  {
+    "id": 1187,
+    "space_id": 3,
+    "current_count": 444,
+    "timestamp": "2026-01-29T07:02:21.260Z"
+  },
+  {
+    "id": 1188,
+    "space_id": 4,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:02:21.363Z"
+  },
+  {
+    "id": 1189,
+    "space_id": 5,
+    "current_count": 85,
+    "timestamp": "2026-01-29T07:02:21.463Z"
+  },
+  {
+    "id": 1190,
+    "space_id": 6,
+    "current_count": 40,
+    "timestamp": "2026-01-29T07:02:21.566Z"
+  },
+  {
+    "id": 1191,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T07:02:21.664Z"
+  },
+  {
+    "id": 1192,
+    "space_id": 8,
+    "current_count": 87,
+    "timestamp": "2026-01-29T07:02:21.769Z"
+  },
+  {
+    "id": 1193,
+    "space_id": 9,
+    "current_count": 57,
+    "timestamp": "2026-01-29T07:02:21.877Z"
+  },
+  {
+    "id": 1194,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:02:21.981Z"
+  },
+  {
+    "id": 1195,
+    "space_id": 11,
+    "current_count": 111,
+    "timestamp": "2026-01-29T07:02:22.072Z"
+  },
+  {
+    "id": 1196,
+    "space_id": 12,
+    "current_count": 264,
+    "timestamp": "2026-01-29T07:02:22.177Z"
+  },
+  {
+    "id": 1197,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:02:22.282Z"
+  },
+  {
+    "id": 1198,
+    "space_id": 14,
+    "current_count": 91,
+    "timestamp": "2026-01-29T07:02:22.383Z"
+  },
+  {
+    "id": 1199,
+    "space_id": 15,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:02:22.479Z"
+  },
+  {
+    "id": 1200,
+    "space_id": 16,
+    "current_count": 334,
+    "timestamp": "2026-01-29T07:02:22.592Z"
+  },
+  {
+    "id": 1201,
+    "space_id": 1,
+    "current_count": 150,
+    "timestamp": "2026-01-29T07:02:31.070Z"
+  },
+  {
+    "id": 1202,
+    "space_id": 2,
+    "current_count": 35,
+    "timestamp": "2026-01-29T07:02:31.177Z"
+  },
+  {
+    "id": 1203,
+    "space_id": 3,
+    "current_count": 457,
+    "timestamp": "2026-01-29T07:02:31.283Z"
+  },
+  {
+    "id": 1204,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:02:31.402Z"
+  },
+  {
+    "id": 1205,
+    "space_id": 5,
+    "current_count": 92,
+    "timestamp": "2026-01-29T07:02:31.534Z"
+  },
+  {
+    "id": 1206,
+    "space_id": 6,
+    "current_count": 41,
+    "timestamp": "2026-01-29T07:02:31.640Z"
+  },
+  {
+    "id": 1207,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T07:02:31.748Z"
+  },
+  {
+    "id": 1208,
+    "space_id": 8,
+    "current_count": 88,
+    "timestamp": "2026-01-29T07:02:31.856Z"
+  },
+  {
+    "id": 1209,
+    "space_id": 9,
+    "current_count": 72,
+    "timestamp": "2026-01-29T07:02:31.961Z"
+  },
+  {
+    "id": 1210,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T07:02:32.067Z"
+  },
+  {
+    "id": 1211,
+    "space_id": 11,
+    "current_count": 118,
+    "timestamp": "2026-01-29T07:02:32.171Z"
+  },
+  {
+    "id": 1212,
+    "space_id": 12,
+    "current_count": 211,
+    "timestamp": "2026-01-29T07:02:32.278Z"
+  },
+  {
+    "id": 1213,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:02:32.396Z"
+  },
+  {
+    "id": 1214,
+    "space_id": 14,
+    "current_count": 83,
+    "timestamp": "2026-01-29T07:02:32.517Z"
+  },
+  {
+    "id": 1215,
+    "space_id": 15,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:02:32.628Z"
+  },
+  {
+    "id": 1216,
+    "space_id": 16,
+    "current_count": 299,
+    "timestamp": "2026-01-29T07:02:32.740Z"
+  },
+  {
+    "id": 1217,
+    "space_id": 1,
+    "current_count": 162,
+    "timestamp": "2026-01-29T07:02:41.075Z"
+  },
+  {
+    "id": 1218,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:02:41.181Z"
+  },
+  {
+    "id": 1219,
+    "space_id": 3,
+    "current_count": 392,
+    "timestamp": "2026-01-29T07:02:41.285Z"
+  },
+  {
+    "id": 1220,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T07:02:41.394Z"
+  },
+  {
+    "id": 1221,
+    "space_id": 5,
+    "current_count": 77,
+    "timestamp": "2026-01-29T07:02:41.500Z"
+  },
+  {
+    "id": 1222,
+    "space_id": 6,
+    "current_count": 45,
+    "timestamp": "2026-01-29T07:02:41.611Z"
+  },
+  {
+    "id": 1223,
+    "space_id": 7,
+    "current_count": 49,
+    "timestamp": "2026-01-29T07:02:41.718Z"
+  },
+  {
+    "id": 1224,
+    "space_id": 8,
+    "current_count": 97,
+    "timestamp": "2026-01-29T07:02:41.825Z"
+  },
+  {
+    "id": 1225,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T07:02:41.933Z"
+  },
+  {
+    "id": 1226,
+    "space_id": 10,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:02:42.031Z"
+  },
+  {
+    "id": 1227,
+    "space_id": 11,
+    "current_count": 121,
+    "timestamp": "2026-01-29T07:02:42.151Z"
+  },
+  {
+    "id": 1228,
+    "space_id": 12,
+    "current_count": 274,
+    "timestamp": "2026-01-29T07:02:42.253Z"
+  },
+  {
+    "id": 1229,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:02:42.370Z"
+  },
+  {
+    "id": 1230,
+    "space_id": 14,
+    "current_count": 77,
+    "timestamp": "2026-01-29T07:02:42.484Z"
+  },
+  {
+    "id": 1231,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:02:42.612Z"
+  },
+  {
+    "id": 1232,
+    "space_id": 16,
+    "current_count": 314,
+    "timestamp": "2026-01-29T07:02:42.722Z"
+  },
+  {
+    "id": 1233,
+    "space_id": 1,
+    "current_count": 161,
+    "timestamp": "2026-01-29T07:02:51.082Z"
+  },
+  {
+    "id": 1234,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:02:51.211Z"
+  },
+  {
+    "id": 1235,
+    "space_id": 3,
+    "current_count": 372,
+    "timestamp": "2026-01-29T07:02:51.392Z"
+  },
+  {
+    "id": 1236,
+    "space_id": 4,
+    "current_count": 27,
+    "timestamp": "2026-01-29T07:02:51.523Z"
+  },
+  {
+    "id": 1237,
+    "space_id": 5,
+    "current_count": 78,
+    "timestamp": "2026-01-29T07:02:51.642Z"
+  },
+  {
+    "id": 1238,
+    "space_id": 6,
+    "current_count": 39,
+    "timestamp": "2026-01-29T07:02:51.785Z"
+  },
+  {
+    "id": 1239,
+    "space_id": 7,
+    "current_count": 54,
+    "timestamp": "2026-01-29T07:02:51.903Z"
+  },
+  {
+    "id": 1240,
+    "space_id": 8,
+    "current_count": 96,
+    "timestamp": "2026-01-29T07:02:52.027Z"
+  },
+  {
+    "id": 1241,
+    "space_id": 9,
+    "current_count": 73,
+    "timestamp": "2026-01-29T07:02:52.169Z"
+  },
+  {
+    "id": 1242,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:02:52.316Z"
+  },
+  {
+    "id": 1243,
+    "space_id": 11,
+    "current_count": 120,
+    "timestamp": "2026-01-29T07:02:52.439Z"
+  },
+  {
+    "id": 1244,
+    "space_id": 12,
+    "current_count": 271,
+    "timestamp": "2026-01-29T07:02:52.551Z"
+  },
+  {
+    "id": 1245,
+    "space_id": 13,
+    "current_count": 29,
+    "timestamp": "2026-01-29T07:02:52.660Z"
+  },
+  {
+    "id": 1246,
+    "space_id": 14,
+    "current_count": 94,
+    "timestamp": "2026-01-29T07:02:52.769Z"
+  },
+  {
+    "id": 1247,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:02:52.885Z"
+  },
+  {
+    "id": 1248,
+    "space_id": 16,
+    "current_count": 320,
+    "timestamp": "2026-01-29T07:02:53.000Z"
+  },
+  {
+    "id": 1249,
+    "space_id": 1,
+    "current_count": 173,
+    "timestamp": "2026-01-29T07:03:01.092Z"
+  },
+  {
+    "id": 1250,
+    "space_id": 2,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:03:01.328Z"
+  },
+  {
+    "id": 1251,
+    "space_id": 3,
+    "current_count": 421,
+    "timestamp": "2026-01-29T07:03:01.515Z"
+  },
+  {
+    "id": 1252,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:03:01.711Z"
+  },
+  {
+    "id": 1253,
+    "space_id": 5,
+    "current_count": 90,
+    "timestamp": "2026-01-29T07:03:01.829Z"
+  },
+  {
+    "id": 1254,
+    "space_id": 6,
+    "current_count": 39,
+    "timestamp": "2026-01-29T07:03:01.958Z"
+  },
+  {
+    "id": 1255,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T07:03:02.085Z"
+  },
+  {
+    "id": 1256,
+    "space_id": 8,
+    "current_count": 101,
+    "timestamp": "2026-01-29T07:03:02.252Z"
+  },
+  {
+    "id": 1257,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T07:03:02.412Z"
+  },
+  {
+    "id": 1258,
+    "space_id": 10,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:03:02.534Z"
+  },
+  {
+    "id": 1259,
+    "space_id": 11,
+    "current_count": 113,
+    "timestamp": "2026-01-29T07:03:02.702Z"
+  },
+  {
+    "id": 1260,
+    "space_id": 12,
+    "current_count": 264,
+    "timestamp": "2026-01-29T07:03:02.829Z"
+  },
+  {
+    "id": 1261,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:03:02.962Z"
+  },
+  {
+    "id": 1262,
+    "space_id": 14,
+    "current_count": 82,
+    "timestamp": "2026-01-29T07:03:03.130Z"
+  },
+  {
+    "id": 1263,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:03:03.252Z"
+  },
+  {
+    "id": 1264,
+    "space_id": 16,
+    "current_count": 300,
+    "timestamp": "2026-01-29T07:03:03.390Z"
+  },
+  {
+    "id": 1265,
+    "space_id": 1,
+    "current_count": 181,
+    "timestamp": "2026-01-29T07:03:11.106Z"
+  },
+  {
+    "id": 1266,
+    "space_id": 1,
+    "current_count": 176,
+    "timestamp": "2026-01-29T07:14:40.899Z"
+  },
+  {
+    "id": 1267,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:14:41.010Z"
+  },
+  {
+    "id": 1268,
+    "space_id": 3,
+    "current_count": 356,
+    "timestamp": "2026-01-29T07:14:41.114Z"
+  },
+  {
+    "id": 1269,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:14:41.221Z"
+  },
+  {
+    "id": 1270,
+    "space_id": 5,
+    "current_count": 73,
+    "timestamp": "2026-01-29T07:14:41.328Z"
+  },
+  {
+    "id": 1271,
+    "space_id": 6,
+    "current_count": 46,
+    "timestamp": "2026-01-29T07:14:41.441Z"
+  },
+  {
+    "id": 1272,
+    "space_id": 7,
+    "current_count": 49,
+    "timestamp": "2026-01-29T07:14:41.553Z"
+  },
+  {
+    "id": 1273,
+    "space_id": 8,
+    "current_count": 105,
+    "timestamp": "2026-01-29T07:14:41.663Z"
+  },
+  {
+    "id": 1274,
+    "space_id": 9,
+    "current_count": 60,
+    "timestamp": "2026-01-29T07:14:41.767Z"
+  },
+  {
+    "id": 1275,
+    "space_id": 10,
+    "current_count": 38,
+    "timestamp": "2026-01-29T07:14:41.878Z"
+  },
+  {
+    "id": 1276,
+    "space_id": 11,
+    "current_count": 115,
+    "timestamp": "2026-01-29T07:14:41.985Z"
+  },
+  {
+    "id": 1277,
+    "space_id": 12,
+    "current_count": 245,
+    "timestamp": "2026-01-29T07:14:42.095Z"
+  },
+  {
+    "id": 1278,
+    "space_id": 13,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:14:42.202Z"
+  },
+  {
+    "id": 1279,
+    "space_id": 14,
+    "current_count": 87,
+    "timestamp": "2026-01-29T07:14:42.307Z"
+  },
+  {
+    "id": 1280,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T07:14:42.421Z"
+  },
+  {
+    "id": 1281,
+    "space_id": 16,
+    "current_count": 334,
+    "timestamp": "2026-01-29T07:14:42.530Z"
+  },
+  {
+    "id": 1282,
+    "space_id": 1,
+    "current_count": 172,
+    "timestamp": "2026-01-29T07:14:50.911Z"
+  },
+  {
+    "id": 1283,
+    "space_id": 2,
+    "current_count": 29,
+    "timestamp": "2026-01-29T07:14:51.027Z"
+  },
+  {
+    "id": 1284,
+    "space_id": 3,
+    "current_count": 355,
+    "timestamp": "2026-01-29T07:14:51.140Z"
+  },
+  {
+    "id": 1285,
+    "space_id": 4,
+    "current_count": 22,
+    "timestamp": "2026-01-29T07:14:51.253Z"
+  },
+  {
+    "id": 1286,
+    "space_id": 5,
+    "current_count": 81,
+    "timestamp": "2026-01-29T07:14:51.364Z"
+  },
+  {
+    "id": 1287,
+    "space_id": 6,
+    "current_count": 43,
+    "timestamp": "2026-01-29T07:14:51.477Z"
+  },
+  {
+    "id": 1288,
+    "space_id": 7,
+    "current_count": 55,
+    "timestamp": "2026-01-29T07:14:51.588Z"
+  },
+  {
+    "id": 1289,
+    "space_id": 8,
+    "current_count": 103,
+    "timestamp": "2026-01-29T07:14:51.703Z"
+  },
+  {
+    "id": 1290,
+    "space_id": 9,
+    "current_count": 64,
+    "timestamp": "2026-01-29T07:14:51.818Z"
+  },
+  {
+    "id": 1291,
+    "space_id": 10,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:14:51.931Z"
+  },
+  {
+    "id": 1292,
+    "space_id": 11,
+    "current_count": 138,
+    "timestamp": "2026-01-29T07:14:52.041Z"
+  },
+  {
+    "id": 1293,
+    "space_id": 12,
+    "current_count": 279,
+    "timestamp": "2026-01-29T07:14:52.157Z"
+  },
+  {
+    "id": 1294,
+    "space_id": 13,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:14:52.278Z"
+  },
+  {
+    "id": 1295,
+    "space_id": 14,
+    "current_count": 94,
+    "timestamp": "2026-01-29T07:14:52.390Z"
+  },
+  {
+    "id": 1296,
+    "space_id": 15,
+    "current_count": 25,
+    "timestamp": "2026-01-29T07:14:52.505Z"
+  },
+  {
+    "id": 1297,
+    "space_id": 16,
+    "current_count": 328,
+    "timestamp": "2026-01-29T07:14:52.620Z"
+  },
+  {
+    "id": 1298,
+    "space_id": 1,
+    "current_count": 175,
+    "timestamp": "2026-01-29T07:15:00.923Z"
+  },
+  {
+    "id": 1299,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:15:01.031Z"
+  },
+  {
+    "id": 1300,
+    "space_id": 3,
+    "current_count": 438,
+    "timestamp": "2026-01-29T07:15:01.145Z"
+  },
+  {
+    "id": 1301,
+    "space_id": 4,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:15:01.263Z"
+  },
+  {
+    "id": 1302,
+    "space_id": 5,
+    "current_count": 70,
+    "timestamp": "2026-01-29T07:15:01.368Z"
+  },
+  {
+    "id": 1303,
+    "space_id": 6,
+    "current_count": 35,
+    "timestamp": "2026-01-29T07:15:01.489Z"
+  },
+  {
+    "id": 1304,
+    "space_id": 7,
+    "current_count": 56,
+    "timestamp": "2026-01-29T07:15:01.603Z"
+  },
+  {
+    "id": 1305,
+    "space_id": 8,
+    "current_count": 112,
+    "timestamp": "2026-01-29T07:15:01.716Z"
+  },
+  {
+    "id": 1306,
+    "space_id": 9,
+    "current_count": 61,
+    "timestamp": "2026-01-29T07:15:01.826Z"
+  },
+  {
+    "id": 1307,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T07:15:01.943Z"
+  },
+  {
+    "id": 1308,
+    "space_id": 11,
+    "current_count": 108,
+    "timestamp": "2026-01-29T07:15:02.061Z"
+  },
+  {
+    "id": 1309,
+    "space_id": 12,
+    "current_count": 238,
+    "timestamp": "2026-01-29T07:15:02.177Z"
+  },
+  {
+    "id": 1310,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:15:02.295Z"
+  },
+  {
+    "id": 1311,
+    "space_id": 14,
+    "current_count": 74,
+    "timestamp": "2026-01-29T07:15:02.419Z"
+  },
+  {
+    "id": 1312,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:15:02.500Z"
+  },
+  {
+    "id": 1313,
+    "space_id": 16,
+    "current_count": 288,
+    "timestamp": "2026-01-29T07:15:02.560Z"
+  },
+  {
+    "id": 1314,
+    "space_id": 1,
+    "current_count": 167,
+    "timestamp": "2026-01-29T07:15:10.937Z"
+  },
+  {
+    "id": 1315,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:15:11.061Z"
+  },
+  {
+    "id": 1316,
+    "space_id": 3,
+    "current_count": 445,
+    "timestamp": "2026-01-29T07:15:11.191Z"
+  },
+  {
+    "id": 1317,
+    "space_id": 4,
+    "current_count": 26,
+    "timestamp": "2026-01-29T07:15:11.297Z"
+  },
+  {
+    "id": 1318,
+    "space_id": 5,
+    "current_count": 76,
+    "timestamp": "2026-01-29T07:15:11.412Z"
+  },
+  {
+    "id": 1319,
+    "space_id": 6,
+    "current_count": 45,
+    "timestamp": "2026-01-29T07:15:11.546Z"
+  },
+  {
+    "id": 1320,
+    "space_id": 7,
+    "current_count": 42,
+    "timestamp": "2026-01-29T07:15:11.664Z"
+  },
+  {
+    "id": 1321,
+    "space_id": 8,
+    "current_count": 104,
+    "timestamp": "2026-01-29T07:15:11.780Z"
+  },
+  {
+    "id": 1322,
+    "space_id": 9,
+    "current_count": 70,
+    "timestamp": "2026-01-29T07:15:11.896Z"
+  },
+  {
+    "id": 1323,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:15:12.023Z"
+  },
+  {
+    "id": 1324,
+    "space_id": 11,
+    "current_count": 134,
+    "timestamp": "2026-01-29T07:15:12.138Z"
+  },
+  {
+    "id": 1325,
+    "space_id": 12,
+    "current_count": 242,
+    "timestamp": "2026-01-29T07:15:12.255Z"
+  },
+  {
+    "id": 1326,
+    "space_id": 13,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:15:12.373Z"
+  },
+  {
+    "id": 1327,
+    "space_id": 14,
+    "current_count": 87,
+    "timestamp": "2026-01-29T07:15:12.500Z"
+  },
+  {
+    "id": 1328,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T07:15:12.618Z"
+  },
+  {
+    "id": 1329,
+    "space_id": 16,
+    "current_count": 315,
+    "timestamp": "2026-01-29T07:15:12.740Z"
+  },
+  {
+    "id": 1330,
+    "space_id": 1,
+    "current_count": 160,
+    "timestamp": "2026-01-29T07:15:20.943Z"
+  },
+  {
+    "id": 1331,
+    "space_id": 2,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:15:21.061Z"
+  },
+  {
+    "id": 1332,
+    "space_id": 3,
+    "current_count": 361,
+    "timestamp": "2026-01-29T07:15:21.178Z"
+  },
+  {
+    "id": 1333,
+    "space_id": 4,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:15:21.286Z"
+  },
+  {
+    "id": 1334,
+    "space_id": 5,
+    "current_count": 71,
+    "timestamp": "2026-01-29T07:15:21.399Z"
+  },
+  {
+    "id": 1335,
+    "space_id": 6,
+    "current_count": 46,
+    "timestamp": "2026-01-29T07:15:21.517Z"
+  },
+  {
+    "id": 1336,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T07:15:21.636Z"
+  },
+  {
+    "id": 1337,
+    "space_id": 8,
+    "current_count": 98,
+    "timestamp": "2026-01-29T07:15:21.750Z"
+  },
+  {
+    "id": 1338,
+    "space_id": 9,
+    "current_count": 62,
+    "timestamp": "2026-01-29T07:15:21.847Z"
+  },
+  {
+    "id": 1339,
+    "space_id": 10,
+    "current_count": 40,
+    "timestamp": "2026-01-29T07:15:21.965Z"
+  },
+  {
+    "id": 1340,
+    "space_id": 11,
+    "current_count": 128,
+    "timestamp": "2026-01-29T07:15:22.063Z"
+  },
+  {
+    "id": 1341,
+    "space_id": 12,
+    "current_count": 272,
+    "timestamp": "2026-01-29T07:15:22.179Z"
+  },
+  {
+    "id": 1342,
+    "space_id": 13,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:15:22.304Z"
+  },
+  {
+    "id": 1343,
+    "space_id": 14,
+    "current_count": 82,
+    "timestamp": "2026-01-29T07:15:22.420Z"
+  },
+  {
+    "id": 1344,
+    "space_id": 15,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:15:22.542Z"
+  },
+  {
+    "id": 1345,
+    "space_id": 16,
+    "current_count": 334,
+    "timestamp": "2026-01-29T07:15:22.666Z"
+  },
+  {
+    "id": 1346,
+    "space_id": 1,
+    "current_count": 165,
+    "timestamp": "2026-01-29T07:15:30.957Z"
+  },
+  {
+    "id": 1347,
+    "space_id": 2,
+    "current_count": 31,
+    "timestamp": "2026-01-29T07:15:31.069Z"
+  },
+  {
+    "id": 1348,
+    "space_id": 3,
+    "current_count": 437,
+    "timestamp": "2026-01-29T07:15:31.174Z"
+  },
+  {
+    "id": 1349,
+    "space_id": 4,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:15:31.285Z"
+  },
+  {
+    "id": 1350,
+    "space_id": 5,
+    "current_count": 72,
+    "timestamp": "2026-01-29T07:15:31.403Z"
+  },
+  {
+    "id": 1351,
+    "space_id": 6,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:15:31.522Z"
+  },
+  {
+    "id": 1352,
+    "space_id": 7,
+    "current_count": 50,
+    "timestamp": "2026-01-29T07:15:31.638Z"
+  },
+  {
+    "id": 1353,
+    "space_id": 8,
+    "current_count": 99,
+    "timestamp": "2026-01-29T07:15:31.758Z"
+  },
+  {
+    "id": 1354,
+    "space_id": 9,
+    "current_count": 75,
+    "timestamp": "2026-01-29T07:15:31.875Z"
+  },
+  {
+    "id": 1355,
+    "space_id": 10,
+    "current_count": 41,
+    "timestamp": "2026-01-29T07:15:31.989Z"
+  },
+  {
+    "id": 1356,
+    "space_id": 11,
+    "current_count": 120,
+    "timestamp": "2026-01-29T07:15:32.105Z"
+  },
+  {
+    "id": 1357,
+    "space_id": 12,
+    "current_count": 261,
+    "timestamp": "2026-01-29T07:15:32.227Z"
+  },
+  {
+    "id": 1358,
+    "space_id": 13,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:15:32.349Z"
+  },
+  {
+    "id": 1359,
+    "space_id": 14,
+    "current_count": 90,
+    "timestamp": "2026-01-29T07:15:32.474Z"
+  },
+  {
+    "id": 1360,
+    "space_id": 15,
+    "current_count": 27,
+    "timestamp": "2026-01-29T07:15:32.598Z"
+  },
+  {
+    "id": 1361,
+    "space_id": 16,
+    "current_count": 328,
+    "timestamp": "2026-01-29T07:15:32.718Z"
+  },
+  {
+    "id": 1362,
+    "space_id": 1,
+    "current_count": 176,
+    "timestamp": "2026-01-29T07:15:40.964Z"
+  },
+  {
+    "id": 1363,
+    "space_id": 2,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:15:41.091Z"
+  },
+  {
+    "id": 1364,
+    "space_id": 3,
+    "current_count": 460,
+    "timestamp": "2026-01-29T07:15:41.236Z"
+  },
+  {
+    "id": 1365,
+    "space_id": 4,
+    "current_count": 25,
+    "timestamp": "2026-01-29T07:15:41.366Z"
+  },
+  {
+    "id": 1366,
+    "space_id": 5,
+    "current_count": 91,
+    "timestamp": "2026-01-29T07:15:41.492Z"
+  },
+  {
+    "id": 1367,
+    "space_id": 6,
+    "current_count": 36,
+    "timestamp": "2026-01-29T07:15:41.621Z"
+  },
+  {
+    "id": 1368,
+    "space_id": 7,
+    "current_count": 44,
+    "timestamp": "2026-01-29T07:15:41.741Z"
+  },
+  {
+    "id": 1369,
+    "space_id": 8,
+    "current_count": 85,
+    "timestamp": "2026-01-29T07:15:41.878Z"
+  },
+  {
+    "id": 1370,
+    "space_id": 9,
+    "current_count": 67,
+    "timestamp": "2026-01-29T07:15:41.995Z"
+  },
+  {
+    "id": 1371,
+    "space_id": 10,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:15:42.116Z"
+  },
+  {
+    "id": 1372,
+    "space_id": 11,
+    "current_count": 131,
+    "timestamp": "2026-01-29T07:15:42.239Z"
+  },
+  {
+    "id": 1373,
+    "space_id": 12,
+    "current_count": 257,
+    "timestamp": "2026-01-29T07:15:42.364Z"
+  },
+  {
+    "id": 1374,
+    "space_id": 13,
+    "current_count": 33,
+    "timestamp": "2026-01-29T07:15:42.486Z"
+  },
+  {
+    "id": 1375,
+    "space_id": 14,
+    "current_count": 82,
+    "timestamp": "2026-01-29T07:15:42.605Z"
+  },
+  {
+    "id": 1376,
+    "space_id": 15,
+    "current_count": 24,
+    "timestamp": "2026-01-29T07:15:42.726Z"
+  },
+  {
+    "id": 1377,
+    "space_id": 16,
+    "current_count": 346,
+    "timestamp": "2026-01-29T07:15:42.849Z"
+  },
+  {
+    "id": 1378,
+    "space_id": 1,
+    "current_count": 177,
+    "timestamp": "2026-01-29T07:15:50.977Z"
+  },
+  {
+    "id": 1379,
+    "space_id": 2,
+    "current_count": 37,
+    "timestamp": "2026-01-29T07:15:51.100Z"
+  },
+  {
+    "id": 1380,
+    "space_id": 3,
+    "current_count": 400,
+    "timestamp": "2026-01-29T07:15:51.220Z"
+  },
+  {
+    "id": 1381,
+    "space_id": 4,
+    "current_count": 28,
+    "timestamp": "2026-01-29T07:15:51.346Z"
+  },
+  {
+    "id": 1382,
+    "space_id": 5,
+    "current_count": 87,
+    "timestamp": "2026-01-29T07:15:51.469Z"
+  },
+  {
+    "id": 1383,
+    "space_id": 6,
+    "current_count": 38,
+    "timestamp": "2026-01-29T07:15:51.590Z"
+  },
+  {
+    "id": 1384,
+    "space_id": 7,
+    "current_count": 52,
+    "timestamp": "2026-01-29T07:15:51.710Z"
+  },
+  {
+    "id": 1385,
+    "space_id": 8,
+    "current_count": 91,
+    "timestamp": "2026-01-29T07:15:51.818Z"
+  },
+  {
+    "id": 1386,
+    "space_id": 9,
+    "current_count": 68,
+    "timestamp": "2026-01-29T07:15:51.929Z"
+  },
+  {
+    "id": 1387,
+    "space_id": 10,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:15:52.047Z"
+  },
+  {
+    "id": 1388,
+    "space_id": 11,
+    "current_count": 132,
+    "timestamp": "2026-01-29T07:15:52.164Z"
+  },
+  {
+    "id": 1389,
+    "space_id": 12,
+    "current_count": 230,
+    "timestamp": "2026-01-29T07:15:52.292Z"
+  },
+  {
+    "id": 1390,
+    "space_id": 13,
+    "current_count": 34,
+    "timestamp": "2026-01-29T07:15:52.425Z"
+  },
+  {
+    "id": 1391,
+    "space_id": 14,
+    "current_count": 92,
+    "timestamp": "2026-01-29T07:15:52.532Z"
+  },
+  {
+    "id": 1392,
+    "space_id": 15,
+    "current_count": 32,
+    "timestamp": "2026-01-29T07:15:52.632Z"
+  },
+  {
+    "id": 1393,
+    "space_id": 16,
+    "current_count": 363,
+    "timestamp": "2026-01-29T07:15:52.711Z"
+  }
+]

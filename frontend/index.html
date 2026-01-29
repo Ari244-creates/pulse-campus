@@ -300,7 +300,8 @@
         </div>
 
         <!-- Core Navigation -->
-        <div class="sidebar-icon active" data-tooltip="Campus Command Center">
+        <div id="homeLink" class="sidebar-icon active" data-tooltip="Campus Command Center"
+            onclick="scrollToSection('home')">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                     d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
@@ -381,7 +382,7 @@
         </div>
     </nav>
 
-    <div class="pl-20"> <!-- Main content offset for sidebar -->
+    <div id="home" class="pl-20"> <!-- Main content offset for sidebar -->
         <!-- Header -->
         <header class="p-8 flex justify-between items-start border-b border-white/5 backdrop-blur-md sticky top-0 z-50">
             <div class="flex items-center gap-4">
@@ -715,20 +716,21 @@
                     <div class="space-y-4">
                         <div class="p-3 bg-white/5 rounded-lg border border-white/5">
                             <div class="flex justify-between items-center">
-                                <span class="text-xs font-semibold">Mid-Sem Exams</span>
-                                <span
+                                <span id="examTitle" class="text-xs font-semibold">Mid-Sem Exams</span>
+                                <span id="examStatus"
                                     class="text-[10px] px-2 py-0.5 bg-green-500/20 text-green-400 rounded">ONGOING</span>
                             </div>
-                            <div class="text-[10px] text-gray-500 mt-1">Next: Advanced Algorithms (14:00)</div>
+                            <div id="nextExam" class="text-[10px] text-gray-500 mt-1">Next: Advanced Algorithms (14:00)
+                            </div>
                         </div>
                         <div class="grid grid-cols-2 gap-4">
                             <div class="bg-white/5 p-3 rounded-lg text-center">
                                 <div class="text-[8px] text-gray-400 uppercase">Invigilation Status</div>
-                                <div class="text-sm font-bold text-cyan-400">Locked</div>
+                                <div id="invigilationStatus" class="text-sm font-bold text-cyan-400">Locked</div>
                             </div>
                             <div class="bg-white/5 p-3 rounded-lg text-center">
                                 <div class="text-[8px] text-gray-400 uppercase">Seating Capacity</div>
-                                <div class="text-sm font-bold text-emerald-400">92%</div>
+                                <div id="seatingCapacity" class="text-sm font-bold text-emerald-400">92%</div>
                             </div>
                         </div>
                     </div>
@@ -746,11 +748,11 @@
                     <div class="space-y-4 text-xs">
                         <div class="flex justify-between items-center text-gray-400">
                             <span>System Throughput</span>
-                            <span class="text-cyan-400 font-bold">1.2 GB/s</span>
+                            <span id="systemThroughput" class="text-cyan-400 font-bold">1.2 GB/s</span>
                         </div>
                         <div class="flex justify-between items-center text-gray-400">
                             <span>AI Decision Accuracy</span>
-                            <span class="text-emerald-400 font-bold">99.4%</span>
+                            <span id="aiAccuracy" class="text-emerald-400 font-bold">99.4%</span>
                         </div>
                         <div class="mt-4 pt-4 border-t border-white/5">
                             <div class="text-[8px] text-gray-500 uppercase mb-2">Network Topology Status</div>
@@ -842,7 +844,6 @@
                 </div>
             </div>
         </div>
-    </div>
     </div>
     </main>
     </div>
@@ -1171,6 +1172,42 @@
             }
         }
 
+        async function updateExamStats() {
+            try {
+                const response = await fetch(`${API_BASE}/exams/stats`);
+                const data = await response.json();
+
+                const title = document.getElementById('examTitle');
+                const status = document.getElementById('examStatus');
+                const next = document.getElementById('nextExam');
+                const invigilation = document.getElementById('invigilationStatus');
+                const seating = document.getElementById('seatingCapacity');
+
+                if (title) title.textContent = data.ongoing;
+                if (status) status.textContent = data.status;
+                if (next) next.textContent = `Next: ${data.nextExam}`;
+                if (invigilation) invigilation.textContent = data.invigilation;
+                if (seating) seating.textContent = data.seatingCapacity;
+            } catch (error) {
+                console.error("Exam Stats Fetch Failed:", error);
+            }
+        }
+
+        async function updateDetailedAnalytics() {
+            try {
+                const response = await fetch(`${API_BASE}/analytics/detailed`);
+                const data = await response.json();
+
+                const throughput = document.getElementById('systemThroughput');
+                const accuracy = document.getElementById('aiAccuracy');
+
+                if (throughput) throughput.textContent = data.throughput;
+                if (accuracy) accuracy.textContent = data.accuracy;
+            } catch (error) {
+                console.error("Detailed Analytics Fetch Failed:", error);
+            }
+        }
+
         // Action Feed
         async function updateActionFeed() {
             try {
@@ -1328,6 +1365,8 @@
             updateEfficiencyScore();
             updateActionFeed();
             updateLearningLog();
+            updateExamStats();
+            updateDetailedAnalytics();
         }
 
         init();
@@ -1338,6 +1377,8 @@
         setInterval(updateActionFeed, 10000);
         setInterval(updateLearningLog, 15000);
         setInterval(updateEfficiencyScore, 20000);
+        setInterval(updateExamStats, 12000);
+        setInterval(updateDetailedAnalytics, 18000);
 
         // Resize handler
         window.addEventListener('resize', () => {
