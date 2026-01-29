@@ -41,12 +41,41 @@
         }
 
         .heatmap-cell {
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            cursor: pointer;
         }
 
         .heatmap-cell:hover {
-            transform: scale(1.1);
+            transform: scale(1.03);
             z-index: 10;
+            filter: brightness(1.1);
+        }
+
+        /* Tooltip System */
+        .heatmap-tooltip {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%) translateY(-10px);
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 8px 12px;
+            border-radius: 0.75rem;
+            z-index: 100;
+            pointer-events: none;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            min-width: 140px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+        }
+
+        .heatmap-cell:hover .heatmap-tooltip {
+            opacity: 1;
+            visibility: visible;
+            transform: translateX(-50%) translateY(-15px);
         }
 
         #neuralCanvas {
@@ -444,6 +473,11 @@
 
                     <div id="heatmapGrid" class="grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 gap-4">
                         <!-- Dynamic Grid Cells -->
+                    </div>
+
+                    <div class="mt-4 text-center">
+                        <p class="text-[10px] text-gray-500 uppercase font-bold tracking-widest opacity-60">13 Active
+                            Zones &bull; Live Data</p>
                     </div>
                 </div>
 
@@ -949,32 +983,41 @@
 
                 zones.forEach((zone, index) => {
                     const occupancy = Math.round(zone.utilization * 100);
-                    let color, glowColor;
+                    let color, glowColor, status;
 
                     if (occupancy <= 30) {
                         color = 'bg-green-500';
-                        glowColor = 'rgba(34, 197, 94, 0.5)';
+                        glowColor = 'rgba(34, 197, 94, 0.4)';
+                        status = 'Optimal';
                     } else if (occupancy <= 70) {
                         color = 'bg-yellow-500';
-                        glowColor = 'rgba(234, 179, 8, 0.5)';
+                        glowColor = 'rgba(234, 179, 8, 0.4)';
+                        status = 'Moderate';
                     } else if (occupancy <= 90) {
                         color = 'bg-orange-500';
-                        glowColor = 'rgba(249, 115, 22, 0.5)';
+                        glowColor = 'rgba(249, 115, 22, 0.4)';
+                        status = 'High';
                     } else {
                         color = 'bg-red-500';
-                        glowColor = 'rgba(239, 68, 68, 0.8)';
+                        glowColor = 'rgba(239, 68, 68, 0.5)';
+                        status = 'Critical';
                     }
 
                     const cell = document.createElement('div');
-                    cell.className = `heatmap-cell ${color} rounded-lg aspect-square relative group cursor-pointer`;
-                    cell.style.boxShadow = `0 0 20px ${glowColor}`;
+                    cell.className = `heatmap-cell ${color} rounded-lg aspect-square shadow-lg transition-all duration-500`;
+                    cell.style.boxShadow = `inset 0 0 10px rgba(0,0,0,0.2), 0 0 15px ${glowColor}`;
 
                     cell.innerHTML = `
-                        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-                            <div class="text-center p-2 bg-black/80 rounded-lg backdrop-blur-sm">
-                                <div class="text-[9px] font-bold text-violet-400 uppercase mb-1">Block ${Math.floor(index / 8) + 1}</div>
-                                <div class="text-xs font-bold mono">RM-${100 + index}</div>
-                                <div class="text-xl font-bold">${occupancy}%</div>
+                        <div class="heatmap-tooltip">
+                            <div class="text-[9px] text-gray-400 uppercase font-bold mb-1">Zone Terminal</div>
+                            <div class="text-sm font-bold text-white mb-1">${zone.zone_name || `Block ${Math.floor(index / 8) + 1}-RM${100 + index}`}</div>
+                            <div class="flex justify-between items-center border-t border-white/10 pt-1 mt-1">
+                                <span class="text-[10px] text-gray-500 font-medium">Occupancy</span>
+                                <span class="text-[10px] font-bold text-white">${occupancy}%</span>
+                            </div>
+                            <div class="flex justify-between items-center">
+                                <span class="text-[10px] text-gray-500 font-medium">Status</span>
+                                <span class="text-[10px] font-bold text-cyan-400 uppercase">${status}</span>
                             </div>
                         </div>
                     `;
