@@ -979,10 +979,14 @@
                 zones = data;
 
                 const grid = document.getElementById('heatmapGrid');
+                if (!grid) return;
                 grid.innerHTML = '';
 
                 zones.forEach((zone, index) => {
-                    const occupancy = Math.round(zone.utilization * 100);
+                    // Normalize utilization
+                    const util = zone.utilization || 0;
+                    const occupancy = Math.round(util * 100);
+
                     let color, glowColor, status;
 
                     if (occupancy <= 30) {
@@ -1004,13 +1008,14 @@
                     }
 
                     const cell = document.createElement('div');
-                    cell.className = `heatmap-cell ${color} rounded-lg aspect-square shadow-lg transition-all duration-500`;
+                    // Ensure relative and group are present for tooltip and hover
+                    cell.className = `heatmap-cell ${color} rounded-lg aspect-square w-full min-h-[60px] relative group cursor-pointer shadow-lg transition-all duration-500`;
                     cell.style.boxShadow = `inset 0 0 10px rgba(0,0,0,0.2), 0 0 15px ${glowColor}`;
 
                     cell.innerHTML = `
                         <div class="heatmap-tooltip">
                             <div class="text-[9px] text-gray-400 uppercase font-bold mb-1">Zone Terminal</div>
-                            <div class="text-sm font-bold text-white mb-1">${zone.zone_name || `Block ${Math.floor(index / 8) + 1}-RM${100 + index}`}</div>
+                            <div class="text-sm font-bold text-white mb-1">${zone.space_name || zone.name || `Zone RM-${100 + index}`}</div>
                             <div class="flex justify-between items-center border-t border-white/10 pt-1 mt-1">
                                 <span class="text-[10px] text-gray-500 font-medium">Occupancy</span>
                                 <span class="text-[10px] font-bold text-white">${occupancy}%</span>
@@ -1025,9 +1030,15 @@
                     grid.appendChild(cell);
                 });
 
-                // Update active zones count (derived)
-                const activeZones = zones.filter(z => z.current_count > 0).length;
-                animateNumber('activeZones', activeZones);
+                // Update active zones count
+                const activeCount = zones.filter(z => (z.current_count || 0) > 0).length;
+                animateNumber('activeZones', activeCount);
+
+                // Update the small label as well
+                const label = document.querySelector('.mt-4.text-center p');
+                if (label) {
+                    label.textContent = `${zones.length} Active Zones • Live Data`;
+                }
 
             } catch (error) {
                 console.error('Error fetching occupancy data:', error);
