@@ -49,43 +49,63 @@ const saveLog = (space_id, count, res) => {
 
 // GET /api/occupancy/current
 exports.getCurrentOccupancy = (req, res) => {
-    const query = `
-    SELECT s.id as space_id, s.name as space_name, l.current_count, s.capacity
-    FROM spaces s
-    LEFT JOIN (
-      SELECT space_id, current_count
-      FROM occupancy_logs
-      WHERE id IN (SELECT MAX(id) FROM occupancy_logs GROUP BY space_id)
-    ) l ON s.id = l.space_id
-  `;
-
-    db.all(query, [], (err, rows) => {
+    // Manually join since mock DB is limited
+    db.all('SELECT * FROM spaces', [], (err, spaces) => {
         if (err) return res.status(500).json({ error: err.message });
 
-        const results = rows.map(row => ({
-            ...row,
-            utilization: row.current_count ? parseFloat((row.current_count / row.capacity).toFixed(2)) : 0
-        }));
+        db.all('SELECT * FROM occupancy_logs', [], (err, logs) => {
+            if (err) return res.status(500).json({ error: err.message });
 
-        res.json(results);
+            const results = spaces.map(space => {
+                // Find latest log for this space
+                const spaceLogs = logs.filter(l => l.space_id === space.id);
+                const latestLog = spaceLogs.length > 0
+                    ? spaceLogs.sort((a, b) => b.id - a.id)[0]
+                    : null;
+
+                const current_count = latestLog ? latestLog.current_count : 0;
+                const utilization = parseFloat((current_count / space.capacity).toFixed(2));
+
+                return {
+                    space_id: space.id,
+                    space_name: space.name,
+                    current_count: current_count,
+                    capacity: space.capacity,
+                    utilization: utilization
+                };
+            });
+
+            res.json(results);
+        });
     });
 };
 
 // GET /api/occupancy/heatmap
 exports.getHeatmapData = (req, res) => {
-    const query = `
-    SELECT s.name, (CAST(l.current_count AS REAL) / s.capacity) * 100 as occupancy_percentage
-    FROM spaces s
-    JOIN (
-      SELECT space_id, current_count
-      FROM occupancy_logs
-      WHERE id IN (SELECT MAX(id) FROM occupancy_logs GROUP BY space_id)
-    ) l ON s.id = l.space_id
-  `;
-
-    db.all(query, [], (err, rows) => {
+    // Manually join since mock DB is limited
+    db.all('SELECT * FROM spaces', [], (err, spaces) => {
         if (err) return res.status(500).json({ error: err.message });
-        res.json(rows);
+
+        db.all('SELECT * FROM occupancy_logs', [], (err, logs) => {
+            if (err) return res.status(500).json({ error: err.message });
+
+            const results = spaces.map(space => {
+                const spaceLogs = logs.filter(l => l.space_id === space.id);
+                const latestLog = spaceLogs.length > 0
+                    ? spaceLogs.sort((a, b) => b.id - a.id)[0]
+                    : null;
+
+                const current_count = latestLog ? latestLog.current_count : 0;
+                const occupancy_percentage = (current_count / space.capacity) * 100;
+
+                return {
+                    name: space.name,
+                    occupancy_percentage: occupancy_percentage
+                };
+            });
+
+            res.json(results);
+        });
     });
 };
 
