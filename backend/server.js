@@ -41,6 +41,12 @@ initDB().then(() => {
     app.listen(PORT, () => {
         console.log(`PulseCampus + ReSourceX Backend running on port ${PORT}`);
         console.log(`System Mode: ${process.env.SYSTEM_MODE}`);
+
+        // Start Random Data Simulation
+        const { runSimulationStep } = require('./controllers/pulseController');
+        console.log('Starting Live Occupancy Simulation (10s interval)...');
+        setInterval(runSimulationStep, 10000);
+        runSimulationStep(); // Initial run
     });
 }).catch(err => {
     console.error('Failed to initialize database:', err);

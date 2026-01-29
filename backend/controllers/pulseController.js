@@ -114,3 +114,18 @@ exports.getPredictions = async (req, res) => {
         res.status(500).json({ error: error.message });
     }
 };
+// Simulation helper for periodic updates
+exports.runSimulationStep = () => {
+    db.all('SELECT id, capacity FROM spaces', [], (err, spaces) => {
+        if (err || !spaces) return;
+
+        spaces.forEach(space => {
+            const count = generateOccupancy(space.capacity);
+            db.run(
+                'INSERT INTO occupancy_logs (space_id, current_count) VALUES (?, ?)',
+                [space.id, count],
+                () => { }
+            );
+        });
+    });
+};
