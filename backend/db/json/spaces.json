@@ -40,5 +40,75 @@
     "type": "classroom",
     "capacity": 50,
     "timestamp": "2026-01-28T21:29:33.404Z"
+  },
+  {
+    "id": 7,
+    "name": "Engineering Lab 2",
+    "type": "classroom",
+    "capacity": 60,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Seminar Hall C",
+    "type": "hall",
+    "capacity": 120,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Innovation Hub",
+    "type": "lab",
+    "capacity": 80,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Room B-204",
+    "type": "classroom",
+    "capacity": 45,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Cafeteria Annex",
+    "type": "food",
+    "capacity": 150,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 12,
+    "name": "Sports Complex",
+    "type": "facility",
+    "capacity": 300,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 13,
+    "name": "Admin Block Wing",
+    "type": "office",
+    "capacity": 40,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 14,
+    "name": "Research Center",
+    "type": "lab",
+    "capacity": 100,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 15,
+    "name": "Physics Lab",
+    "type": "classroom",
+    "capacity": 35,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 16,
+    "name": "Open Amphitheatre",
+    "type": "hall",
+    "capacity": 400,
+    "timestamp": "2026-01-29T12:15:00.000Z"
   }
 ]

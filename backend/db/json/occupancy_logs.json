@@ -34,5 +34,65 @@
     "space_id": 6,
     "current_count": 1,
     "timestamp": "2026-01-28T21:29:33.488Z"
+  },
+  {
+    "id": 7,
+    "space_id": 7,
+    "current_count": 45,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 8,
+    "space_id": 8,
+    "current_count": 22,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 9,
+    "space_id": 9,
+    "current_count": 75,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 10,
+    "space_id": 10,
+    "current_count": 38,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 11,
+    "space_id": 11,
+    "current_count": 140,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 12,
+    "space_id": 12,
+    "current_count": 50,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 13,
+    "space_id": 13,
+    "current_count": 12,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 14,
+    "space_id": 14,
+    "current_count": 88,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 15,
+    "space_id": 15,
+    "current_count": 30,
+    "timestamp": "2026-01-29T12:15:00.000Z"
+  },
+  {
+    "id": 16,
+    "space_id": 16,
+    "current_count": 395,
+    "timestamp": "2026-01-29T12:15:00.000Z"
   }
 ]
