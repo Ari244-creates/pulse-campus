@@ -1,7 +1,7 @@
 const path = require('path');
 const JsonDb = require('../utils/jsonDb');
 
-const dbDir = path.resolve(process.cwd(), './db/json');
+const dbDir = path.resolve(__dirname, '../db/json');
 const db = new JsonDb(dbDir);
 
 const initDB = () => {
