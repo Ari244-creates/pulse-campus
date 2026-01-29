@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "key": "mess_crowd_index",
+    "value": "45",
+    "status": "STABLE",
+    "label": "Mess Crowd Index",
+    "unit": "%",
+    "timestamp": "2026-01-28T21:29:33.524Z"
+  },
+  {
+    "id": 2,
+    "key": "water_reserve",
+    "value": "88000",
+    "status": "OPTIMAL",
+    "label": "Water Reserve",
+    "unit": "L",
+    "timestamp": "2026-01-28T21:29:33.532Z"
+  },
+  {
+    "id": 3,
+    "key": "energy_saving",
+    "value": "12",
+    "status": "POSITIVE",
+    "label": "Energy Saving",
+    "unit": "%",
+    "timestamp": "2026-01-28T21:29:33.540Z"
+  },
+  {
+    "id": 4,
+    "key": "shuttle_eta",
+    "value": "04:20",
+    "status": "ON_TIME",
+    "label": "Shuttle ETA",
+    "unit": "min",
+    "timestamp": "2026-01-28T21:29:33.549Z"
+  },
+  {
+    "id": 5,
+    "key": "solar_contribution",
+    "value": "34.2",
+    "status": "OPTIMAL",
+    "label": "Solar Energy",
+    "unit": "kW",
+    "timestamp": "2026-01-28T21:29:33.557Z"
+  },
+  {
+    "id": 6,
+    "key": "power_draw",
+    "value": "420",
+    "status": "STABLE",
+    "label": "Power Draw",
+    "unit": "kWh",
+    "timestamp": "2026-01-28T21:29:33.564Z"
+  },
+  {
+    "id": 7,
+    "key": "water_capacity",
+    "value": "88",
+    "status": "NORMAL",
+    "label": "Water Capacity",
+    "unit": "%",
+    "timestamp": "2026-01-28T21:29:33.573Z"
+  }
+]

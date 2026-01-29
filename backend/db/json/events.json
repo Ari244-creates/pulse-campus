@@ -4,17 +4,17 @@
     "name": "Physics Final Exam",
     "priority": "exam",
     "space_id": 2,
-    "start_time": "2026-01-28T21:20:02.577Z",
-    "end_time": "2026-01-28T23:20:02.577Z",
-    "timestamp": "2026-01-28T21:20:02.578Z"
+    "start_time": "2026-01-28T21:29:33.508Z",
+    "end_time": "2026-01-28T23:29:33.508Z",
+    "timestamp": "2026-01-28T21:29:33.508Z"
   },
   {
     "id": 2,
     "name": "Web Dev Workshop",
     "priority": "class",
     "space_id": 6,
-    "start_time": "2026-01-28T21:20:02.577Z",
-    "end_time": "2026-01-28T23:20:02.577Z",
-    "timestamp": "2026-01-28T21:20:02.582Z"
+    "start_time": "2026-01-28T21:29:33.508Z",
+    "end_time": "2026-01-28T23:29:33.508Z",
+    "timestamp": "2026-01-28T21:29:33.512Z"
   }
 ]

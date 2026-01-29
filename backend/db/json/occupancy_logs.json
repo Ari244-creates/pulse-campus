@@ -3,36 +3,36 @@
     "id": 1,
     "space_id": 1,
     "current_count": 12,
-    "timestamp": "2026-01-28T21:20:02.546Z"
+    "timestamp": "2026-01-28T21:29:33.412Z"
   },
   {
     "id": 2,
     "space_id": 2,
     "current_count": 1,
-    "timestamp": "2026-01-28T21:20:02.550Z"
+    "timestamp": "2026-01-28T21:29:33.416Z"
   },
   {
     "id": 3,
     "space_id": 3,
-    "current_count": 24,
-    "timestamp": "2026-01-28T21:20:02.553Z"
+    "current_count": 10,
+    "timestamp": "2026-01-28T21:29:33.420Z"
   },
   {
     "id": 4,
     "space_id": 4,
-    "current_count": 2,
-    "timestamp": "2026-01-28T21:20:02.557Z"
+    "current_count": 0,
+    "timestamp": "2026-01-28T21:29:33.425Z"
   },
   {
     "id": 5,
     "space_id": 5,
-    "current_count": 3,
-    "timestamp": "2026-01-28T21:20:02.564Z"
+    "current_count": 5,
+    "timestamp": "2026-01-28T21:29:33.454Z"
   },
   {
     "id": 6,
     "space_id": 6,
-    "current_count": 2,
-    "timestamp": "2026-01-28T21:20:02.570Z"
+    "current_count": 1,
+    "timestamp": "2026-01-28T21:29:33.488Z"
   }
 ]

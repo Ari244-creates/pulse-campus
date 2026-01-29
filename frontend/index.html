@@ -514,7 +514,8 @@
                                 <span class="text-orange-400">Lunch Peak In 12m</span>
                             </div>
                             <div class="h-2 w-full bg-white/5 rounded-full overflow-hidden">
-                                <div class="h-full bg-gradient-to-r from-cyan-500 to-orange-500 shadow-[0_0_10px_rgba(6,182,212,0.3)]"
+                                <div id="messCrowdBar"
+                                    class="h-full bg-gradient-to-r from-cyan-500 to-orange-500 shadow-[0_0_10px_rgba(6,182,212,0.3)] transition-all duration-1000"
                                     style="width: 78%"></div>
                             </div>
                         </div>
@@ -522,12 +523,12 @@
                         <div class="grid grid-cols-2 gap-4">
                             <div class="bg-white/5 p-3 rounded-lg border border-white/5">
                                 <div class="text-[8px] text-gray-500 uppercase mb-1">Water Reserve</div>
-                                <div class="text-xl font-bold mono">88k <span
+                                <div id="waterReserve" class="text-xl font-bold mono">88k <span
                                         class="text-[10px] font-normal text-gray-500">L</span></div>
                             </div>
                             <div class="bg-white/5 p-3 rounded-lg border border-white/5">
                                 <div class="text-[8px] text-gray-500 uppercase mb-1">Energy Saving</div>
-                                <div class="text-xl font-bold mono text-emerald-400">+12%</div>
+                                <div id="energySaving" class="text-xl font-bold mono text-emerald-400">+12%</div>
                             </div>
                         </div>
 
@@ -559,15 +560,15 @@
                             <div class="shuttle-path">
                                 <div class="shuttle-dot"></div>
                             </div>
-                            <div class="text-center text-xs text-gray-300 mt-2">Arriving in <span
+                            <div class="text-center text-xs text-gray-300 mt-2">Arriving in <span id="shuttleETA"
                                     class="text-blue-400 font-bold">04:20</span></div>
                         </div>
 
                         <div class="grid grid-cols-2 gap-4">
-                            <div class="text-center">
-                                <div class="text-[8px] text-gray-500 uppercase mb-1">Faculty Parking</div>
-                                <div class="text-lg font-bold text-orange-400">92% <span
-                                        class="text-[10px] text-gray-500">Full</span></div>
+                            <div class="flex justify-between items-center bg-white/5 p-3 rounded-lg">
+                                <div class="text-[8px] text-gray-400 uppercase font-bold">Power Draw</div>
+                                <div class="text-lg font-bold mono text-cyan-400"><span id="powerDraw">420</span> <span
+                                        class="text-[10px] text-gray-500 font-normal">kWh</span></div>
                             </div>
                             <div class="text-center">
                                 <div class="text-[8px] text-gray-500 uppercase mb-1">Visitor Spots</div>
@@ -594,8 +595,9 @@
                             <div>
                                 <div class="text-[8px] text-gray-400 uppercase font-bold tracking-widest">Solar Energy
                                     Contribution</div>
-                                <div class="text-2xl font-bold mono text-emerald-400">34.2 <span
-                                        class="text-xs font-normal">kW</span></div>
+                                <div class="text-2xl font-bold mono text-emerald-400"><span
+                                        id="solarContribution">34.2</span> <span class="text-xs font-normal">kW</span>
+                                </div>
                             </div>
                             <div class="text-right text-[10px] text-emerald-400 font-bold">+5% Today</div>
                         </div>
@@ -749,6 +751,9 @@
     <div id="toastContainer" class="fixed bottom-6 right-6 z-[100] space-y-3 pointer-events-none"></div>
 
     <script>
+        // API Base URL
+        const API_BASE = 'http://localhost:5000/api';
+
         // Neural Network Background
         const canvas = document.getElementById('neuralCanvas');
         const ctx = canvas.getContext('2d');
@@ -843,17 +848,78 @@
         // Current Time Update
         function updateTime() {
             const now = new Date();
-            document.getElementById('currentTime').textContent = now.toLocaleTimeString('en-US', {
-                hour: '2-digit',
-                minute: '2-digit',
-                hour12: false
-            });
+            const timeEl = document.getElementById('currentTime');
+            if (timeEl) {
+                timeEl.textContent = now.toLocaleTimeString('en-US', {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    hour12: false
+                });
+            }
         }
-        setInterval(updateTime, 1000);
-        updateTime();
 
-        // API Base URL
-        const API_BASE = 'http://localhost:5000/api';
+        // --- Live Telemetry Integration ---
+
+        async function updateCampusTelemetry() {
+            try {
+                const response = await fetch(`${API_BASE}/telemetry`);
+                const data = await response.json();
+
+                // 1. Mess Crowd Index
+                if (data.mess_crowd_index) {
+                    const bar = document.getElementById('messCrowdBar');
+                    if (bar) bar.style.width = `${data.mess_crowd_index.value}%`;
+                }
+
+                // 2. Water Reserve
+                if (data.water_reserve) {
+                    const el = document.getElementById('waterReserve');
+                    if (el) el.innerHTML = `${(parseFloat(data.water_reserve.value) / 1000).toFixed(1)}k <span class="text-[10px] font-normal text-gray-500">L</span>`;
+                }
+
+                // 3. Energy Saving
+                if (data.energy_saving) {
+                    const el = document.getElementById('energySaving');
+                    if (el) el.textContent = `+${data.energy_saving.value}%`;
+                }
+
+                // 4. Shuttle ETA
+                if (data.shuttle_eta) {
+                    const el = document.getElementById('shuttleETA');
+                    if (el) el.textContent = data.shuttle_eta.value;
+                }
+
+                // 5. Solar Energy
+                if (data.solar_contribution) {
+                    const el = document.getElementById('solarContribution');
+                    if (el) el.textContent = data.solar_contribution.value;
+                }
+
+                // 6. Power Draw
+                if (data.power_draw) {
+                    const el = document.getElementById('powerDraw');
+                    if (el) el.textContent = data.power_draw.value;
+                }
+
+                // Simulate drift on backend for next poll
+                Object.keys(data).forEach(key => {
+                    fetch(`${API_BASE}/telemetry/update`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ key })
+                    });
+                });
+
+            } catch (error) {
+                console.error("Telemetry Sync Failed:", error);
+            }
+        }
+
+        // Initialize Live Systems
+        setInterval(updateTime, 1000);
+        setInterval(updateCampusTelemetry, 3000); // Poll every 3 seconds
+        updateTime();
+        updateCampusTelemetry();
 
         // School Switching Logic
         function switchSchool(school) {

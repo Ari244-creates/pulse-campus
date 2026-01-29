@@ -73,6 +73,28 @@ const seed = async () => {
         });
 
         console.log('Sample events seeded.');
+
+        // Seed Telemetry
+        const telemetry = [
+            { key: 'mess_crowd_index', value: '45', unit: '%', status: 'STABLE', label: 'Mess Crowd Index' },
+            { key: 'water_reserve', value: '88000', unit: 'L', status: 'OPTIMAL', label: 'Water Reserve' },
+            { key: 'energy_saving', value: '12', unit: '%', status: 'POSITIVE', label: 'Energy Saving' },
+            { key: 'shuttle_eta', value: '04:20', unit: 'min', status: 'ON_TIME', label: 'Shuttle ETA' },
+            { key: 'solar_contribution', value: '34.2', unit: 'kW', status: 'OPTIMAL', label: 'Solar Energy' },
+            { key: 'power_draw', value: '420', unit: 'kWh', status: 'STABLE', label: 'Power Draw' },
+            { key: 'water_capacity', value: '88', unit: '%', status: 'NORMAL', label: 'Water Capacity' }
+        ];
+
+        for (const t of telemetry) {
+            await new Promise((resolve, reject) => {
+                db.run('INSERT INTO telemetry (key, value, status, label, unit) VALUES (?, ?, ?, ?, ?)',
+                    [t.key, t.value, t.status, t.label, t.unit], (err) => {
+                        if (err) reject(err);
+                        else resolve();
+                    });
+            });
+        }
+        console.log('Telemetry data seeded.');
         console.log('JSON Seeding complete!');
 
     } catch (error) {

@@ -29,10 +29,12 @@ app.get('/api/health', (req, res) => {
 const pulseRoutes = require('./routes/pulseRoutes');
 const resourceRoutes = require('./routes/resourceRoutes');
 const feedbackRoutes = require('./routes/feedbackRoutes');
+const telemetryRoutes = require('./routes/telemetryRoutes');
 
 app.use('/api', pulseRoutes);
 app.use('/api', resourceRoutes);
 app.use('/api', feedbackRoutes);
+app.use('/api', telemetryRoutes);
 
 // Initialize Database and Start Server
 initDB().then(() => {
